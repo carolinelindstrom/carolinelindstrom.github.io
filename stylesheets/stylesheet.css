@@ -47,6 +47,9 @@ nav a.navbar-brand {
   font-size: 0.813em;
 }
 
+#text-span{
+  font-family: "Open Sans", sans-serif;
+}
 
 /* Hover Styling */
 .donut-path:hover{
