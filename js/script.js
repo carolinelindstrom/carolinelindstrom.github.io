@@ -91,6 +91,7 @@ function setup(error, data) {
     .enter()
     .append("circle")
     .on("click", function(d, i) {
+      toggleDonutButton(1);
       document.getElementById(i).style.stroke = 'white';
       document.getElementById(i).style['stroke-width']= '0.2em';
       if (i == 0) {
