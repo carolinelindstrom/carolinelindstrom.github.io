@@ -21,13 +21,13 @@
           <li><a href="about.html">ABOUT</a></li>
         </ul>
     
-      <form class="navbar-form navbar-left" role="search">
-        <div class="form-group">
-          <input type="text" id="skill-value" class="form-control" list="skill-list" placeholder="Search" onkeydown="checkEnterPress(event)">
-          <datalist id="skill-list"></datalist>
-        </div>
-        <button class="btn btn-default" type="button" onclick="skillSearch()"><i class="glyphicon glyphicon-search"></i></button>
-      </form>
+      <div class="input-group" style="float:left;">
+        <input type="text" id="skill-value" class="form-control" list="skill-list" placeholder="Search" onkeydown="checkEnterPress(event)">
+        <datalist id="skill-list"></datalist>
+        <span class="input-group-btn">
+          <button class="btn btn-secondary" type="button" onclick="skillSearch()"><i class="glyphicon glyphicon-search"></i></button>
+        </span>
+      </div>
       </div>
     </div>
   </nav>
