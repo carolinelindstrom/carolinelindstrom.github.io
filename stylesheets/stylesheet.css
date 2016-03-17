@@ -163,3 +163,7 @@ nav a.navbar-brand {
 .yellow{
   color: #D7C4AA;
 }
+
+#wiki-link {
+  cursor: pointer;
+}
