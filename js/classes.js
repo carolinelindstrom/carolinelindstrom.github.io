@@ -169,7 +169,7 @@ class Donut {
     var display = function(info) {
       d3.selectAll('#text-span').remove();
       var textToPrint = info.summary.summary;
-      console.log(info.summary);
+      console.log(info);
       if(textToPrint){
         textToPrint = textToPrint.match(/(\S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+)|(\S+ \S+ \S+ \S+ \S+ \S+ \S+)(?= *\n|$)|\S+/g);
         for(var j=0;j<6; j++){
@@ -196,22 +196,22 @@ class Donut {
           .attr('id', 'text-span')
           .text(textToPrint[2])
           .append("tspan")
-          .attr("x", (screenWidth / 2) + 60*widthFactor)
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 15)
           .attr('id', 'text-span')
           .text(textToPrint[3])
           .append("tspan")
-          .attr("x", (screenWidth / 2) + 60*widthFactor)
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 15)
           .attr('id', 'text-span')
           .text(textToPrint[4])
           .append("tspan")
-          .attr("x", (screenWidth / 2) + 60*widthFactor)
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 15)
           .attr('id', 'text-span')
           .text(textToPrint[5]+'...')
           .append("tspan")
-          .attr("x", (screenWidth / 2) + 60*widthFactor)
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
           .attr('id', 'text-span')
           .text('More info: http://en.wikipedia.org/wiki/' + searchWord);
@@ -223,7 +223,7 @@ class Donut {
       		.classed("active-section", true)
       		.classed("hidden-section", false)
           .append("tspan")
-          .attr("x", (screenWidth / 2) + 60*widthFactor)
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('id', 'text-span')
           .text("Unfortunately we don't have any additional data about "+ data.key +".");
       }
@@ -237,9 +237,9 @@ class Donut {
       .classed("active-section", true)
       .classed("hidden-section", false)
       .append("tspan")
-      .attr("x", (screenWidth / 2) + 60*widthFactor)
+      .attr("x", (screenWidth / 2) + 160*widthFactor)
       .attr('id', 'text-span')
-      .text("Unfortunately we don't have any additional data about "+ searchWord +".");
+      .text("Unfortunately we don't have any additional data about "+ data.key +".");
 
 
     WIKIPEDIA.getData("http://en.wikipedia.org/wiki/" + searchWord, display, function(error) {
