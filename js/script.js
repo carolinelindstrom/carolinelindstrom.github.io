@@ -423,6 +423,9 @@ function mainViewAnimation(){
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform);
   bubbleText
+    .on("mouseover", tooltip.show)
+    .on("mousemove", tooltip.move)
+    .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
   //detailBubbles.style("opacity", 0);
   //detailText.style("opacity", 0);
@@ -454,7 +457,7 @@ function skillSearch(value) {
     for (i = 0; i < json.length; i++) {
       for (j = 0; j < json[i].skills.length; j++) {
         if (json[i].skills[j].name !== undefined) {
-          if (json[i].skills[j].name == skill) {
+          if (json[i].skills[j].name.toLowerCase() == skill.toLowerCase()) {
             valueList.push(+(json[i].skills[j].value));
           };
         };
@@ -469,7 +472,7 @@ function skillSearch(value) {
 
           for (j = 0; j < json[i].skills.length; j++) {
             if (json[i].skills[j].name !== undefined) {
-              if (json[i].skills[j].name == skill) {
+              if (json[i].skills[j].name.toLowerCase() == skill.toLowerCase()) {
                 rad[i] = (parseInt(json[i].skills[j].value) / d3.max(valueList) * 80);
                 return rad[i];
               }
@@ -556,6 +559,14 @@ function bubbleTransform(d, i) {
 
     //Hide tooltip in the detailView; & change onClick event
   bubble.on("mouseover", tooltip.hide)
+    .on("mousemove", tooltip.hide)
+    .on("mouseout", tooltip.hide)
+    .on("click", function() {
+      mainViewAnimation();
+      backTransition();
+    });
+
+  bubbleText.on("mouseover", tooltip.hide)
     .on("mousemove", tooltip.hide)
     .on("mouseout", tooltip.hide)
     .on("click", function() {
