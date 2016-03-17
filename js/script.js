@@ -66,9 +66,26 @@ d3.json("data/skillsParent.json", dropdown);
 function dropdown(error, json) {
   var options = '';
   var skillist = [];
-
+  d3.json("data/alumni.json", function(data) {
+    for (var i = 0; i < data.length; i++) {
+      var company = data[i].Company;
+      var profession = data[i].Profession;
+      //console.log(val);
+      if (skillist.indexOf(company) == -1) {
+        options += '<option value="' + company + '"/>';
+        skillist.push(company);
+      }
+      if (skillist.indexOf(profession) == -1) {
+        options += '<option value="' + profession + '"/>';
+        skillist.push(profession);
+      }
+    }
+    document.getElementById('skill-list').innerHTML = options;
+  });
+    //console.log((matchAsData(data, ["Company", "Education"], ["Ericsson", "Computer Science"])));
   for (var i = 0; i < json.length; i++) {
     for (var j = 0; j < json[i].skills.length; j++) {
+        //console.log(data);
       //console.log("j: ", j);
       //console.log(json[i].skills[j].name);
       var val = json[i].skills[j].name;
@@ -192,7 +209,7 @@ function setup(error, data) {
     .style("opacity", 0)
     .attr("class", "program-circle")
     .attr("id", function(d,i){
-      return d[1];
+      return d[0];
     });
 
   //Creating text on circles for all programms, shown in first view
@@ -204,11 +221,11 @@ function setup(error, data) {
     .on("click", bubbleTransform)
     .on("mouseover", function(d,i){
       tooltip.show(d);
-      document.getElementById(programs[i][1]).style.opacity = 0.3;
+      document.getElementById(programs[i][0]).style.opacity = 0.3;
     })
     .on("mouseout", function(d,i){
       tooltip.hide();
-      document.getElementById(programs[i][1]).style.opacity = 1;
+      document.getElementById(programs[i][0]).style.opacity = 1;
     })
     .on("mousemove", tooltip.move)
     //Move style to css file
@@ -462,6 +479,96 @@ function skillSearch(value) {
   var skill = document.getElementById("skill-value").value;
   var valueList = [];
   var rad = [];
+  var value;
+  var educationCheck = [];
+  var educations = {};
+  var count = 1;
+
+  var companyVal;
+
+  d3.json("data/alumni.json", function(json) {
+
+    for (i = 0; i < json.length; i++) {
+      if (json[i].Company == skill || json[i].Profession == skill) {
+        if (json[i].Company == skill) {
+          value = "Company";
+          companyVal = json[i].Education;
+          if (educationCheck.indexOf(companyVal) == -1) {
+            educationCheck.push(companyVal);
+            educations[companyVal] = 1;
+          } else {
+            educations[companyVal] = educations[companyVal] + 1;
+          }
+            
+        
+        } else if (json[i].Profession == skill) {
+          value = "Profession";
+          professionVal = json[i].Education;
+          if (educationCheck.indexOf(professionVal) == -1) {
+            educationCheck.push(professionVal);
+            educations[professionVal] = 1;
+          } else {
+            educations[professionVal] = educations[professionVal] + 1;
+          }
+        }
+      }
+    }
+
+    console.log(educations["Electrical Engineering"]);
+
+    if (value) {
+        bubble.transition()
+        .delay(100)
+        .duration(2000)
+        .attr("r", function(d, i) {
+            console.log(programs[i][0]);
+            var program = programs[i][0];
+            //if (json[i][value].toLowerCase() == skill.toLowerCase()) {
+            if (skill) {
+              for (j = 0; j < educationCheck.length; j++) {
+                if (program == educationCheck[j]) {
+                  var max = Math.max.apply(null, Object.keys(educations).map(function(e) { return educations[e]; }));
+                  rad[i] = (educations[program] / max) * 80;
+                  console.log(rad[i]);
+                  return rad[i];
+                }  
+              }
+            } else {
+              return 50;
+            }
+
+            if (!rad[i]) {
+              return 0;
+            }
+          });
+          
+            //If search query empty, reset size
+
+        bubbleText.transition()
+        .delay(100)
+        .duration(2000)
+        .style("opacity", function(d, i) {
+          var program = programs[i][0];
+            //få tillbaks namnen om man trycker på inget
+            if (skill == "") {
+              return 1;
+            }
+            else if (rad[i] > 0) {
+
+              return 1;
+            } else {
+              return 0;
+            }  
+        });
+            
+      }
+      
+    });
+
+      
+        
+      
+
 
   d3.json("data/skillsParent.json", function(json) {
 
@@ -506,7 +613,7 @@ function skillSearch(value) {
       .style("opacity", function(d, i) {
 
         for (j = 0; j < json[i].skills.length; j++) {
-          console.log(json[i].skills[j].name);
+          //console.log(json[i].skills[j].name);
           //få tillbaks namnen om man trycker på inget
           if (skill == "") {
             return 1;
