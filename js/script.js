@@ -252,7 +252,7 @@ function setup(error, data) {
      .classed("active-section", false)
      .attr("id", "donut-details-text")
      .attr("x", (screenWidth / 2) + 120)
-     .attr("y", screenHeight*3 / 4 + 20)
+     .attr("y", screenHeight*3 / 4 + 30)
      //Move style to css file
      .style("opacity", 1)
      //Apply text from data
@@ -479,7 +479,7 @@ function skillSearch(value) {
   var skill = document.getElementById("skill-value").value;
   var valueList = [];
   var rad = [];
-  
+
   //hide welcome text when searching
   if (skill == "") {
         welcometext.transition()
