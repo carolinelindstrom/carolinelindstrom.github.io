@@ -411,6 +411,9 @@ function mainViewAnimation(){
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform);
   bubbleText
+    .on("mouseover", tooltip.show)
+    .on("mousemove", tooltip.move)
+    .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
   //detailBubbles.style("opacity", 0);
   //detailText.style("opacity", 0);
@@ -544,6 +547,14 @@ function bubbleTransform(d, i) {
 
     //Hide tooltip in the detailView; & change onClick event
   bubble.on("mouseover", tooltip.hide)
+    .on("mousemove", tooltip.hide)
+    .on("mouseout", tooltip.hide)
+    .on("click", function() {
+      mainViewAnimation();
+      backTransition();
+    });
+
+  bubbleText.on("mouseover", tooltip.hide)
     .on("mousemove", tooltip.hide)
     .on("mouseout", tooltip.hide)
     .on("click", function() {
