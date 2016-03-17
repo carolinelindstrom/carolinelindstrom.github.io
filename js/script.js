@@ -6,7 +6,6 @@ var navBarHeight = 71;
 var screenHeight = window.innerHeight - navBarHeight - 2*mainPadding;
 var screenWidth = window.innerWidth - 2*mainPadding;
 
-var panAmount = 250;
 
 var heightFactor = screenHeight / 800;
 var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
@@ -14,8 +13,13 @@ var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
 var globalMargin = screenHeight / 10;
 
 var categorySize = 50 * heightFactor;
-var r1 = 250;
-var delta = (2 * Math.PI) / 14; //programs.length;
+
+var r1 = 200 * widthFactor;
+var panAmount = 250 * widthFactor;
+
+var bubbleRadius = 40 * widthFactor;
+
+var delta = ( 2 * Math.PI) / 14; //programs.length;
 var detailDelta = (2 * Math.PI) / 9;
 
 var detailX = (screenWidth / 2)-120;
@@ -87,8 +91,20 @@ function setup(error, data) {
     .enter()
     .append("circle")
     .on("click", function(d, i) {
+      document.getElementById(i).style.stroke = 'white';
+      document.getElementById(i).style['stroke-width']= '0.2em';
+      if (i == 0) {
+        document.getElementById("1").style.stroke = 'none';
+        document.getElementById("2").style.stroke = 'none';
+      } else if (i == 1) {
+        document.getElementById("0").style.stroke = 'none';
+        document.getElementById("2").style.stroke = 'none';
+      }
+
       if (i == 2) {
         showSkillsDonut();
+        document.getElementById("0").style.stroke = 'none';
+        document.getElementById("1").style.stroke = 'none';
       } else {
         var array = filterOnClick(data, clickedProgram, i);
         bubblePan(d, i);
@@ -123,8 +139,20 @@ function setup(error, data) {
     .attr("id", "detail-text")
     .on("click", function(d, i) {
       //If clicked on skills text
-      if(i == 2){
+      document.getElementById(i).style.stroke = 'white';
+      document.getElementById(i).style['stroke-width']= '0.2em';
+      if (i == 0) {
+        document.getElementById("1").style.stroke = 'none';
+        document.getElementById("2").style.stroke = 'none';
+      } else if (i == 1) {
+        document.getElementById("0").style.stroke = 'none';
+        document.getElementById("2").style.stroke = 'none';
+      }
+
+      if (i == 2) {
         showSkillsDonut();
+        document.getElementById("0").style.stroke = 'none';
+        document.getElementById("1").style.stroke = 'none';
       }
       //in companies or professions
       else{
@@ -371,6 +399,7 @@ function toggleDonutButton(buttonNr){
 //End of setup function
 function mainViewAnimation(){
   if(donut){donut.delete();};
+
   bubble.transition()
     .delay(function(d, i) {
       return i * 100
@@ -378,7 +407,9 @@ function mainViewAnimation(){
     .duration(1300)
     .style("opacity", 1)
 
-    .attr("r", "50")
+    .attr('r', function(){
+      return bubbleRadius;
+    })
     .attr("cx", function(d, i) {
       return r1 * Math.cos(+i * delta) + screenWidth / 2;
     })
@@ -408,6 +439,9 @@ function mainViewAnimation(){
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform);
   bubbleText
+    .on("mouseover", tooltip.show)
+    .on("mousemove", tooltip.move)
+    .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
   //detailBubbles.style("opacity", 0);
   //detailText.style("opacity", 0);
@@ -439,7 +473,7 @@ function skillSearch(value) {
     for (i = 0; i < json.length; i++) {
       for (j = 0; j < json[i].skills.length; j++) {
         if (json[i].skills[j].name !== undefined) {
-          if (json[i].skills[j].name == skill) {
+          if (json[i].skills[j].name.toLowerCase() == skill.toLowerCase()) {
             valueList.push(+(json[i].skills[j].value));
           };
         };
@@ -450,17 +484,17 @@ function skillSearch(value) {
     bubble.transition()
       .delay(100)
       .duration(2000)
-      .attr("r", function(d, i) {
+      .attr('r', function(d, i) {
 
           for (j = 0; j < json[i].skills.length; j++) {
             if (json[i].skills[j].name !== undefined) {
-              if (json[i].skills[j].name == skill) {
+              if (json[i].skills[j].name.toLowerCase() == skill.toLowerCase()) {
                 rad[i] = (parseInt(json[i].skills[j].value) / d3.max(valueList) * 80);
                 return rad[i];
               }
               //If search query empty, reset size
               else if (skill == "") {
-                return 50;
+                return bubbleRadius;
               }
             };
           };
@@ -541,6 +575,14 @@ function bubbleTransform(d, i) {
 
     //Hide tooltip in the detailView; & change onClick event
   bubble.on("mouseover", tooltip.hide)
+    .on("mousemove", tooltip.hide)
+    .on("mouseout", tooltip.hide)
+    .on("click", function() {
+      mainViewAnimation();
+      backTransition();
+    });
+
+  bubbleText.on("mouseover", tooltip.hide)
     .on("mousemove", tooltip.hide)
     .on("mouseout", tooltip.hide)
     .on("click", function() {
