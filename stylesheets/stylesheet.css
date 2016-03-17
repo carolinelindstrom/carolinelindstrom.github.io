@@ -117,17 +117,17 @@ nav a.navbar-brand {
 /* About tab */
 .about-body{
   overflow-y: scroll;
+  font-family: "Open Sans", sans-serif;
 }
 
 .about-container{
-  font-family: "Open Sans", sans-serif;
   opacity: 1;
   color: #ffffff;
+  margin-top: 5%;
 }
 
 .creators-wrapper{
-  font-family: "Open Sans", sans-serif;
-  margin-top: 25%;
+  margin-top: 20%;
 }
 
 .creator{
@@ -140,6 +140,11 @@ nav a.navbar-brand {
 
 .text-left{
   text-align: left;
+}
+
+.about-line{
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .fa{
