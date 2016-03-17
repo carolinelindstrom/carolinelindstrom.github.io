@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  background-color: #282828;
+  overflow: hidden;
+}
+
+nav a.navbar-brand {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
+/*.input {
+  height: 30px;
+  width: 200px;
+  margin-top: 20px;
+  font-size: 17pt;
+}*/
+.button {
+  height: 30px;
+  width: 30px;
+  margin-top: -16px;
+}
+.toggleButton {
+  fill: #333;
+  stroke-width: 0.05em;
+  stroke: white;
+}
+
+#search-glyph {
+  font-size: 12pt;
+  right: 6px !important;
+}
+.bubble-text {
+  fill: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+
+/* Hover Styling */
+.donut-path:hover{
+  opacity: 0.3;
+}
+
+.program-circle:hover{
+  opacity: 0.3 !important;
+}
+
+.detail-bubble:hover{
+  fill: #696969;
+}
+
+/* Tooltip Styling */
+.tooltip {
+  font-family: "Open Sans", sans-serif;
+  padding: 12px;
+  max-width: 25rem;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+}
+/*.tooltip h1 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: bold;
+  color: #fff;
+}*/
+.tooltip p {
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: bold;
+  color: #ffffff;
+}
+/*For showing/hiding content when navigating*/
+
+.hidden-section {
+  display: none;
+}
+.active-section {
+  display: block!important;
+}
+.hidden-sub-section {
+  display: none;
+}
+.active-sub-section {
+  display: block!important;
+}
+
+/**/
+
+.donut-center-text{
+  font-family: "Open Sans", sans-serif;
+ /* font-size: 1vw;*/
+  fill:#FFFFFF;
+}
+
+#donut-details-text{
+  font-size: 1em;
+  max-width: 280px;
+  max-height: 280px;
+  overflow: hidden;
+  fill:#bbbbbb;
+}
+.donut-detail-header{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.about-container{
+  font-family: "Open Sans", sans-serif;
+  opacity: 1;
+  color: #ffffff;
+}

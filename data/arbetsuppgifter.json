@@ -1,0 +1,93 @@
+{
+ "name": "examen",
+ "children": [
+  {
+   "name": "Arkitektexamen",
+   "children": [
+      {"name": "Konstruktion/design","rank": 1},
+      {"name": "Annat","rank": 2},
+      {"name": "Projektarbete","rank": 3},
+      {"name": "Planläggnings-/layoutarbete","rank": 4},
+      {"name": "Uppgift saknas","rank": 5},
+      {"name": "Projektledning","rank": 6},
+      {"name": "Planering","rank": 7},
+      {"name": "Utredningsarbete","rank": 8},
+      {"name": "Försäljning","rank": 9},
+      {"name": "Produktion inom kärnverksamhet (inklusive tjänster)","rank": 10},
+      {"name": "Marknadsföring","rank": 11},
+      {"name": "Utbildning/undervisning","rank": 12}
+    ]
+  },
+  {
+   "name": "Civilingenjörsexamen",
+   "children": [
+    {"name": "Systemutveckling","rank": 1},
+    {"name": "Projektledning","rank": 2},
+    {"name": "Konstruktion/design","rank": 3},
+    {"name": "Produktutveckling","rank": 4},
+    {"name": "Annat","rank": 5},
+    {"name": "Forskning","rank": 6},
+    {"name": "Projektarbete","rank": 7},
+    {"name": "Affärsutveckling","rank": 8},
+    {"name": "Planering","rank": 9},
+    {"name": "Försäljning","rank": 10},
+    {"name": "Produktionsledning inom kärnverksamhet (inklusive tjänster)","rank": 11},
+    {"name": "Utredningsarbete","rank": 12},
+    {"name": "Produktionsutveckling/produktionsteknik/ rationalisering","rank": 13},
+    {"name": "Företagsledning","rank": 14},
+    {"name": "Processledning/driftsövervakning","rank": 15},
+    {"name": "Controller","rank": 16},
+    {"name": "Finansiering","rank": 17},
+    {"name": "Kvalitet","rank": 18},
+    {"name": "IT-support","rank": 19},
+    {"name": "Laboratoriearbete","rank": 20},
+    {"name": "Uppgift saknas","rank": 21},
+    {"name": "Inköp","rank": 22},
+    {"name": "Underhåll/driftsäkerhet","rank": 23},
+    {"name": "Administration","rank": 24},
+    {"name": "Marknadsföring","rank": 25},
+    {"name": "Materialadministration/logistik","rank": 26},
+    {"name": "Kundtjänst/help desk","rank": 27},
+    {"name": "Utbildning/undervisning","rank": 28},
+    {"name": "Planläggnings-/layoutarbete","rank": 29},
+    {"name": "Redovisning","rank": 30}, 
+    {"name": "Transportplanering/transporter","rank": 31},
+    {"name": "Human Relations","rank": 32}
+  ]
+  },
+  {
+   "name": "Högskoleingenjörsexamen",
+   "children": [
+      {"name": "Konstruktion/design","rank": 1},
+      {"name": "Annat","rank": 2},
+      {"name": "Systemutveckling","rank": 3},
+      {"name": "Försäljning","rank": 4},
+      {"name": "Projektledning","rank": 5},
+      {"name": "Underhåll/driftsäkerhet","rank": 6},
+      {"name": "Produktutveckling","rank": 7},
+      {"name": "IT-support","rank": 8},
+      {"name": "Produktion inom kärnverksamhet (inklusive tjänster)","rank": 9},
+      {"name": "Administration","rank": 10},
+      {"name": "Produktionsledning inom kärnverksamhet (inklusive tjänster)","rank": 11},
+      {"name": "Projektarbete","rank": 12},
+      {"name": "Produktionsutveckling/produktionsteknik/ rationalisering","rank": 13},
+      {"name": "Marknadsföring","rank": 14},
+      {"name": "Laboratoriearbete","rank": 15},
+      {"name": "Utbildning/undervisning","rank": 16},
+      {"name": "Utredningsarbete","rank": 17},
+      {"name": "Forskning","rank": 18},
+      {"name": "Inköp","rank": 19},
+      {"name": "Kvalitet","rank": 20},
+      {"name": "Processledning/driftsövervakning","rank": 21},
+      {"name": "Uppgift saknas","rank": 22},
+      {"name": "Affärsutveckling","rank": 23},
+      {"name": "Planering","rank": 24},
+      {"name": "Controller","rank": 25},
+      {"name": "Företagsledning","rank": 26},
+      {"name": "Kundtjänst/help desk","rank": 27},
+      {"name": "Materialadministration/logistik","rank": 28},
+      {"name": "Transportplanering/transporter","rank": 29}
+    ]
+  }
+]
+}

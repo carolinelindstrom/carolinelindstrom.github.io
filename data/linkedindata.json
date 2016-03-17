@@ -1,0 +1,86 @@
+{
+ "name": "Bork",
+ "children": [
+  {
+   "name": "Electrical Engineering",
+   "children": [
+    {
+     "name": "Top Skills",
+     "children": [
+      {"name": "Project Management", "size": 1385},
+      {"name": "Telecommunications", "size": 1193},
+      {"name": "Matlab", "size": 1176},
+      {"name": "Software Development", "size": 1041},
+      {"name": "C", "size": 893},
+      {"name": "C++", "size": 884},
+      {"name": "Embedded Systems", "size": 875},
+      {"name": "Integration", "size": 849},
+      {"name": "Scrum", "size": 845},
+      {"name": "Management", "size": 828}
+     ]
+    },
+    {
+     "name": "Working at",
+     "children": [
+      {"name": "Ericsson", "size": 438},
+      {"name": "ABB", "size": 132},
+      {"name": "Scania", "size": 92},
+      {"name": "ÅF", "size": 53},
+      {"name": "Saab", "size": 51}
+     ]
+    },
+    {
+     "name": "What are they doing?",
+     "children": [
+      {"name": "Engineering", "size": 1521},
+      {"name": "Information Technology", "size": 737},
+      {"name": "Consulting", "size": 608},
+      {"name": "Research", "size": 515},
+      {"name": "Program and Project Management", "size": 429}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "Computer Science",
+   "children": [
+    {
+     "name": "Top Skills",
+     "children": [
+      {"name": "Java", "size": 1951},
+      {"name": "Software Development", "size": 1714},
+      {"name": "Scrum", "size": 1439},
+      {"name": "Agile Methodologies", "size": 1275},
+      {"name": "Linux", "size": 1172},
+      {"name": "C++", "size": 1159},
+      {"name": "SQL", "size": 1138},
+      {"name": "JavaScript", "size": 1035},
+      {"name": "C", "size": 928},
+      {"name": "Python", "size": 875}
+
+     ]
+    },
+    {
+     "name": "Working at",
+     "children": [
+      {"name": "Ericsson", "size": 166},
+      {"name": "Google", "size": 49},
+      {"name": "Spotify", "size": 49},
+      {"name": "Netligt Consulting", "size": 48},
+      {"name": "SEB", "size": 34}
+     ]
+    },
+    {
+     "name": "What are they doing?",
+     "children": [
+      {"name": "Engineering", "size": 1320},
+      {"name": "Information Technology", "size": 1040},
+      {"name": "Consulting", "size": 641},
+      {"name": "Entrepreneurship", "size": 493},
+      {"name": "Research", "size": 378}
+     ]
+    }
+  ]
+  }
+  ]
+}

@@ -1,0 +1,157 @@
+header {
+	text-align: center;
+	margin: 0em 0;
+  	color: white;
+	right: 10px;
+	position: absolute;
+	z-index: 1;
+	text-shadow: rgb(202, 202, 202) 0px 1px 0px, rgb(202, 202, 202) 0px 2px 0px, rgb(202, 202, 202) 0px 3px 0px, rgb(202, 202, 202) 0px 4px 0px, rgba(0, 0, 0, 0.2) 0px 5px 1px, rgba(0, 0, 0, 0.298039) 0px 0px 10px, rgba(0, 0, 0, 0.4) 0px 3px 5px, rgba(0, 0, 0, 0.498039) 0px 6px 5px, rgba(0, 0, 0, 0.6) 0px 10px 10px;
+}
+
+header h1 {
+  font-size: 4.0em;
+  margin: 0em 0 0 0;
+  line-height: 1em;
+  word-spacing: .05em;
+  font-weight: bold;
+}
+
+header h2 {
+	font-size: 3.0em;
+	line-height: 1em;
+	word-spacing: .05em;
+}
+
+body {
+	text-align: center;
+  	width: 100%;
+  	height: 100%;
+}
+
+.tree {
+ 	/*height: 300px;
+	margin-top: 10px;
+	margin-left: 10px;
+	padding: 5px;
+	padding-top: 15px;*/
+	text-align: center;
+	position: fixed;
+}
+
+.tree-box {
+	display: block;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 1em;
+}
+
+.kth-box {
+	background-color: #1954a6;
+	color: white;
+	border-radius: 1em;
+	padding: 10px;
+}
+
+#computer-science {
+	background-color: rgb(226, 0, 127);
+	border-radius: 1em;
+	padding: 10px;
+}
+
+#electrical-engineering {
+	background-color: white;
+}
+
+#working-at {
+	background-color: #70C1B3;
+	border-radius: 1em;
+	padding: 10px;
+}
+
+#top-skills {
+	background-color: #FFE066;
+	border-radius: 1em;
+	padding: 10px;
+}
+
+#what-are-they-doing {
+	background-color: #F25F5C;
+	border-radius: 1em;
+	padding: 10px;
+}
+
+.node {
+	cursor: pointer;
+}
+
+.node:hover {
+	/*stroke: #fff;
+	stroke-width: 1.5px;*/
+}
+
+.node--leaf {
+ 	fill: #DBDBDB;
+}
+
+.label {
+	text-anchor: middle;
+	font: 1.3em "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.label,
+.node--root,
+.node--leaf {
+ 	pointer-events: none;
+}
+
+.chart-background{
+	background: #ddeeff;
+}
+
+.kth {
+	fill: #1954a6;
+	opacity: 0.5;
+}
+
+.electrical-engineering{
+	fill: #ffffff;
+	stroke: #65656c;
+	stroke-width: 5px;
+}
+
+.computer-science{
+	fill: #ffffff;
+	stroke: rgb(226, 0, 127);
+	stroke-width: 5px;
+
+}
+
+.top-skills{
+	fill: #FFE066;
+}
+
+.working-at{
+	fill: #70C1B3;
+}
+
+.doing{
+	fill: #F25F5C;
+}
+
+.child{
+	fill: #ffffdd;
+}
+
+/*Styling for data from arbetsuppgifter.json*/
+/*#Civilingenjörsexamen {
+	background: #33cc33;
+}
+
+#Arkitektexamen {
+	background: purple;
+	color: white;
+}
+
+#Högskoleingenjörsexamen {
+	background: yellow;
+}*/
