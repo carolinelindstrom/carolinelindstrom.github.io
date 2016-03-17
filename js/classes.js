@@ -64,13 +64,14 @@ class Tooltip {
 
 class Donut {
   constructor(name, data, showAll) {
-    var width = 360 * widthFactor;
-    var height = 360 * heightFactor;
+    var width = screenWidth / 2,
+        height = screenHeight / 2,
+        radius = Math.min(width, height) / 2,
+        donutWidth = radius / 2.5;
 
-    var x = screenWidth / 2 + panAmount * widthFactor ;
-    var y = screenHeight / 2;
-    var radius = Math.min(width, height) / 2;
-    var donutWidth = 75;
+    var x = screenWidth / 2 + panAmount * widthFactor,
+        y = screenHeight / 2;
+
     this.tooltip = new Tooltip((d) => d.data.key);
     this.color = (i) => d3.hcl(i * 27, 10 + 40 * Math.sin(i), 40 + (i % 2) * 40).toString();
     this.arc = d3.svg.arc()
@@ -191,12 +192,14 @@ class Donut {
 
   tweenPie(b) {
 
-    var width = 360;
-    var height = 360;
-    var x = (window.width / 2) + 300;
-    var y = 350;
-    var radius = Math.min(width, height) / 2;
-    var donutWidth = 75;
+    var width = screenWidth / 2,
+        height = screenHeight / 2,
+        radius = Math.min(width, height) / 2,
+        donutWidth = radius / 2.5;
+
+    var x = screenWidth / 2 + panAmount * widthFactor,
+        y = screenHeight / 2;
+        
     var tooltip = new Tooltip((d) => d.data.key);
     var color = (i) => d3.hcl(i * 27, 10 + 40 * Math.sin(i), 40 + (i % 2) * 40).toString();
     var arc = d3.svg.arc()
