@@ -9,6 +9,14 @@ nav a.navbar-brand {
   font-weight: bold;
 }
 
+.navbar-nav li a {
+ line-height: 50px;
+}
+
+.navbar-form{
+ line-height: 60px;
+}
+
 /*.input {
   height: 30px;
   width: 200px;
