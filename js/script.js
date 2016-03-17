@@ -233,8 +233,10 @@ function setup(error, data) {
      //Apply text from data
   //   .text("bralblblbllaaa Kul med jobb");
 
-  var containerX = screenWidth / 2.2 + panAmount * widthFactor;
-  var containerY = screenHeight / 5;
+  var toggleButtonWidth = screenWidth / 20,
+      toggleButtonHeight = screenHeight / 35;
+  var containerX = screenWidth / 2 + panAmount * widthFactor - toggleButtonWidth,
+      containerY = screenHeight / 5;
 
   var container = canvas.selectAll('div').data('a')
     .enter().append('g')
@@ -248,9 +250,8 @@ function setup(error, data) {
   container.append('rect')
     .attr('class', 'toggleButton')
     .attr('id', 'toggleDonut1')
-    .attr("height", 25)
-    .attr("width", 75)
-  //  .style("opacity", 0.5)
+    .attr("width", toggleButtonWidth)
+    .attr("height", toggleButtonHeight)
     .style('stroke-width', '0.2em')
     .on('click', function(){
       donut.showAll = false;
@@ -261,9 +262,9 @@ function setup(error, data) {
 container.append('rect')
     .attr('class', 'toggleButton')
     .attr('id', 'toggleDonut2')
-    .attr("x", 77)
-    .attr("height", 25)
-    .attr("width", 75)
+    .attr("x", toggleButtonWidth + 2)
+    .attr("width", toggleButtonWidth)
+    .attr("height", toggleButtonHeight)
   //  .style("opacity", 0.5)
     .on('click', function(){
       donut.showAll = true;
@@ -274,8 +275,8 @@ container.append('rect')
   container.append('text')
     .attr('class', 'bubble-text')
     .attr('id', 'toggleText1')
-    .attr('x', 75 - 55)
-    .attr('y', 25 / 2)
+    .attr('x', toggleButtonWidth / 4)
+    .attr('y', toggleButtonHeight / 2)
     .attr('dy', '.35em')
     .attr('fill', 'white')
     .text('TOP 10')
@@ -288,8 +289,8 @@ container.append('rect')
   container.append('text')
     .attr('class', 'bubble-text')
     .attr('id', 'toggleText2')
-    .attr('x', 150 - 50)
-    .attr('y', 25 / 2)
+    .attr('x', toggleButtonWidth * (2.7/2)  )
+    .attr('y', toggleButtonHeight / 2 )
     .attr('dy', '.35em')
     .attr('fill', 'white')
     .text('ALL')
@@ -410,6 +411,9 @@ function mainViewAnimation(){
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform);
   bubbleText
+    .on("mouseover", tooltip.show)
+    .on("mousemove", tooltip.move)
+    .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
   //detailBubbles.style("opacity", 0);
   //detailText.style("opacity", 0);
@@ -543,6 +547,14 @@ function bubbleTransform(d, i) {
 
     //Hide tooltip in the detailView; & change onClick event
   bubble.on("mouseover", tooltip.hide)
+    .on("mousemove", tooltip.hide)
+    .on("mouseout", tooltip.hide)
+    .on("click", function() {
+      mainViewAnimation();
+      backTransition();
+    });
+
+  bubbleText.on("mouseover", tooltip.hide)
     .on("mousemove", tooltip.hide)
     .on("mouseout", tooltip.hide)
     .on("click", function() {

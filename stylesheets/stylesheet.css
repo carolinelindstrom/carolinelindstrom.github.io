@@ -34,7 +34,7 @@ nav a.navbar-brand {
   fill: white;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
-  font-size: 10pt;
+  font-size: 0.813em;
 }
 
 
@@ -106,8 +106,22 @@ nav a.navbar-brand {
   font-weight: bold;
 }
 
+/* About tab */
+.about-body{
+  overflow-y: scroll;
+}
+
 .about-container{
   font-family: "Open Sans", sans-serif;
   opacity: 1;
   color: #ffffff;
+}
+
+.creators-wrapper{
+  font-family: "Open Sans", sans-serif;
+  margin-top: 25%;
+}
+
+.creator-img{
+  height: 20%;
 }
