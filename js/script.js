@@ -397,6 +397,7 @@ function toggleDonutButton(buttonNr){
   }
 }
 //End of setup function
+
 function mainViewAnimation(){
   if(donut){donut.delete();};
 
@@ -563,6 +564,10 @@ function bubbleTransform(d, i) {
     .classed("active-section", true)
     .classed("hidden-section", false);
 
+  d3.selectAll("#input-group-wrapper")
+    .classed("active-section", false)
+    .classed("hidden-section", true);
+
   detailBubbles.transition()
     .delay(600)
     .duration(1100)
@@ -706,6 +711,10 @@ function backTransition() {
   // d3.selectAll("#bubble-text")
   //   .classed("hidden-section", false)
   //   .classed("active-section", true);
+
+  d3.selectAll("#input-group-wrapper")
+    .classed("active-section", true)
+    .classed("hidden-section", false);
 
   detailText.transition()
     .delay(100)

@@ -13,12 +13,11 @@ nav a.navbar-brand {
  line-height: 50px;
 }
 
-/*.input {
-  height: 30px;
-  width: 200px;
-  margin-top: 20px;
-  font-size: 17pt;
-}*/
+.input-group{
+  float: left;
+
+}
+
 .button {
   height: 30px;
   width: 30px;
@@ -163,4 +162,8 @@ nav a.navbar-brand {
 }
 .yellow{
   color: #D7C4AA;
+}
+
+#wiki-link {
+  cursor: pointer;
 }
