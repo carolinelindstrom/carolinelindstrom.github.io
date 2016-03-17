@@ -132,8 +132,8 @@ nav a.navbar-brand {
 
 .creator-img{
   height: 20%;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  -webkit-filter: grayscale(90%);
+  filter: grayscale(90%);
 }
 
 .text-left{
