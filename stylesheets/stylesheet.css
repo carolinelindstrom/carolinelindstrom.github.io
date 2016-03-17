@@ -9,8 +9,12 @@ nav a.navbar-brand {
   font-weight: bold;
 }
 
+.nav-brand-img{
+  width: 75%;
+}
+
 #navList{
-  opacity: 1;
+  padding-right: 3%;
 }
 
 .navbar-nav li a {
@@ -19,7 +23,6 @@ nav a.navbar-brand {
 
 .input-group{
   float: left;
-
 }
 
 .button {
