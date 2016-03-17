@@ -171,11 +171,17 @@ class Donut {
       var textToPrint = info.summary.summary;
       console.log(info);
       if(textToPrint){
+        //textToPrintSnippets = textToPrint.match(/(\S+)|(\S+)(?= *\n|$)|\S+/g);
         textToPrint = textToPrint.match(/(\S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+)|(\S+ \S+ \S+ \S+ \S+ \S+ \S+)(?= *\n|$)|\S+/g);
+        //console.log(textToPrintSnippets);
+        
         for(var j=0;j<6; j++){
           if(!textToPrint[j]){
             textToPrint[j] ="";
-          }
+          }/*else{
+            for(var k=0;k<9;k++){
+              textToPrint[j] +=textToPrintSnippets[k];
+            }*/
         }
         d3.selectAll("#donut-details, #donut-details-text")
       		.classed("active-section", true)
@@ -231,7 +237,7 @@ class Donut {
           .text("Unfortunately we don't have any additional data about "+ data.key +".").append("tspan")
           .append("a")
           .attr("class", "google-link")
-          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + data.key);})
           .append("tspan")
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
@@ -253,7 +259,7 @@ class Donut {
       .text("Unfortunately we don't have any additional data about "+ data.key +".")
       .append("a")
       .attr("class", "google-link")
-      .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
+      .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + data.key);})
       .append("tspan")
       .attr("x", (screenWidth / 2) + 160*widthFactor)
       .attr('dy', 25)
@@ -272,7 +278,7 @@ class Donut {
           .text("Sorry, there was an issue getting data for "+data.key+".")
           .append("a")
           .attr("class", "google-link")
-          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + data.key);})
           .append("tspan")
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
