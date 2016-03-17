@@ -225,7 +225,11 @@ class Donut {
           .append("tspan")
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('id', 'text-span')
-          .text("Unfortunately we don't have any additional data about "+ data.key +".");
+          .text("Unfortunately we don't have any additional data about "+ data.key +".").append("tspan")
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
+          .attr('dy', 25)
+          .attr('id', 'text-span')
+          .text("More info: http://google.com/#q=" + searchWord);
       }
 
     }
