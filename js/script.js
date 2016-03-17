@@ -227,7 +227,7 @@ function setup(error, data) {
       .attr("x", screenWidth / 2)
       .attr("y", screenHeight / 2)
       .attr("fill", "#fff")
-      .attr("class", "bubble-text")
+      .attr("class", "welcome-text")
       .style("text-anchor", "middle")
       .style("opacity", 0)
       .text("SELECT A PROGRAM");
