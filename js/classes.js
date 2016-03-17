@@ -104,7 +104,6 @@ class Donut {
     this.centerText = this.donut.append("text").attr("text-anchor", "middle")
       .classed("donut-center-text", true)
       .classed("bubble-text", true);
-     // console.log('show all');
 
      //this.donut.selectAll('path')
 
@@ -291,7 +290,6 @@ class Donut {
     WIKIPEDIA.getData("http://en.wikipedia.org/wiki/" + searchWord, display, function(error) {
       // om error så kunde den inte hitta
       if (error){
-        console.log("heheheheheheheest");
         d3.selectAll("#donut-details, #donut-details-text")
           .classed("active-section", true)
           .classed("hidden-section", false)
@@ -376,7 +374,6 @@ class SizeManager {
   for(var b=0;b<tmpSearchSplit.length;b++){
     if(b>0){
       searchWord += " " +tmpSearchSplit[b].toLowerCase();
-      console.log(searchWord);
 
     }else{
       searchWord += capitalizeFirstLetter(tmpSearchSplit[b]);
