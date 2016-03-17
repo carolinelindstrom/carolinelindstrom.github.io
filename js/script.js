@@ -6,7 +6,7 @@ var navBarHeight = 71;
 var screenHeight = window.innerHeight - navBarHeight - 2*mainPadding;
 var screenWidth = window.innerWidth - 2*mainPadding;
 
-var panAmount = 250;
+var panAmount = screenWidth / 7;
 
 var heightFactor = screenHeight / 800;
 var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
@@ -14,7 +14,7 @@ var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
 var globalMargin = screenHeight / 10;
 
 var categorySize = 50 * heightFactor;
-var r1 = 250;
+var r1 = screenWidth / 7;
 var delta = (2 * Math.PI) / 14; //programs.length;
 var detailDelta = (2 * Math.PI) / 9;
 
