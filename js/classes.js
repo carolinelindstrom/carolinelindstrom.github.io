@@ -217,7 +217,7 @@ class Donut {
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
           .attr('id', 'text-span')
-          .text('More info: http://en.wikipedia.org/wiki/' + searchWord);
+          .text('Link to Wikipedia');
       }
 
       if (!textToPrint) {
@@ -230,13 +230,13 @@ class Donut {
           .attr('id', 'text-span')
           .text("Unfortunately we don't have any additional data about "+ data.key +".").append("tspan")
           .append("a")
-          .attr("id", "google-link")
+          .attr("class", "google-link")
           .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
           .append("tspan")
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
           .attr('id', 'text-span')
-          .text("More info: http://google.com/#q=" + searchWord);
+          .text("Let me google that for you");
       }
 
     }
@@ -250,7 +250,15 @@ class Donut {
       .append("tspan")
       .attr("x", (screenWidth / 2) + 160*widthFactor)
       .attr('id', 'text-span')
-      .text("Unfortunately we don't have any additional data about "+ data.key +".");
+      .text("Unfortunately we don't have any additional data about "+ data.key +".")
+      .append("a")
+      .attr("class", "google-link")
+      .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
+      .append("tspan")
+      .attr("x", (screenWidth / 2) + 160*widthFactor)
+      .attr('dy', 25)
+      .attr('id', 'text-span')
+      .text("Let me google that for you");
 
 
     WIKIPEDIA.getData("http://en.wikipedia.org/wiki/" + searchWord, display, function(error) {
@@ -261,7 +269,15 @@ class Donut {
           .classed("active-section", true)
           .classed("hidden-section", false)
           .attr('id', 'text-span')
-          .text("Sorry, there was an issue getting data for "+data.key+".");
+          .text("Sorry, there was an issue getting data for "+data.key+".")
+          .append("a")
+          .attr("class", "google-link")
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
+          .append("tspan")
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
+          .attr('dy', 25)
+          .attr('id', 'text-span')
+          .text("Let me google that for you");
       }
     });
   }
