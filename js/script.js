@@ -441,7 +441,7 @@ function skillSearch(value) {
     for (i = 0; i < json.length; i++) {
       for (j = 0; j < json[i].skills.length; j++) {
         if (json[i].skills[j].name !== undefined) {
-          if (json[i].skills[j].name == skill) {
+          if (json[i].skills[j].name.toLowerCase() == skill.toLowerCase()) {
             valueList.push(+(json[i].skills[j].value));
           };
         };
@@ -456,7 +456,7 @@ function skillSearch(value) {
 
           for (j = 0; j < json[i].skills.length; j++) {
             if (json[i].skills[j].name !== undefined) {
-              if (json[i].skills[j].name == skill) {
+              if (json[i].skills[j].name.toLowerCase() == skill.toLowerCase()) {
                 rad[i] = (parseInt(json[i].skills[j].value) / d3.max(valueList) * 80);
                 return rad[i];
               }
