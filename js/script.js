@@ -6,7 +6,6 @@ var navBarHeight = 71;
 var screenHeight = window.innerHeight - navBarHeight - 2*mainPadding;
 var screenWidth = window.innerWidth - 2*mainPadding;
 
-var panAmount = screenWidth / 7;
 
 var heightFactor = screenHeight / 800;
 var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
@@ -14,8 +13,13 @@ var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
 var globalMargin = screenHeight / 10;
 
 var categorySize = 50 * heightFactor;
-var r1 = screenWidth / 7;
-var delta = (2 * Math.PI) / 14; //programs.length;
+
+var r1 = 200 * widthFactor;
+var panAmount = 250 * widthFactor;
+
+var bubbleRadius = 40 * widthFactor;
+
+var delta = ( 2 * Math.PI) / 14; //programs.length;
 var detailDelta = (2 * Math.PI) / 9;
 
 var detailX = (screenWidth / 2)-120;
@@ -398,6 +402,7 @@ function toggleDonutButton(buttonNr){
 //End of setup function
 function mainViewAnimation(){
   if(donut){donut.delete();};
+
   bubble.transition()
     .delay(function(d, i) {
       return i * 100
@@ -405,7 +410,9 @@ function mainViewAnimation(){
     .duration(1300)
     .style("opacity", 1)
 
-    .attr("r", "50")
+    .attr('r', function(){
+      return bubbleRadius;
+    })
     .attr("cx", function(d, i) {
       return r1 * Math.cos(+i * delta) + screenWidth / 2;
     })
@@ -480,7 +487,7 @@ function skillSearch(value) {
     bubble.transition()
       .delay(100)
       .duration(2000)
-      .attr("r", function(d, i) {
+      .attr('r', function(d, i) {
 
           for (j = 0; j < json[i].skills.length; j++) {
             if (json[i].skills[j].name !== undefined) {
@@ -490,7 +497,7 @@ function skillSearch(value) {
               }
               //If search query empty, reset size
               else if (skill == "") {
-                return 50;
+                return bubbleRadius;
               }
             };
           };
