@@ -443,7 +443,14 @@ function mainViewAnimation(){
     .on("mousemove", tooltip.move)
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
-  
+    .on('mouseover', function(d,i){
+      tooltip.show(d);
+      document.getElementById(programs[i][1]).style.opacity = 0.3;
+    })
+    .on('mouseout', function(d,i){
+      tooltip.hide();
+      document.getElementById(programs[i][1]).style.opacity = 1;
+    });
   //reset selected detailBubble
   document.getElementById("0").style.stroke = 'none';
   document.getElementById("1").style.stroke = 'none';
