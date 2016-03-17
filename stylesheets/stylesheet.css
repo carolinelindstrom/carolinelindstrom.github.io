@@ -125,3 +125,7 @@ nav a.navbar-brand {
 .creator-img{
   height: 20%;
 }
+
+.text-left{
+  text-align: left;
+}
