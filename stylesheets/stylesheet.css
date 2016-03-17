@@ -190,3 +190,34 @@ nav a.navbar-brand {
 .google-link {
   font-weight: bold;
 }
+
+.detail-bubble {
+  cursor: pointer;
+}
+
+.bubble-text {
+  cursor: pointer;
+}
+
+.program-circle {
+  cursor: pointer;
+}
+
+.welcome-text {
+  fill: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 0.813em;
+}
+
+#donut-toggle {
+  cursor:pointer;
+}
+
+.donut {
+  cursor:pointer;
+}
+
+.donut-center-text {
+  cursor:default;
+}
