@@ -140,11 +140,14 @@ class Donut {
         .attr('d', this.arc)
         .attr('fill', (d, i) => this.color(i))
         .attr("class", "donut-path")
-        .on("mouseover", this.tooltip.show)
+        .on("mouseover", (d) => {
+          this.tooltip.show(d);
+          this.showDetails(d.data);
+        })
         .on("mousemove", this.tooltip.move)
         .on("mouseout", this.tooltip.hide)
         //on click event where d.data is the label attached to the clicked segment, ex name:ericsson, count:21
-        .on("click", (d) => this.showDetails(d.data))
+        //.on("click", (d) => this.showDetails(d.data))
         .transition()
         .duration(1200)
         .attrTween("d", this.tweenPie);
