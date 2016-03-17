@@ -443,6 +443,11 @@ function mainViewAnimation(){
     .on("mousemove", tooltip.move)
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
+  
+  //reset selected detailBubble
+  document.getElementById("0").style.stroke = 'none';
+  document.getElementById("1").style.stroke = 'none';
+  document.getElementById("2").style.stroke = 'none';
   //detailBubbles.style("opacity", 0);
   //detailText.style("opacity", 0);
 
