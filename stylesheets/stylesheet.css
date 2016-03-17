@@ -170,3 +170,19 @@ nav a.navbar-brand {
 #google-link {
   cursor: pointer;
 }
+
+#wiki-link:visited {
+    fill: #bbb;
+}
+
+#wiki-link {
+  font-weight: bold;
+}
+
+#google-link:visited {
+    fill: #bbb;
+}
+
+#google-link {
+  font-weight: bold;
+}
