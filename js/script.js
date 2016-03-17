@@ -217,10 +217,7 @@ function setup(error, data) {
      .attr("width", 300 * widthFactor)
 
      //Move style to css file
-     .style("stroke", "#101010")
-     .style("stroke-width", 1)
-     .style("opacity", 1)
-     .attr("fill", "#ffffff");
+     .style("opacity", 0);
 
    donutDetails.append("text")
      .classed("hidden-section", true)
