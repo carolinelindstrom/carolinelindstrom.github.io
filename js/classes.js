@@ -210,6 +210,9 @@ class Donut {
           .attr('dy', 15)
           .attr('id', 'text-span')
           .text(textToPrint[5]+'...')
+          .append("a")
+          .attr("id", "wiki-link")
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://en.wikipedia.org/wiki/' + searchWord);})
           .append("tspan")
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
@@ -225,7 +228,15 @@ class Donut {
           .append("tspan")
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('id', 'text-span')
-          .text("Unfortunately we don't have any additional data about "+ data.key +".");
+          .text("Unfortunately we don't have any additional data about "+ data.key +".").append("tspan")
+          .append("a")
+          .attr("id", "google-link")
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + searchWord);})
+          .append("tspan")
+          .attr("x", (screenWidth / 2) + 160*widthFactor)
+          .attr('dy', 25)
+          .attr('id', 'text-span')
+          .text("More info: http://google.com/#q=" + searchWord);
       }
 
     }
