@@ -140,11 +140,14 @@ class Donut {
         .attr('d', this.arc)
         .attr('fill', (d, i) => this.color(i))
         .attr("class", "donut-path")
-        .on("mouseover", this.tooltip.show)
+        .on("mouseover", (d) => {
+          this.tooltip.show(d);
+          this.showDetails(d.data);
+        })
         .on("mousemove", this.tooltip.move)
         .on("mouseout", this.tooltip.hide)
         //on click event where d.data is the label attached to the clicked segment, ex name:ericsson, count:21
-        .on("click", (d) => this.showDetails(d.data))
+        //.on("click", (d) => this.showDetails(d.data))
         .transition()
         .duration(1200)
         .attrTween("d", this.tweenPie);
@@ -164,32 +167,149 @@ class Donut {
     .classed("active-section", false)
     .classed("hidden-section", true);
   }
-
   showDetails(data){
+
     var display = function(info) {
-      var textToPrint = info.summary.summary;
-      if (!textToPrint) {
-        textToPrint = data.key;
+      d3.selectAll('#text-span').remove();
+      var textToPrintIn = info.summary.summary;
+      var textToPrint=[];
+      if(textToPrintIn){
+
+        var textToPrintSnippets = textToPrintIn.match(/(\S+)|(\S+)(?= *\n|$)|\S+/g);
+        //textToPrint = textToPrint.match(/(\S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+)|(\S+ \S+ \S+ \S+ \S+ \S+ \S+)(?= *\n|$)|\S+/g);
+
+        for(var j=0;j<6;j++){
+          var textToPush="";
+          for(var k=0;k<10;k++){
+            var singleWord = textToPrintSnippets.shift();
+            if(typeof singleWord !== 'undefined'){
+              textToPush += singleWord+" ";
+            }else{
+              textToPush+="";
+            }
+          }
+          textToPrint[j]=textToPush;
+        }
+
+        d3.selectAll("#donut-details, #donut-details-text")
+      		.classed("active-section", true)
+      		.classed("hidden-section", false)
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr('dy', 0)
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('id', 'text-span')
+          .text(textToPrint[0])
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 15)
+          .attr('id', 'text-span')
+          .text(textToPrint[1])
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 15)
+          .attr('id', 'text-span')
+          .text(textToPrint[2])
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 15)
+          .attr('id', 'text-span')
+          .text(textToPrint[3])
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 15)
+          .attr('id', 'text-span')
+          .text(textToPrint[4])
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 15)
+          .attr('id', 'text-span')
+          .text(textToPrint[5]+'...')
+          .append("a")
+          .attr("text-anchor", "middle")
+          .attr("id", "wiki-link")
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://en.wikipedia.org/wiki/' + searchWord);})
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 25)
+          .attr('id', 'text-span')
+          .text('Link to Wikipedia');
       }
-      d3.selectAll("#donut-details, #donut-details-text")
-    		.classed("active-section", true)
-    		.classed("hidden-section", false)
-        .text(textToPrint);
-    };
 
-    var searchWord = data.key.replace(" AB", "").replace(" ", "_");
+      if (!textToPrintIn) {
+        textToPrint = data.key;
+        d3.selectAll("#donut-details, #donut-details-text")
+      		.classed("active-section", true)
+      		.classed("hidden-section", false)
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('id', 'text-span')
+          .text("Unfortunately we don't have any additional data about "+ data.key +".").append("tspan")
+          .append("a")
+          .attr("text-anchor", "middle")
+          .attr("class", "google-link")
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + data.key);})
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2)+ panAmount * widthFactor)
+          .attr('dy', 25)
+          .attr('id', 'text-span')
+          .text("Let me google that for you");
+      }
 
-    WIKIPEDIA.getData('http://en.wikipedia.org/wiki/' + searchWord, display, function(error) {
+    }
+
+    var searchWord = data.key.replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_");
+    d3.selectAll('#text-span').remove();
+    d3.selectAll("#donut-details, #donut-details-text")
+      .classed("active-section", true)
+      .classed("hidden-section", false)
+      .append("tspan")
+      .attr("text-anchor", "middle")
+      .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+      .attr('id', 'text-span')
+      .text("Unfortunately we don't have any additional data about "+ data.key +".")
+      .append("a")
+      .attr("text-anchor", "middle")
+      .attr("class", "google-link")
+      .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + data.key);})
+      .append("tspan")
+      .attr("text-anchor", "middle")
+      .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+      .attr('dy', 25)
+      .attr('id', 'text-span')
+      .text("Let me google that for you");
+
+
+    WIKIPEDIA.getData("http://en.wikipedia.org/wiki/" + searchWord, display, function(error) {
       // om error så kunde den inte hitta
       if (error){
+        console.log("heheheheheheheest");
         d3.selectAll("#donut-details, #donut-details-text")
           .classed("active-section", true)
           .classed("hidden-section", false)
-          .text(data.key);
+          .attr('id', 'text-span')
+          .attr("text-anchor", "middle")
+          .text("Sorry, there was an issue getting data for "+data.key+".")
+          .append("a")
+          .attr("class", "google-link")
+          .on("click", function(){ d3.select(this).attr("target", "_blank").attr("xlink:href", 'http://google.com/#q=' + data.key);})
+          .append("tspan")
+          .attr("text-anchor", "middle")
+          .attr("x", (screenWidth / 2) + panAmount * widthFactor)
+          .attr('dy', 25)
+          .attr('id', 'text-span')
+          .text("Let me google that for you");
       }
     });
   }
-
   tweenPie(b) {
 
     var width = screenWidth / 2,
@@ -199,7 +319,7 @@ class Donut {
 
     var x = screenWidth / 2 + panAmount * widthFactor,
         y = screenHeight / 2;
-        
+
     var tooltip = new Tooltip((d) => d.data.key);
     var color = (i) => d3.hcl(i * 27, 10 + 40 * Math.sin(i), 40 + (i % 2) * 40).toString();
     var arc = d3.svg.arc()
@@ -232,3 +352,34 @@ class SizeManager {
 
   delta(subdivisions){ return (2 * Math.PI) / subdivisions;}
 }
+
+
+/*showDetails(data){
+  var display = function(info) {
+    var textToPrint = info.summary.summary;
+    if (!textToPrint) {
+      textToPrint = data.key;
+    }
+    d3.selectAll("#donut-details, #donut-details-text")
+      .classed("active-section", true)
+      .classed("hidden-section", false)
+      .text(textToPrint);
+  };
+  replace(" AB", "")
+*/
+  /*function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+  }
+
+  var tmpSearchSplit = data.key.match(/\S+/g);
+  var searchWord="";
+  for(var b=0;b<tmpSearchSplit.length;b++){
+    if(b>0){
+      searchWord += " " +tmpSearchSplit[b].toLowerCase();
+      console.log(searchWord);
+
+    }else{
+      searchWord += capitalizeFirstLetter(tmpSearchSplit[b]);
+    }
+  }*/
+  //searchWord = searchWord.replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_");

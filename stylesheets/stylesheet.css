@@ -9,12 +9,22 @@ nav a.navbar-brand {
   font-weight: bold;
 }
 
-/*.input {
-  height: 30px;
-  width: 200px;
-  margin-top: 20px;
-  font-size: 17pt;
-}*/
+.nav-brand-img{
+  width: 75%;
+}
+
+#navList{
+  padding-right: 3%;
+}
+
+.navbar-nav li a {
+ line-height: 50px;
+}
+
+.input-group{
+  float: left;
+}
+
 .button {
   height: 30px;
   width: 30px;
@@ -37,6 +47,9 @@ nav a.navbar-brand {
   font-size: 0.813em;
 }
 
+#text-span{
+  font-family: "Open Sans", sans-serif;
+}
 
 /* Hover Styling */
 .donut-path:hover{
@@ -109,19 +122,108 @@ nav a.navbar-brand {
 /* About tab */
 .about-body{
   overflow-y: scroll;
+  font-family: "Open Sans", sans-serif;
 }
 
 .about-container{
-  font-family: "Open Sans", sans-serif;
   opacity: 1;
   color: #ffffff;
+  margin-top: 5%;
 }
 
 .creators-wrapper{
-  font-family: "Open Sans", sans-serif;
-  margin-top: 25%;
+  margin-top: 20%;
+}
+
+.creator{
+  padding: 20px 20px;
 }
 
 .creator-img{
   height: 20%;
+  -webkit-filter: grayscale(90%);
+  filter: grayscale(90%);
+}
+
+.text-left{
+  text-align: left;
+}
+
+.about-line{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.fa{
+  color: #D7C4AA;
+}
+
+.fa:hover {
+  transform: scale(1.3);
+}
+.blue{
+  color: #00708D;
+}
+.green{
+  color: #C0CC94;
+}
+.pink{
+  color: #FFA9A3;
+}
+.yellow{
+  color: #D7C4AA;
+}
+
+#wiki-link {
+  cursor: pointer;
+}
+.google-link {
+  cursor: pointer;
+}
+
+#wiki-link:visited {
+    fill: #bbb;
+}
+
+#wiki-link {
+  font-weight: bold;
+}
+
+.google-link:visited {
+    fill: #bbb;
+}
+
+.google-link {
+  font-weight: bold;
+}
+
+.detail-bubble {
+  cursor: pointer;
+}
+
+.bubble-text {
+  cursor: pointer;
+}
+
+.program-circle {
+  cursor: pointer;
+}
+
+.welcome-text {
+  fill: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 0.813em;
+}
+
+#donut-toggle {
+  cursor:pointer;
+}
+
+.donut {
+  cursor:pointer;
+}
+
+.donut-center-text {
+  cursor:default;
 }

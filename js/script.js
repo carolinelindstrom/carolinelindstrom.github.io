@@ -6,7 +6,6 @@ var navBarHeight = 71;
 var screenHeight = window.innerHeight - navBarHeight - 2*mainPadding;
 var screenWidth = window.innerWidth - 2*mainPadding;
 
-var panAmount = 250;
 
 var heightFactor = screenHeight / 800;
 var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
@@ -14,8 +13,13 @@ var widthFactor = screenWidth / 1200; // Design is designed for 1200x800
 var globalMargin = screenHeight / 10;
 
 var categorySize = 50 * heightFactor;
-var r1 = 250;
-var delta = (2 * Math.PI) / 14; //programs.length;
+
+var r1 = 200 * widthFactor;
+var panAmount = 250 * widthFactor;
+
+var bubbleRadius = 40 * widthFactor;
+
+var delta = ( 2 * Math.PI) / 14; //programs.length;
 var detailDelta = (2 * Math.PI) / 9;
 
 var detailX = (screenWidth / 2)-120;
@@ -104,6 +108,7 @@ function setup(error, data) {
     .enter()
     .append("circle")
     .on("click", function(d, i) {
+      toggleDonutButton(1);
       document.getElementById(i).style.stroke = 'white';
       document.getElementById(i).style['stroke-width']= '0.2em';
       if (i == 0) {
@@ -240,7 +245,7 @@ function setup(error, data) {
       .attr("x", screenWidth / 2)
       .attr("y", screenHeight / 2)
       .attr("fill", "#fff")
-      .attr("class", "bubble-text")
+      .attr("class", "welcome-text")
       .style("text-anchor", "middle")
       .style("opacity", 0)
       .text("SELECT A PROGRAM");
@@ -252,23 +257,20 @@ function setup(error, data) {
      .attr("id", "donut-details")
      .classed("hidden-section", true)
      .classed("active-section", false)
-     .attr("x", (screenWidth / 2) + 100)
+     .attr("x", (screenWidth / 2) + 400*widthFactor)
      .attr("y", screenHeight*3 / 4)
      .attr("height", 150 * heightFactor)
      .attr("width", 300 * widthFactor)
 
      //Move style to css file
-     .style("stroke", "#101010")
-     .style("stroke-width", 1)
-     .style("opacity", 1)
-     .attr("fill", "#ffffff");
+     .style("opacity", 0);
 
    donutDetails.append("text")
      .classed("hidden-section", true)
      .classed("active-section", false)
      .attr("id", "donut-details-text")
      .attr("x", (screenWidth / 2) + 120)
-     .attr("y", screenHeight*3 / 4 + 20)
+     .attr("y", screenHeight*3 / 4 + 30)
      //Move style to css file
      .style("opacity", 1)
      //Apply text from data
@@ -413,8 +415,10 @@ function toggleDonutButton(buttonNr){
   }
 }
 //End of setup function
+
 function mainViewAnimation(){
   if(donut){donut.delete();};
+
   bubble.transition()
     .delay(function(d, i) {
       return i * 100
@@ -422,7 +426,9 @@ function mainViewAnimation(){
     .duration(1300)
     .style("opacity", 1)
 
-    .attr("r", "50")
+    .attr('r', function(){
+      return bubbleRadius;
+    })
     .attr("cx", function(d, i) {
       return r1 * Math.cos(+i * delta) + screenWidth / 2;
     })
@@ -456,6 +462,18 @@ function mainViewAnimation(){
     .on("mousemove", tooltip.move)
     .on("mouseout", tooltip.hide)
     .on("click", bubbleTransform)
+    .on('mouseover', function(d,i){
+      tooltip.show(d);
+      document.getElementById(programs[i][1]).style.opacity = 0.3;
+    })
+    .on('mouseout', function(d,i){
+      tooltip.hide();
+      document.getElementById(programs[i][1]).style.opacity = 1;
+    });
+  //reset selected detailBubble
+  document.getElementById("0").style.stroke = 'none';
+  document.getElementById("1").style.stroke = 'none';
+  document.getElementById("2").style.stroke = 'none';
   //detailBubbles.style("opacity", 0);
   //detailText.style("opacity", 0);
 
@@ -570,6 +588,20 @@ function skillSearch(value) {
       
 
 
+  //hide welcome text when searching
+  if (skill == "") {
+        welcometext.transition()
+            .delay(100)
+            .duration(1100)
+            .style("opacity", 1);
+  } else {
+
+    welcometext.transition()
+            .delay(100)
+            .duration(1100)
+            .style("opacity", 0);
+  }
+
   d3.json("data/skillsParent.json", function(json) {
 
     //Checking values of chosen skill and push into Valuelist.
@@ -587,7 +619,7 @@ function skillSearch(value) {
     bubble.transition()
       .delay(100)
       .duration(2000)
-      .attr("r", function(d, i) {
+      .attr('r', function(d, i) {
 
           for (j = 0; j < json[i].skills.length; j++) {
             if (json[i].skills[j].name !== undefined) {
@@ -597,7 +629,7 @@ function skillSearch(value) {
               }
               //If search query empty, reset size
               else if (skill == "") {
-                return 50;
+                return bubbleRadius;
               }
             };
           };
@@ -639,6 +671,10 @@ function bubbleTransform(d, i) {
   d3.selectAll(".detail-bubble, #detail-text")
     .classed("active-section", true)
     .classed("hidden-section", false);
+
+  d3.selectAll("#input-group-wrapper")
+    .classed("active-section", false)
+    .classed("hidden-section", true);
 
   detailBubbles.transition()
     .delay(600)
@@ -783,6 +819,10 @@ function backTransition() {
   // d3.selectAll("#bubble-text")
   //   .classed("hidden-section", false)
   //   .classed("active-section", true);
+
+  d3.selectAll("#input-group-wrapper")
+    .classed("active-section", true)
+    .classed("hidden-section", false);
 
   detailText.transition()
     .delay(100)
