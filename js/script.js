@@ -135,8 +135,20 @@ function setup(error, data) {
     .attr("id", "detail-text")
     .on("click", function(d, i) {
       //If clicked on skills text
-      if(i == 2){
+      document.getElementById(i).style.stroke = 'white';
+      document.getElementById(i).style['stroke-width']= '0.2em';
+      if (i == 0) {
+        document.getElementById("1").style.stroke = 'none';
+        document.getElementById("2").style.stroke = 'none';
+      } else if (i == 1) {
+        document.getElementById("0").style.stroke = 'none';
+        document.getElementById("2").style.stroke = 'none';
+      }
+
+      if (i == 2) {
         showSkillsDonut();
+        document.getElementById("0").style.stroke = 'none';
+        document.getElementById("1").style.stroke = 'none';
       }
       //in companies or professions
       else{
