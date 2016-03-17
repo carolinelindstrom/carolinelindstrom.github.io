@@ -122,10 +122,22 @@ nav a.navbar-brand {
   margin-top: 25%;
 }
 
+.creator{
+  padding: 20px 20px;
+}
+
 .creator-img{
   height: 20%;
 }
 
 .text-left{
   text-align: left;
+}
+
+.fa{
+  color: #ffffff;
+}
+
+.fa:hover {
+  transform: scale(1.3);
 }
