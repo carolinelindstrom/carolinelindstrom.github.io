@@ -478,6 +478,20 @@ function skillSearch(value) {
   var skill = document.getElementById("skill-value").value;
   var valueList = [];
   var rad = [];
+  
+  //hide welcome text when searching
+  if (skill == "") {
+        welcometext.transition()
+            .delay(100)
+            .duration(1100)
+            .style("opacity", 1);
+  } else {
+
+    welcometext.transition()
+            .delay(100)
+            .duration(1100)
+            .style("opacity", 0);
+  }
 
   d3.json("data/skillsParent.json", function(json) {
 
