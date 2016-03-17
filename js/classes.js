@@ -265,7 +265,7 @@ class Donut {
         d3.selectAll("#donut-details, #donut-details-text")
           .classed("active-section", true)
           .classed("hidden-section", false)
-          .text("Unfortunately we don't have any additional data about "+data.key+".");
+          .text("Sorry, there was an issue getting data for "+data.key+".");
       }
     });
   }
