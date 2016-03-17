@@ -167,7 +167,7 @@ nav a.navbar-brand {
 #wiki-link {
   cursor: pointer;
 }
-#google-link {
+.google-link {
   cursor: pointer;
 }
 
@@ -179,10 +179,10 @@ nav a.navbar-brand {
   font-weight: bold;
 }
 
-#google-link:visited {
+.google-link:visited {
     fill: #bbb;
 }
 
-#google-link {
+.google-link {
   font-weight: bold;
 }
