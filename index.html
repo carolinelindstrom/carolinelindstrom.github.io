@@ -11,22 +11,23 @@
 </head>
 
 <body>
-  <nav class='navbar navbar-default'> <!--'navbar-fixed-top'>-->
-    <a class="navbar-brand" href="index.html">
-      <img src="img/logosmall2.png" width="420">
-    </a>
-    <div class="container">
+<nav class='navbar navbar-default'> <!--'navbar-fixed-top'>-->
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="pull-right" href="index.html"><img src="img/logosmall2.png" width="410"></a>
+      </div>
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
           <li><a href="about.html">ABOUT</a></li>
         </ul>
-      </div>
-      <div class="input-group" style="float:left;">
-        <input type="text" id="skill-value" class="form-control" list="skill-list" placeholder="Search" onkeydown="checkEnterPress(event)">
-        <datalist id="skill-list"></datalist>
-        <span class="input-group-btn">
-          <button class="btn btn-secondary" type="button" onclick="skillSearch()"><i class="glyphicon glyphicon-search"></i></button>
-        </span>
+    
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" id="skill-value" class="form-control" list="skill-list" placeholder="Search" onkeydown="checkEnterPress(event)">
+          <datalist id="skill-list"></datalist>
+        </div>
+        <button class="btn btn-default" type="button" onclick="skillSearch()"><i class="glyphicon glyphicon-search"></i></button>
+      </form>
       </div>
     </div>
   </nav>
