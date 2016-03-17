@@ -217,7 +217,7 @@ class Donut {
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
           .attr('id', 'text-span')
-          .text('More info: http://en.wikipedia.org/wiki/' + searchWord);
+          .text('Link to Wikipedia');
       }
 
       if (!textToPrint) {
@@ -236,7 +236,7 @@ class Donut {
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
           .attr('id', 'text-span')
-          .text("Try this: http://google.com/#q=" + searchWord);
+          .text("Let me google that for you");
       }
 
     }
@@ -258,7 +258,7 @@ class Donut {
       .attr("x", (screenWidth / 2) + 160*widthFactor)
       .attr('dy', 25)
       .attr('id', 'text-span')
-      .text("Try this: http://google.com/#q=" + searchWord);
+      .text("Let me google that for you");
 
 
     WIKIPEDIA.getData("http://en.wikipedia.org/wiki/" + searchWord, display, function(error) {
@@ -277,7 +277,7 @@ class Donut {
           .attr("x", (screenWidth / 2) + 160*widthFactor)
           .attr('dy', 25)
           .attr('id', 'text-span')
-          .text("Try this: http://google.com/#q=" + searchWord);
+          .text("Let me google that for you");
       }
     });
   }
