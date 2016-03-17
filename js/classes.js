@@ -171,11 +171,17 @@ class Donut {
       var textToPrint = info.summary.summary;
       console.log(info);
       if(textToPrint){
+        //textToPrintSnippets = textToPrint.match(/(\S+)|(\S+)(?= *\n|$)|\S+/g);
         textToPrint = textToPrint.match(/(\S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+ \S+)|(\S+ \S+ \S+ \S+ \S+ \S+ \S+)(?= *\n|$)|\S+/g);
+        //console.log(textToPrintSnippets);
+        
         for(var j=0;j<6; j++){
           if(!textToPrint[j]){
             textToPrint[j] ="";
-          }
+          }/*else{
+            for(var k=0;k<9;k++){
+              textToPrint[j] +=textToPrintSnippets[k];
+            }*/
         }
         d3.selectAll("#donut-details, #donut-details-text")
       		.classed("active-section", true)
