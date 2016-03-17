@@ -239,7 +239,7 @@ function setup(error, data) {
      .attr("id", "donut-details")
      .classed("hidden-section", true)
      .classed("active-section", false)
-     .attr("x", (screenWidth / 2) + 100)
+     .attr("x", (screenWidth / 2) + 400*widthFactor)
      .attr("y", screenHeight*3 / 4)
      .attr("height", 150 * heightFactor)
      .attr("width", 300 * widthFactor)

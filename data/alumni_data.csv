@@ -24,11 +24,11 @@ Sverige,ClimateWell,CEO,Architect,2008
 Sverige,Dagab,Distribution Driver,Architect,1988
 Sverige,Danske Bank,Logistic Manager,Architect,1998
 Sverige,Ericsson,Information Specialist,Architect,1993
-Sverige,Forsen Projekt AB,Project Manager,Architect,2005
+Sverige,Forsen Projekt AB,Project manager,Architect,2005
 Sverige,Gotlands kommun,Building Permit Architect,Architect,1999
 Sverige,Granada Ingenieria & Management Ltda.,Architect,Architect,1999
 Sverige,H&M,Store Planner,Architect,2004
-Sverige,Hifab,Project Manager,Architect,2004
+Sverige,Hifab,Project manager,Architect,2004
 Sverige,IBM,Nordic process lead for two BL,Architect,1988
 Frankrike,Johan Andersson Architecte,Architect,Architect,2011
 Sverige,Jois Arkitektur & Design AB,Architect,Architect,1987
@@ -37,7 +37,7 @@ Sverige,Key2Insight/Loord Design,Consultant,Architect,1990
 Sverige,KHR Rundquist arkitekter,Administrator Architecture,Architect,2000
 Sverige,Kjellander & Sjöberg Arkitektkontor AB,Architect,Architect,2004
 Sverige,Royal Institute of Technology,Professor,Architect,1973
-Sverige,Royal Institute of Technology,Project Manager,Architect,1998
+Sverige,Royal Institute of Technology,Project manager,Architect,1998
 Sverige,Larsson arkitekter,CEO,Architect,1990
 Sverige,Lindesbergs kommun,City Architect,Architect,1986
 Sverige,Love Arbén Arkitektkontor,Architect,Architect,2000
@@ -102,8 +102,8 @@ Sverige,Dale Carnegie Sweden,Educator,Biotechnology,2007
 Tyskland,DR KNOELL CONSULT,Project Specialist,Biotechnology,2005
 Sverige,Ekerö Kommun,Waste Engineer,Biotechnology,2012
 Frankrike,Embassy of Sweden in China,Officer - energy and environment,Biotechnology,2006
-Sverige,General Electric,Researcher,Biotechnology,2004
-Sverige,General Electric,Researcher,Biotechnology,2010
+Sverige,General Electric,Research,Biotechnology,2004
+Sverige,General Electric,Research,Biotechnology,2010
 Sverige,Hälsa på minuten Sverige AB,CEO,Biotechnology,2008
 Sverige,HPR,Laboratory Engineer,Biotechnology,2009
 Storbritannien,Imperial College London,PhD Student,Biotechnology,2008
@@ -118,8 +118,8 @@ Sverige,Karolinska Institutet,PhD Student,Biotechnology,2004
 Sverige,Karolinska Institutet,Postdoctoral,Biotechnology,
 Sverige,Karolinska Institutet,Postdoctoral,Biotechnology,2007
 Sverige,Karolinska Institutet,Research Assistant,Biotechnology,2007
-Sverige,Karolinska Institutet,Researcher,Biotechnology,2010
-Sverige,Karolinska Institutet,Project Manager,Biotechnology,2006
+Sverige,Karolinska Institutet,Research,Biotechnology,2010
+Sverige,Karolinska Institutet,Project manager,Biotechnology,2006
 Sverige,Royal Institute of Technology,Information specialist,Biotechnology,2004
 Sverige,Royal Institute of Technology,Labtechnician,Biotechnology,2005
 Sverige,Royal Institute of Technology,PhD Student,Biotechnology,
@@ -130,17 +130,17 @@ Sverige,Royal Institute of Technology,PhD Student,Biotechnology,2007
 Sverige,Royal Institute of Technology,PhD Student,Biotechnology,2007
 Sverige,Royal Institute of Technology,PhD Student,Biotechnology,2008
 Sverige,Royal Institute of Technology,PhD Student,Biotechnology,2007
-Sverige,Royal Institute of Technology,Researcher,Biotechnology,2006
-Sverige,Royal Institute of Technology,Researcher,Biotechnology,2007
-Sverige,Royal Institute of Technology,Researcher,Biotechnology,2008
+Sverige,Royal Institute of Technology,Research,Biotechnology,2006
+Sverige,Royal Institute of Technology,Research,Biotechnology,2007
+Sverige,Royal Institute of Technology,Research,Biotechnology,2008
 Sverige,Royal Institute of Technology,Technology Transfer Manager,Biotechnology,2005
-Sverige,"Kungliga Tekniska Högskolan - skolan för bioteknik , The Human Protein Atlas project",Researcher,Biotechnology,2008
+Sverige,"Kungliga Tekniska Högskolan - skolan för bioteknik , The Human Protein Atlas project",Research,Biotechnology,2008
 USA,Lunds Tekniska Högskola,PhD Student,Biotechnology,2010
 Sverige,MaskinLindell AB,Sales Assistant,Biotechnology,2011
 Sverige,Mawell,Information Specialist,Biotechnology,2012
 Tyskland,Max Planck Society,Scientist,Biotechnology,2005
 Sverige,McKinsey,Associate,Biotechnology,2006
-USA,Memorial Sloan Kettering Cancer Center,Researcher,Biotechnology,2009
+USA,Memorial Sloan Kettering Cancer Center,Research,Biotechnology,2009
 Sverige,MIT,PhD Student,Biotechnology,2004
 Sverige,Natumin Pharma,Product Manager,Biotechnology,2010
 Schweiz,Novartis,Scientist,Biotechnology,2008
@@ -158,7 +158,7 @@ Sverige,SCA,Trainee,Biotechnology,2013
 Sverige,SCA,Trainee,Biotechnology,2013
 Sverige,Science for Life Laboratory,PhD Student,Biotechnology,2013
 Sverige,Science for Life Laboratory,PhD Student,Biotechnology,2013
-Sverige,Science for Life Laboratory,Researcher,Biotechnology,2014
+Sverige,Science for Life Laboratory,Research,Biotechnology,2014
 Sverige,Silex Microsystems,Product Manager,Biotechnology,2011
 Sverige,Sirona Health Solutions,Analyst,Biotechnology,2013
 Sverige,Skånemejerier,Production Developer,Biotechnology,2005
@@ -177,7 +177,7 @@ Sverige,Uppsala Universitet,PhD Student,Biotechnology,2008
 Sverige,Uppsala Universitet,Research Assistant,Biotechnology,2009
 Sverige,VA Syd,Group Manager,Biotechnology,2007
 Sverige,Vanderbilt University,Postdoctoral,Biotechnology,2006
-Sverige,Vetenskap & Allmänhet,Project Manager,Biotechnology,
+Sverige,Vetenskap & Allmänhet,Project manager,Biotechnology,
 Sverige,Wibax AB,Manager,Biotechnology,2011
 Sverige,WSP ,Environmental Economic Analyst,Biotechnology,2011
 Sverige,3M Svenska,Application Development Engineer,Chemistry,2004
@@ -192,7 +192,7 @@ Sverige,ÅF,Process Consultant,Chemistry,1982
 Sverige,ÅF,Process Engineer,Chemistry,2008
 Sverige,ÅF,Risk Consultant,Chemistry,2001
 Sverige,AGA Gas AB,Business Manager,Chemistry,1987
-Sverige,Agrivind AB,Researcher,Chemistry,2007
+Sverige,Agrivind AB,Research,Chemistry,2007
 Frankrike,AK2C,Consultant,Chemistry,2010
 Sverige,AkzoNobel,Air Sales Manager,Chemistry,1988
 Sverige,AkzoNobel,Application Engineer,Chemistry,2010
@@ -204,13 +204,13 @@ Kina,Alfa Laval,Product Manager,Chemistry,2007
 Sverige,Allied Attorneys Chemical AB,Patent Engineer,Chemistry,2007
 Sverige,Altia Sweden AB,Product Developer,Chemistry,1990
 Sverige,Alveiro Lifescience,CEO,Chemistry,1977
-Sverige,Alyata Projektledning AB,Project Manager,Chemistry,1993
-Sverige,Apoteket,Project Manager,Chemistry,1999
+Sverige,Alyata Projektledning AB,Project manager,Chemistry,1993
+Sverige,Apoteket,Project manager,Chemistry,1999
 Sverige,Applied Value,Associate,Chemistry,1997
 Sverige,Aqua Konsult AB,Consultant,Chemistry,2004
 Sverige,Arbetsmiljöverket,Operations Controller,Chemistry,1989
 Sverige,Arc group,Trading Specialist,Chemistry,2008
-Sverige,Aromatic AB,Researcher,Chemistry,1988
+Sverige,Aromatic AB,Research,Chemistry,1988
 Sverige,Asian Development Bank,Environmental Engineer,Chemistry,1995
 Sverige,AstraZeneca,Computer Engineer,Chemistry,2003
 Sverige,AstraZeneca,Developer,Chemistry,1992
@@ -220,12 +220,12 @@ Sverige,AstraZeneca,Laboratory Engineer,Chemistry,2005
 Sverige,AstraZeneca,Laboratory Engineer,Chemistry,2003
 Sverige,AstraZeneca,Manager,Chemistry,1999
 Sverige,AstraZeneca,Medical Science Liaison,Chemistry,2001
-Sverige,AstraZeneca,Project Manager,Chemistry,2002
+Sverige,AstraZeneca,Project manager,Chemistry,2002
 Sverige,AstraZeneca,Quality Assurance,Chemistry,2002
 Sverige,AstraZeneca,Quality Assurance,Chemistry,2002
 Sverige,AstraZeneca,Quality Engineer,Chemistry,2005
 Sverige,AstraZeneca,Regulatory account manager,Chemistry,1999
-Sverige,AstraZeneca,Researcher,Chemistry,2004
+Sverige,AstraZeneca,Research,Chemistry,2004
 Sverige,AstraZeneca,Section Manager,Chemistry,2002
 Sverige,AstraZeneca,Maintanance Engineer,Chemistry,2009
 Sverige,Atlas Antibodies AB,Product Manager,Chemistry,2003
@@ -240,7 +240,7 @@ Sverige,Beckers,Color Developer,Chemistry,2009
 Sverige,Billerud AB,CEO,Chemistry,1998
 Sverige,Billerud AB,Developer,Chemistry,1993
 Sverige,Billerud AB,Managing Director,Chemistry,1993
-Sverige,BillerudKorsnäs Frövi,Project Manager,Chemistry,2005
+Sverige,BillerudKorsnäs Frövi,Project manager,Chemistry,2005
 Sverige,Biovitrum,Section Manager,Chemistry,1994
 Sverige,Bluefish Pharamceuticals AB,Manager,Chemistry,1988
 Sverige,Bost IT Solutions,Operations Director,Chemistry,1987
@@ -250,7 +250,7 @@ Sverige,Cardiff University,Research Assistant,Chemistry,2010
 Sverige,Cargill Nordic,Manager,Chemistry,1982
 Schweiz,Carl Zeiss AG,Manager,Chemistry,1996
 Sverige,Casco Adhesives AB,Buyer,Chemistry,2000
-Sverige,Casco Adhesives AB,Researcher,Chemistry,2005
+Sverige,Casco Adhesives AB,Research,Chemistry,2005
 Sverige,Castrol,Product Manager,Chemistry,2012
 Sverige,Celanese,Process Engineer,Chemistry,2005
 Sverige,Cellutech,Scientist,Chemistry,2010
@@ -263,7 +263,7 @@ Sverige,Cybergene AB,CTO,Chemistry,2000
 Sverige,Dagens Industri,Foreign Reporter,Chemistry,1997
 Sverige,Dalkia,Head of Mergers and Acquisitions,Chemistry,
 Sverige,Dekon Engineering,Commissioning,Chemistry,2007
-Norge,Det Norske Veritas AB,Project Manager,Chemistry,1991
+Norge,Det Norske Veritas AB,Project manager,Chemistry,1991
 Sverige,dewan salman chemical limited pakistan,sgift engineer/process enginerer,Chemistry,2011
 Sverige,Diamorph AB,Research Manager,Chemistry,1999
 Sverige,Diversey,Marketing Coordinator,Chemistry,2000
@@ -279,7 +279,7 @@ Sverige,Energimyndigheten,Administrator,Chemistry,2006
 Sverige,Enginera,Consultant,Chemistry,2004
 Tyskland,EPO,Director,Chemistry,1988
 Sverige,Epsilon,Consultant,Chemistry,2010
-Sverige,Epsilon,Project Manager,Chemistry,2011
+Sverige,Epsilon,Project manager,Chemistry,2011
 Sverige,Ericsson,Manager,Chemistry,1998
 Sverige,Ericsson,Manager,Chemistry,1998
 Sverige,Ericsson,Teacher,Chemistry,2004
@@ -287,7 +287,7 @@ Sverige,Exicom,Manager,Chemistry,1983
 Sverige,Fazer Amica,Hygiene Manager,Chemistry,2003
 Sverige,Florida State University,Dr.,Chemistry,1997
 Sverige,FMV,System Engineer,Chemistry,2013
-Sverige,FOI,Researcher,Chemistry,2004
+Sverige,FOI,Research,Chemistry,2004
 Sverige,Forsmarks Kraftgrupp AB,Construction Engineer,Chemistry,2006
 Sverige,Forsmarks Kraftgrupp AB,System Engineer,Chemistry,2010
 Sverige,Fortum,Chemical Engineer,Chemistry,2008
@@ -295,19 +295,19 @@ Sverige,Fortum,Group Manager,Chemistry,2002
 Sverige,Fortum,Group Manager,Chemistry,2002
 Sverige,Fortum,Group Manager,Chemistry,2008
 Sverige,Fortum,Product Manager,Chemistry,2001
-Sverige,Fortum,Project Manager,Chemistry,1998
-Sverige,Fortum,Project Manager,Chemistry,2002
+Sverige,Fortum,Project manager,Chemistry,1998
+Sverige,Fortum,Project manager,Chemistry,2002
 Sverige,Fresenius Kabi AB,Manager,Chemistry,2000
 Sverige,Freudenberg household Products,UH-Manager,Chemistry,2000
 Sverige,Frohe AB,Quality Manager,Chemistry,2005
-Norge,Gassco AS,Project Manager,Chemistry,2005
+Norge,Gassco AS,Project manager,Chemistry,2005
 Sverige,General Electric,Development Engineer,Chemistry,2004
 Sverige,General Electric,Life Sciences Research Manager,Chemistry,1985
 Sverige,General Electric,Process Developer,Chemistry,1999
 Sverige,General Electric,Process Engineer,Chemistry,2005
-Sverige,General Electric,Project Manager,Chemistry,1987
-Sverige,General Electric,Researcher,Chemistry,1991
-Sverige,General Electric,Researcher,Chemistry,1991
+Sverige,General Electric,Project manager,Chemistry,1987
+Sverige,General Electric,Research,Chemistry,1991
+Sverige,General Electric,Research,Chemistry,1991
 Sverige,General Electric,Service Chemist,Chemistry,2006
 USA,General Electric,Sourcing Executive,Chemistry,
 Sverige,General Electric,Validation Engineer,Chemistry,1997
@@ -317,11 +317,11 @@ Sverige,Golder Associates AB,Consultant,Chemistry,2004
 Sverige,Golder Associates AB,Consultant,Chemistry,2008
 Storbritannien,Graham Buckton,Professor,Chemistry,2005
 Storbritannien,Graham Buckton,Professor,Chemistry,2005
-Sverige,Grontmij,Project Manager,Chemistry,1997
+Sverige,Grontmij,Project manager,Chemistry,1997
 Sverige,Grontmij,Technical Consultant,Chemistry,1994
 Sverige,GRYAAB,Laboratory Engineer,Chemistry,2011
 Sverige,Gyproc AB,EHS Manager,Chemistry,2000
-Danmark,Haldor Topsoe,Researcher,Chemistry,2003
+Danmark,Haldor Topsoe,Research,Chemistry,2003
 Sverige,Henkel Norden AB,Chief Engineer,Chemistry,1992
 Sverige,Hewlett Packard,Environmental Manager,Chemistry,1990
 Sverige,Holmen Paper AB,Superintendent,Chemistry,2002
@@ -330,19 +330,19 @@ Sverige,IKEA,Chemist,Chemistry,1991
 Sverige,Infor,Consultant,Chemistry,
 Sverige,Infor,Consultant,Chemistry,
 Sverige,Innventia,Consultant,Chemistry,1981
-Sverige,Innventia,Researcher,Chemistry,2010
+Sverige,Innventia,Research,Chemistry,2010
 Sverige,Inspecta,Consultant,Chemistry,2008
 Sverige,Intertech,Consultant,Chemistry,1997
 Sverige,ITT Water & Wastwater,Business Developer,Chemistry,1980
 Sverige,ITT Water & Wastwater,Business Developer,Chemistry,1980
 Sverige,IVL Svenska Miljöinstitutet,CEO,Chemistry,1983
-Sverige,IVL Svenska Miljöinstitutet,Researcher,Chemistry,2012
+Sverige,IVL Svenska Miljöinstitutet,Research,Chemistry,2012
 Sverige,Jensens Böfhus,Restaurant Assistant,Chemistry,2009
 Sverige,Johnson & Johnson,Packaging Engineer,Chemistry,2001
 Sverige,Käppalaförbundet,Chemist,Chemistry,2009
 Sverige,Karo Bio,Research Investigator,Chemistry,2001
 Sverige,Karolinska Institutet,Pharmacist,Chemistry,1983
-Sverige,Karolinska Institutet,Project Manager,Chemistry,1983
+Sverige,Karolinska Institutet,Project manager,Chemistry,1983
 Sverige,Karolinska Institutet,Research Assistant,Chemistry,2009
 Sverige,Karolinska Institutet,Chemist,Chemistry,2006
 Sverige,Karolinska Institutet,Technical Systems Engineer,Chemistry,1999
@@ -352,7 +352,7 @@ Sverige,Kemikalieinspektionen,Director-general,Chemistry,1991
 Sverige,Kemikalieinspektionen,Director-general,Chemistry,1991
 Sverige,Kemira kemi AB,Product Manager,Chemistry,2005
 Sverige,Kemwell AB,Process Engineer,Chemistry,1982
-Sverige,Keyplants AB,Project Manager,Chemistry,1993
+Sverige,Keyplants AB,Project manager,Chemistry,1993
 Tyskland,KommtEssen,CEO,Chemistry,1996
 Sverige,Korsnäs,Process Manager,Chemistry,2004
 Sverige,Korsnäs,Production Manager,Chemistry,2005
@@ -383,9 +383,9 @@ Sverige,Royal Institute of Technology,PhD Student,Chemistry,2010
 Sverige,Royal Institute of Technology,PhD Student,Chemistry,2008
 Sverige,Royal Institute of Technology,Professor,Chemistry,1979
 Sverige,Royal Institute of Technology,Project Coordinator,Chemistry,2011
-Sverige,Royal Institute of Technology,Researcher,Chemistry,1999
-Sverige,Royal Institute of Technology,Researcher,Chemistry,2007
-Sverige,Royal Institute of Technology,Researcher,Chemistry,2004
+Sverige,Royal Institute of Technology,Research,Chemistry,1999
+Sverige,Royal Institute of Technology,Research,Chemistry,2007
+Sverige,Royal Institute of Technology,Research,Chemistry,2004
 Sverige,Royal Institute of Technology,Vice Principle,Chemistry,1981
 Sverige,Kungsörnens pasta,Production Manager,Chemistry,2001
 Sverige,Läkemedelsverket,Pharmaceutical Inspector,Chemistry,1996
@@ -399,12 +399,12 @@ Sverige,Lunds Universitet,PhD Student,Chemistry,2010
 Sverige,M-real Nordic AB,Manager,Chemistry,1996
 Norge,M7 Offshore,Senoir Process Engineer,Chemistry,2006
 Island,Mannvit,Consultant,Chemistry,2008
-Frankrike,MAPI Consultancy,Researcher,Chemistry,2004
+Frankrike,MAPI Consultancy,Research,Chemistry,2004
 Sverige,Marabou,Process Engineer,Chemistry,1993
 Sverige,McNeil AB,Director,Chemistry,1994
 Sverige,McNeil AB,Pharmacokineticist,Chemistry,1997
-Sverige,"MDC, FMP",Researcher,Chemistry,2005
-Sverige,Medivir AB,Researcher,Chemistry,2003
+Sverige,"MDC, FMP",Research,Chemistry,2005
+Sverige,Medivir AB,Research,Chemistry,2003
 Sverige,Mekanex Maskin AB,CEO,Chemistry,1996
 Sverige,Mekanex Maskin AB,CEO,Chemistry,1996
 Sverige,Metso Automation,Regional Director,Chemistry,1994
@@ -415,11 +415,11 @@ Sverige,Mondelez Sverige Production AB,CI Engineer,Chemistry,1986
 Sverige,"MSB, Myndigheten för samhällsskydd och beredskap",Administrator,Chemistry,2005
 Sverige,Munksjö,Marketing Manager,Chemistry,2004
 Sverige,Munksjö Oyj,CEO,Chemistry,1980
-Sverige,myFC AB,Project Manager,Chemistry,2015
+Sverige,myFC AB,Project manager,Chemistry,2015
 Sverige,Naturvetarna,Journalist,Chemistry,1999
 Sverige,NBE Sweden AB,Process Engineer,Chemistry,2009
 Sverige,Netlight Consulting,Consultant,Chemistry,2006
-Sverige,NLAB Solar,Researcher,Chemistry,2010
+Sverige,NLAB Solar,Research,Chemistry,2010
 Sverige,NNE Pharmaplan AB,Process Engineer,Chemistry,1995
 Sverige,Nobina,Purchasing Manager,Chemistry,1997
 Sverige,Nopco Paper Technology AB,Regional Manager ,Chemistry,2002
@@ -430,12 +430,12 @@ Sverige,Norrvatten,Chemist,Chemistry,2013
 Norge,Norwegian University of Science and Technology (NTNU),PhD Student,Chemistry,2011
 USA,Novadigm Consulting Group,Managing Director,Chemistry,1981
 Sverige,Novus Consulting AB,Consultant,Chemistry,2003
-Sverige,Nynas AB,Project Manager,Chemistry,2005
+Sverige,Nynas AB,Project manager,Chemistry,2005
 Sverige,Octapharma,Measure Engineer,Chemistry,2011
 Sverige,OKG AB,Investigation Engineer,Chemistry,2002
 Sverige,Oriflame,Laboratory Engineer,Chemistry,2007
 Sverige,Otapharama AB,Manager,Chemistry,1981
-Sverige,Outokumpu,Researcher,Chemistry,1994
+Sverige,Outokumpu,Research,Chemistry,1994
 Sverige,Patent- och registreringsverket,Consultant,Chemistry,1993
 Sverige,Patent- och registreringsverket,Patent Engineer,Chemistry,2004
 Sverige,Permascand AB,CEO,Chemistry,1992
@@ -446,7 +446,7 @@ Sverige,Pfizer,Group Manager,Chemistry,2000
 Sverige,Pfizer,Process Developer,Chemistry,2000
 Sverige,Pfizer,Scientist,Chemistry,2007
 Sverige,Philip Morris,Supervisor,Chemistry,2007
-Sverige,PIcrates AB,Project Manager,Chemistry,1986
+Sverige,PIcrates AB,Project manager,Chemistry,1986
 Sverige,Plast- & Kemiföretagen,Administrator,Chemistry,2004
 Sverige,Pöyry Management Consulting,Consultant,Chemistry,2008
 Sverige,Preem AB,Risk Manager,Chemistry,1982
@@ -454,14 +454,14 @@ Sverige,Ragn-Sells,Section Manager,Chemistry,1999
 Sverige,Ragn-Sells,Section Manager,Chemistry,2008
 Sverige,Recipharm,Laboratory Engineer,Chemistry,2001
 Sverige,Recipharm,Process Engineer,Chemistry,2006
-Sverige,Recipharm,Project Manager,Chemistry,2001
+Sverige,Recipharm,Project manager,Chemistry,2001
 Sverige,Region Skåne,Occupational hygienist,Chemistry,2009
 Sverige,Reinertsen AS,Group Manager,Chemistry,1998
 Norge,Reinertsen AS,MC & Commissioning Manager,Chemistry,2008
 Sverige,Rekal Svenska AB,Development Manager,Chemistry,2006
 Frankrike,Renault SA,Outbound logistics manager,Chemistry,1995
 Sverige,Repona,CEO,Chemistry,1989
-Sverige,Resefarm,Project Manager,Chemistry,2003
+Sverige,Resefarm,Project manager,Chemistry,2003
 Sverige,Returkraft AS,CTO,Chemistry,2000
 Sverige,RINI Ergoteknik,Chief of Human Resources,Chemistry,1975
 Sverige,RINI Ergoteknik,Chief of Human Resources,Chemistry,1975
@@ -485,22 +485,22 @@ Sverige,Seco Tools,Chemical Coordinator,Chemistry,2008
 Sverige,Semcon,Consultant,Chemistry,2002
 Sverige,Semcon,MSc,Chemistry,2005
 Sverige,Sherwin-Williams Sweden Coatings KB,Analytical Chemist,Chemistry,2013
-Sverige,Siemens,Project Manager,Chemistry,1987
+Sverige,Siemens,Project manager,Chemistry,1987
 Sverige,SIK,Business Coordinator,Chemistry,1987
 Sverige,Skogsindustrierna,Advisor,Chemistry,2004
 Sverige,Snille Bemanning,Document Investigator,Chemistry,2011
 Sverige,Södermalmskyrkan,Teacher,Chemistry,2007
 Sverige,Södra,Procurement Manager,Chemistry,1998
 Sverige,Södra Cell,Production Engineer,Chemistry,2006
-Sverige,Södra Cell,Researcher,Chemistry,1999
-Sverige,SP,Project Manager,Chemistry,2008
-Sverige,SP,Project Manager,Chemistry,2002
+Sverige,Södra Cell,Research,Chemistry,1999
+Sverige,SP,Project manager,Chemistry,2008
+Sverige,SP,Project manager,Chemistry,2002
 Sverige,Spectrogon AB,Marketing Director,Chemistry,1983
 Sverige,SSAB,Section Manager,Chemistry,1999
 Sverige,Statistiska Centralbyrån,Engineer,Chemistry,1983
 Sverige,Stena Recycling AB,Branch Manager,Chemistry,2010
-Sverige,STFI-Packforsk AB,Project Manager,Chemistry,2006
-Sverige,STFI-Packforsk AB,Researcher,Chemistry,2003
+Sverige,STFI-Packforsk AB,Project manager,Chemistry,2006
+Sverige,STFI-Packforsk AB,Research,Chemistry,2003
 Sverige,Stiftelsen för Strategisk Forskning,Research Assistant,Chemistry,2001
 Sverige,Stockholm School of Entrepreneurship,"Education Coordinator, Program Coordinator",Chemistry,2013
 Sverige,Stockholm Science City Foundation,CEO,Chemistry,1989
@@ -519,13 +519,13 @@ Sverige,Stora Enso,Chief Engineer,Chemistry,1989
 Sverige,Stora Enso,Production Engineer,Chemistry,1996
 Sverige,Strålsäkerhetsmyndigheten,Investigator,Chemistry,2005
 Sverige,Strålsäkerhetsmyndigheten,Manager,Chemistry,1984
-Sverige,Studsvik Nuclear AB,Project Manager,Chemistry,2010
+Sverige,Studsvik Nuclear AB,Project manager,Chemistry,2010
 Sverige,Sundybergs kommun,Construction Engineer,Chemistry,2007
 Sverige,Svensk Kärnbränslehantering AB,Manager,Chemistry,1994
 Sverige,Svenska Elektrod AB,Product Manager,Chemistry,2009
 Sverige,Svenska Statoil,Development Engineer,Chemistry,2003
 Sverige,Svenska Statoil,Environmental Manager,Chemistry,1987
-Sverige,Sweco,Project Manager,Chemistry,2006
+Sverige,Sweco,Project manager,Chemistry,2006
 Sverige,Swedish Orphan Biovitrum,Quality Manager,Chemistry,1999
 Kanada,Syngenta,Product Technical Chemist,Chemistry,2007
 Sverige,Systembolaget,Laboratory Engineer,Chemistry,2008
@@ -558,19 +558,19 @@ Sverige,Visy Plastics,Product Development Manager,Chemistry,2002
 Tyskland,Voith Paper,Commissioning,Chemistry,2011
 Sverige,Voith Paper,Regional Sales Manager,Chemistry,1993
 Sverige,Volvo,Project and Environmental Assurance,Chemistry,1996
-Sverige,Volvo,Project Manager,Chemistry,2012
+Sverige,Volvo,Project manager,Chemistry,2012
 Nederländerna,Wageningen University,PhD Student,Chemistry,2012
 Sverige,Wallenius marine,Environment Specialist,Chemistry,2002
 Sverige,"Weber, Saint-Gobain Byggprodukter AB",Product Certification Manager,Chemistry,1990
 Sverige,Westinghouse,Process Engineer,Chemistry,2012
 Frankrike,Wolseley,Environmental Engineer,Chemistry,2010
 Sverige,WSP ,Consultant,Chemistry,2004
-Sverige,Xylem,Project Manager,Chemistry,2011
-Sverige,Ytkemiska Institutet,Project Manager,Chemistry,2007
+Sverige,Xylem,Project manager,Chemistry,2011
+Sverige,Ytkemiska Institutet,Project manager,Chemistry,2007
 Sverige, Symaskingsexperten,Administrator,Civil Engineering,2006
 Sverige,4Focus Leadership & Recruitment,Consultant,Civil Engineering,1984
-Sverige,A-bygg,Project Manager,Civil Engineering,2000
-Sverige,AB Borätt & gården AB,Project Manager,Civil Engineering,1998
+Sverige,A-bygg,Project manager,Civil Engineering,2000
+Sverige,AB Borätt & gården AB,Project manager,Civil Engineering,1998
 Sverige,AB Sofieberg,Property Manager,Civil Engineering,2006
 Schweiz,ABB Group,Vice President,Civil Engineering,1987
 Sverige,Aberdeen Property Fund Management AB,Associate,Civil Engineering,2002
@@ -581,14 +581,14 @@ Sverige,ÅF,Construction Engineer,Civil Engineering,2009
 Sverige,ÅF,Construction Engineer,Civil Engineering,2009
 Sverige,ÅF,Group Manager,Civil Engineering,1997
 Sverige,ÅF,Intern,Civil Engineering,2014
-Sverige,ÅF,Project Manager,Civil Engineering,2004
+Sverige,ÅF,Project manager,Civil Engineering,2004
 Sverige,Afa Fastigheter,Property Manager,Civil Engineering,2000
 Sverige,Agresso AB,Consultant,Civil Engineering,2002
 Sverige,AHÅ Utveckling AB,CEO,Civil Engineering,1980
 Sverige,AHÅ Utveckling AB,CEO,Civil Engineering,1980
 Sverige,Airtricity,Land Manager,Civil Engineering,1997
-Sverige,Akademiska Hus,Project Manager,Civil Engineering,1987
-Sverige,Akademiska Hus,Project Manager,Civil Engineering,1998
+Sverige,Akademiska Hus,Project manager,Civil Engineering,1987
+Sverige,Akademiska Hus,Project manager,Civil Engineering,1998
 Sverige,"Alecta Pensionsförsäkring, Öms",Manager,Civil Engineering,1993
 Sverige,Andersson Reim AB,Manager,Civil Engineering,2003
 Sverige,Andersson Reim AB,Manager,Civil Engineering,2003
@@ -600,26 +600,26 @@ Sverige,AstraZeneca,Portfolio Manager,Civil Engineering,1987
 Sverige,ATG,Project Director,Civil Engineering,1984
 Sverige,Atkins Svergie AB,Assignment Manager,Civil Engineering,1993
 Sverige,Atkins Sverige AB,Consultant,Civil Engineering,2004
-Sverige,Atkins Sverige AB,VA-Project Manager,Civil Engineering,2009
+Sverige,Atkins Sverige AB,VA-Project manager,Civil Engineering,2009
 Sverige,Atrium Ljungberg AB,Business Manager,Civil Engineering,2000
 Sverige,Avega Group,MD,Civil Engineering,2000
 Sverige,AxFast AB,Analyst,Civil Engineering,2008
 Sverige,Banverket,Geotechnician,Civil Engineering,2006
-Sverige,Banverket,Project Manager,Civil Engineering,2004
-Sverige,Banverket,Project Manager,Civil Engineering,1994
+Sverige,Banverket,Project manager,Civil Engineering,2004
+Sverige,Banverket,Project manager,Civil Engineering,1994
 Sverige,Banverket,Community Planner,Civil Engineering,2005
 Sverige,Bauhaus bromma,Sales Engineer,Civil Engineering,
 Sverige,Bergvik Skog AB,Property Manager,Civil Engineering,1987
-Sverige,Besqab,Project Manager,Civil Engineering,2004
-Sverige,Besqab Projekt och Fastigheter AB,Project Manager,Civil Engineering,2008
+Sverige,Besqab,Project manager,Civil Engineering,2004
+Sverige,Besqab Projekt och Fastigheter AB,Project manager,Civil Engineering,2008
 Sverige,Bewator AB,Buyer,Civil Engineering,2002
-Sverige,BFAB,Project Manager,Civil Engineering,1987
+Sverige,BFAB,Project manager,Civil Engineering,1987
 Sverige,BGK AB,Consultant,Civil Engineering,2011
 Sverige,Biovitrum AB,Director,Civil Engineering,1985
 Sverige,Biscaya Tak AB,Chairman,Civil Engineering,1994
 Thailand,Björks patent,Patent Attorney,Civil Engineering,1995
 Sverige,Bonnier Fastigheter,CEO,Civil Engineering,1999
-Sverige,Botkyrka kommun,Project Manager,Civil Engineering,1996
+Sverige,Botkyrka kommun,Project manager,Civil Engineering,1996
 Sverige,Botrygg,CEO,Civil Engineering,2008
 Sverige,Bravida AB,Manager,Civil Engineering,1999
 Sverige,Bro & Betong AB,Design Engineer,Civil Engineering,1997
@@ -637,7 +637,7 @@ Sverige,Connecta,Consultant,Civil Engineering,1990
 Sverige,Construedo AB,CEO,Civil Engineering,1987
 Danmark,COWI,Engineer,Civil Engineering,2003
 Sverige,COWI,Manager,Civil Engineering,2005
-Sverige,DA Falun,Project Manager,Civil Engineering,1989
+Sverige,DA Falun,Project manager,Civil Engineering,1989
 Sverige,Danderys kommun,Planning Manager,Civil Engineering,2004
 Sverige,Decerno,Consultant,Civil Engineering,2006
 Kambodja,Diakonia,Country Representative,Civil Engineering,1992
@@ -647,7 +647,7 @@ Sverige,Digpro Solutions AB,GIS Consultant,Civil Engineering,2013
 Sverige,Diligentia AB,CEO,Civil Engineering,1989
 Sverige,DTZ Sweden AB,Consultant,Civil Engineering,2008
 Sverige,DTZ Sweden AB,MSc,Civil Engineering,2007
-Sverige,DTZ Sweden AB,Project Manager,Civil Engineering,2004
+Sverige,DTZ Sweden AB,Project manager,Civil Engineering,2004
 Sverige,DTZ Sweden AB,Property Appraisers,Civil Engineering,2005
 Sverige,Dustin AB,Marketing Director,Civil Engineering,1987
 Sverige,East Capital,Product Manager,Civil Engineering,2009
@@ -671,24 +671,24 @@ Sverige,Ernst & Young,Manager,Civil Engineering,2000
 Sverige,Eskilstuna kommun,Planner,Civil Engineering,2005
 Sverige,Eskilstuna kommun,Ground Engineer,Civil Engineering,2004
 Storbritannien,European Medicins Agency,Head of Infrastructure Services Department,Civil Engineering,1990
-Sverige,Exploateringskontoret Stockholms Stad,Project Manager,Civil Engineering,1992
+Sverige,Exploateringskontoret Stockholms Stad,Project manager,Civil Engineering,1992
 Sverige,FABEGE,Property Development,Civil Engineering,1998
 Sverige,Fast Partner,Property Manager,Civil Engineering,2005
 Sverige,Fasticon AB,Consultant,Civil Engineering,1995
 Sverige,Fasticon AB,Upphandladre,Civil Engineering,2010
 Sverige,Fastighetsägarna,Business Policy Expert,Civil Engineering,1998
-Sverige,Fastighetsägarna,Project Manager,Civil Engineering,2007
+Sverige,Fastighetsägarna,Project manager,Civil Engineering,2007
 Storbritannien,First Penthouse Ltd,Managing Director,Civil Engineering,
 Sverige,FNs utvecklingsprogram UNDP,Water Resources Advisor,Civil Engineering,1987
-Sverige,Forsen Projekt AB,Project Manager,Civil Engineering,1992
-Sverige,Forsen Projekt AB,Project Manager,Civil Engineering,2002
+Sverige,Forsen Projekt AB,Project manager,Civil Engineering,1992
+Sverige,Forsen Projekt AB,Project manager,Civil Engineering,2002
 Sverige,Försvarsmakten,Surveyor,Civil Engineering,1991
 Sverige,Försvarsmakten,Surveyor,Civil Engineering,1991
 Sverige,Fortifikationsverket,Development Manager,Civil Engineering,1988
 Sverige,Fortifikationsverket,Trainee,Civil Engineering,2009
-Sverige,Fortum,Project Manager,Civil Engineering,2004
+Sverige,Fortum,Project manager,Civil Engineering,2004
 Sverige,Fugro AS,Navigator,Civil Engineering,2009
-Sverige,General Electric,Project Manager,Civil Engineering,1984
+Sverige,General Electric,Project manager,Civil Engineering,1984
 Sverige,General Electric,Underwriter,Civil Engineering,2000
 Sverige,Geo Risk & Vibration Scandinavia AB,Consultant,Civil Engineering,2008
 Sverige,GIS Försäkringskonsult AB,CEO,Civil Engineering,1984
@@ -700,14 +700,14 @@ Sverige,Grontmij,Design Engineer,Civil Engineering,2009
 Sverige,Grontmij,Geotechnician,Civil Engineering,2011
 Sverige,Grontmij,Group Manager,Civil Engineering,1997
 Sverige,Gunnar Karlsen Sverige AB,Manager,Civil Engineering,2009
-Sverige,Gunnar Karlsen Sverige AB,Project Manager,Civil Engineering,2011
+Sverige,Gunnar Karlsen Sverige AB,Project manager,Civil Engineering,2011
 Sverige,Håbo kommun,Property Development,Civil Engineering,1986
 Sverige,Haystack,Self Employed,Civil Engineering,1986
 Sverige,Hemsö,CEO,Civil Engineering,1984
-Sverige,Hifab,Project Manager,Civil Engineering,1996
+Sverige,Hifab,Project manager,Civil Engineering,1996
 Sverige,Hifab,Regional Manager East Africa,Civil Engineering,2002
 Sverige,Hirvi Engineering,CEO,Civil Engineering,2007
-Sverige,HSB,Project Manager,Civil Engineering,2006
+Sverige,HSB,Project manager,Civil Engineering,2006
 Norge,HTS maskinteknikk as,Quality & HSE manager,Civil Engineering,
 Sverige,Huddinge Kommun,Building Engineer,Civil Engineering,1995
 Sverige,Huddinge Kommun,Project Engineer,Civil Engineering,2007
@@ -718,7 +718,7 @@ Sverige,IBM,IT Manager,Civil Engineering,1991
 Sverige,IBM,Software developer,Civil Engineering,1995
 Sverige,IBM,Software developer,Civil Engineering,1995
 Sverige,Ica,Controller,Civil Engineering,1985
-Sverige,Ica,Project Manager,Civil Engineering,1990
+Sverige,Ica,Project manager,Civil Engineering,1990
 Sverige,IKEA,Project Director,Civil Engineering,1997
 Sverige,Implenia Norge AS,Project Engineer,Civil Engineering,2011
 Sverige,Imtech,Calculation Engineer,Civil Engineering,2013
@@ -726,16 +726,16 @@ Norge,Innovatec - Innovative Technologies AS,PLM & ILS solutions architect,Civil
 Sverige,Inovia,CEO,Civil Engineering,2002
 Sverige,IQ Samhällsbyggnad,CEO,Civil Engineering,1993
 Sverige,ISS Facility Services AB,Head of IT,Civil Engineering,1999
-Sverige,ISS Property services,Project Manager,Civil Engineering,1992
+Sverige,ISS Property services,Project manager,Civil Engineering,1992
 Sverige,Itasca Consultants AB,Mountain Mechanic,Civil Engineering,2010
-Sverige,IVL Svenska Miljöinstitutet,Researcher,Civil Engineering,2000
+Sverige,IVL Svenska Miljöinstitutet,Research,Civil Engineering,2000
 Sverige,Jernhusen AB,Regional Manager ,Civil Engineering,1999
 Sverige,JM,Buyer,Civil Engineering,2005
 Sverige,JM,Manager,Civil Engineering,1987
 Sverige,JM,Site Engineer,Civil Engineering,2003
-Sverige,JM,Project Manager,Civil Engineering,2005
-Sverige,JM,Project Manager,Civil Engineering,1998
-Sverige,JM,Project Manager,Civil Engineering,2004
+Sverige,JM,Project manager,Civil Engineering,2005
+Sverige,JM,Project manager,Civil Engineering,1998
+Sverige,JM,Project manager,Civil Engineering,2004
 Sverige,JM,Property Development,Civil Engineering,1993
 Sverige,JM,Purchasing Manager,Civil Engineering,1997
 Sverige,JM,Supervisor,Civil Engineering,2008
@@ -753,7 +753,7 @@ Sverige,Klara Norra Fastigheter AB,CEO,Civil Engineering,1993
 Sverige,Klövern AB,Manager,Civil Engineering,1998
 Sverige,Kommun; Samhällsbyggnadsförvaltningen,Land- and Development Engineer,Civil Engineering,1998
 Sverige,Konkret Rådgivande Ingenjörer i Stockholm AB,Structural Engineer,Civil Engineering,2008
-Sverige,Kreativ Byggkonsult AB,Project Manager,Civil Engineering,2012
+Sverige,Kreativ Byggkonsult AB,Project manager,Civil Engineering,2012
 Sverige,Kriminalvården,Property Manager,Civil Engineering,
 Sverige,Royal Institute of Technology,Director of Operations and Maintenance,Civil Engineering,1973
 Sverige,Royal Institute of Technology,Head of Unit,Civil Engineering,1975
@@ -763,13 +763,13 @@ Sverige,Royal Institute of Technology,PhD Student,Civil Engineering,2009
 Sverige,Royal Institute of Technology,PhD Student,Civil Engineering,2009
 Sverige,Royal Institute of Technology,PhD Student,Civil Engineering,2010
 Sverige,Royal Institute of Technology,Research Assistant,Civil Engineering,2011
-Sverige,Royal Institute of Technology,Researcher,Civil Engineering,1987
+Sverige,Royal Institute of Technology,Research,Civil Engineering,1987
 Sverige,Royal Institute of Technology,Student Relations Manager,Civil Engineering,
 Sverige,Länsstyrelsen,Administrator,Civil Engineering,2004
 Sverige,Länsstyrelsen,GIS Coordinator,Civil Engineering,2000
 Sverige,Länsstyrelsen,Director of Communications,Civil Engineering,1994
 Sverige,Länsstyrelsen,Floor Administrator,Civil Engineering,2002
-Sverige,Länsstyrelsen,Project Manager,Civil Engineering,2005
+Sverige,Länsstyrelsen,Project manager,Civil Engineering,2005
 Sverige,Lantmännen,CEO,Civil Engineering,1985
 Sverige,Lantmäteriet,Business Area Manager,Civil Engineering,1983
 Sverige,Lantmäteriet,Business Development,Civil Engineering,1983
@@ -777,8 +777,13 @@ Sverige,Lantmäteriet,Specalist,Civil Engineering,2006
 Sverige,Lantmäteriet,Function Manager,Civil Engineering,2010
 Sverige,Lantmäteriet,Head of Unit,Civil Engineering,1993
 Sverige,Lantmäteriet,Head of Unit,Civil Engineering,2003
+<<<<<<< HEAD
 Sverige,Lantmäteriet,Researcher,Civil Engineering,
 Sverige,Lantmäteriet,Software developer,Civil Engineering,2009
+=======
+Sverige,Lantmäteriet,Research,Civil Engineering,
+Sverige,Lantmäteriet,Software Developer,Civil Engineering,2009
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Lantmäteriet,Specialist,Civil Engineering,2004
 Sverige,Lantmäteriet,Deputy head of Unit,Civil Engineering,1994
 Sverige,Lantmäteriet,Surveyor,Civil Engineering,2007
@@ -804,7 +809,7 @@ Sverige,Linköpings Universitet,PhD Student,Civil Engineering,2009
 Sverige,Linköpings Universitet,Propperty Accountant,Civil Engineering,1983
 Sverige,Locum,Account Manager,Civil Engineering,2001
 Sverige,Locum,Manager,Civil Engineering,2000
-Sverige,Locum,Project Manager,Civil Engineering,1987
+Sverige,Locum,Project manager,Civil Engineering,1987
 Sverige,Locum,Property Development,Civil Engineering,2010
 Sverige,Locum,Technician,Civil Engineering,1987
 Sverige,Looström & Gelin,Design Engineer,Civil Engineering,2009
@@ -813,18 +818,18 @@ Sverige,META Fastighetsadministration AB,CEO,Civil Engineering,1997
 Sverige,Metator VVS Konsult AB,Design Engineer,Civil Engineering,2005
 Sverige,Metria,Geographic Analyst,Civil Engineering,2003
 Sverige,Miam,Fund Manager,Civil Engineering,1997
-Sverige,Micasa Fastigheter,Project Manager,Civil Engineering,2005
+Sverige,Micasa Fastigheter,Project manager,Civil Engineering,2005
 Sverige,Microsoft,Solution Specialist,Civil Engineering,1988
-Sverige,Miljöstyrningsrådet,Project Manager,Civil Engineering,2000
-Sverige,Mölndals stad,Project Manager,Civil Engineering,1998
+Sverige,Miljöstyrningsrådet,Project manager,Civil Engineering,2000
+Sverige,Mölndals stad,Project manager,Civil Engineering,1998
 Sverige,More10 AB,CEO,Civil Engineering,1974
 Sverige,More10 AB,CEO,Civil Engineering,1974
 Sverige,MVB Öst AB,Calculation Engineer,Civil Engineering,1996
 Sverige,MVB Öst AB,Construction Engineer,Civil Engineering,2013
 Sverige,Myndigheten för tillväxtpolitiska utvärderingar och analyser,Manager,Civil Engineering,1993
 Sverige,Nacka kommun,Architect,Civil Engineering,2006
-Sverige,Nacka kommun,Project Manager,Civil Engineering,2006
-Sverige,Nacka kommun,Project Manager,Civil Engineering,2013
+Sverige,Nacka kommun,Project manager,Civil Engineering,2006
+Sverige,Nacka kommun,Project manager,Civil Engineering,2013
 Sverige,Nacka kommun,Surveyor,Civil Engineering,2010
 Sverige,Nacka kommun,Surveyor Manager,Civil Engineering,2002
 Sverige,Nacka kommun,Surveyor Manager,Civil Engineering,2002
@@ -843,13 +848,13 @@ Sverige,NCC,Geotechnician,Civil Engineering,2008
 Sverige,NCC,Manager,Civil Engineering,1998
 Sverige,NCC,Manager,Civil Engineering,2006
 Sverige,NCC,Manager,Civil Engineering,1991
-Sverige,NCC,Project Manager,Civil Engineering,2005
-Sverige,NCC,Project Manager,Civil Engineering,2006
-Sverige,NCC,Project Manager,Civil Engineering,2000
-Sverige,NCC,Project Manager,Civil Engineering,2006
-Sverige,NCC,Project Manager,Civil Engineering,1994
-Sverige,NCC,Project Manager,Civil Engineering,
-Sverige,NCC,Project Manager,Civil Engineering,2000
+Sverige,NCC,Project manager,Civil Engineering,2005
+Sverige,NCC,Project manager,Civil Engineering,2006
+Sverige,NCC,Project manager,Civil Engineering,2000
+Sverige,NCC,Project manager,Civil Engineering,2006
+Sverige,NCC,Project manager,Civil Engineering,1994
+Sverige,NCC,Project manager,Civil Engineering,
+Sverige,NCC,Project manager,Civil Engineering,2000
 Sverige,NCC,Trainee,Civil Engineering,2006
 Sverige,NCC,Trainee,Civil Engineering,2008
 Sverige,NCC,Trainee,Civil Engineering,2012
@@ -882,15 +887,15 @@ Sverige,Peab,Construction Engineer,Civil Engineering,2004
 Sverige,Peab,Construction Engineer,Civil Engineering,
 Sverige,Peab,Environmental Coordinator,Civil Engineering,2004
 Sverige,Peab,Project Developer,Civil Engineering,1999
-Sverige,Peab,Project Manager,Civil Engineering,
+Sverige,Peab,Project manager,Civil Engineering,
 Sverige,Peab,Supervisor,Civil Engineering,
 Sverige,Peikko Sverige AB,Technical Consultant,Civil Engineering,2005
 Sverige,Pembroke Real Estate,Construction Manager,Civil Engineering,2000
 Sverige,pensionär,Specialist,Civil Engineering,1978
 Sverige,Profi Förvaltning AB,Vice President ,Civil Engineering,2003
-Sverige,Projektbyrån Stockholm AB,Project Manager,Civil Engineering,2006
-Sverige,Projektengagemang,Project Manager,Civil Engineering,2010
-Sverige,Projektengagemang,Project Manager,Civil Engineering,2012
+Sverige,Projektbyrån Stockholm AB,Project manager,Civil Engineering,2006
+Sverige,Projektengagemang,Project manager,Civil Engineering,2010
+Sverige,Projektengagemang,Project manager,Civil Engineering,2012
 Sverige,Projektledarhuset,Business Area Manager,Civil Engineering,1984
 Sverige,Projektlots Norr AB,CEO,Civil Engineering,1987
 Sverige,Pronordia AB,CEO,Civil Engineering,1992
@@ -901,21 +906,21 @@ Sverige,Ramboll,Consultant,Civil Engineering,2005
 Sverige,Ramboll,Design Engineer,Civil Engineering,2007
 Sverige,Ramboll,Design Engineer,Civil Engineering,2011
 Sverige,Ramboll,Head of Unit,Civil Engineering,1997
-Sverige,Ramboll,Project Manager,Civil Engineering,2006
-Sverige,Ramboll,Project Manager,Civil Engineering,2007
-Sverige,Ramboll,Project Manager,Civil Engineering,2007
-Sverige,Ramboll,Project Manager,Civil Engineering,2012
+Sverige,Ramboll,Project manager,Civil Engineering,2006
+Sverige,Ramboll,Project manager,Civil Engineering,2007
+Sverige,Ramboll,Project manager,Civil Engineering,2007
+Sverige,Ramboll,Project manager,Civil Engineering,2012
 Sverige,Ramboll,Traffic Planner,Civil Engineering,2005
 Sverige,Ramboll,Traffic Planner,Civil Engineering,2006
 Sverige,Ramboll,Assignment Manager,Civil Engineering,2002
 Sverige,Ramboll,Environmental Consultant,Civil Engineering,1999
 Sverige,Redevco,Property Manager,Civil Engineering,2002
-Norge,Reinertsen AS,Project Manager,Civil Engineering,2004
+Norge,Reinertsen AS,Project manager,Civil Engineering,2004
 Sverige,Retail Finance AB,Head of Business Development,Civil Engineering,2003
-Sverige,Riksdagsförvaltningen vid Sveriges riksdag,Project Manager,Civil Engineering,2001
+Sverige,Riksdagsförvaltningen vid Sveriges riksdag,Project manager,Civil Engineering,2001
 Sverige,Rikshem,Analyst,Civil Engineering,2009
 Sverige,Rikspolisstyrelsen,Engineer,Civil Engineering,1991
-Sverige,Rockstore Engineering,Project Manager,Civil Engineering,2006
+Sverige,Rockstore Engineering,Project manager,Civil Engineering,2006
 Sverige,Rodamco,Asset Manager,Civil Engineering,2003
 Sverige,Rodamco,Construction Manager,Civil Engineering,2007
 Sverige,Rotpartner,CEO,Civil Engineering,2011
@@ -923,7 +928,7 @@ Sverige,Rotpartner,CEO,Civil Engineering,2011
 Sverige,Ruukki Sverige AB,Development Director,Civil Engineering,1994
 Sverige,S. Reibos Ingenjörsfirma,Consultant,Civil Engineering,2006
 Sverige,Saab Group,Technical Author,Civil Engineering,1996
-Sverige,SABO AB,Project Manager,Civil Engineering,2002
+Sverige,SABO AB,Project manager,Civil Engineering,2002
 Sverige,Sätila Holding AB,Administration Manager,Civil Engineering,2009
 Sverige,Savills,Research Manager,Civil Engineering,2001
 Sverige,SBAB,Manager,Civil Engineering,2002
@@ -932,10 +937,10 @@ Sverige,Scalado AB,Software Architect,Civil Engineering,2000
 Sverige,Scania,Patent Manager,Civil Engineering,1995
 Sverige,Skandinaviska Enskilda Banken,Group Manager,Civil Engineering,1999
 Sverige,Skandinaviska Enskilda Banken,IT Architect,Civil Engineering,1983
-Sverige,Skandinaviska Enskilda Banken,Project Manager,Civil Engineering,1999
+Sverige,Skandinaviska Enskilda Banken,Project manager,Civil Engineering,1999
 Australien,Sinclair Knight Merz,Structural Engineer,Civil Engineering,2005
-Norge,SINTEF Byggforsk,Researcher,Civil Engineering,2010
-Sverige,SIS,Project Manager,Civil Engineering,2002
+Norge,SINTEF Byggforsk,Research,Civil Engineering,2010
+Sverige,SIS,Project manager,Civil Engineering,2002
 Sverige,SIS,Property Manager,Civil Engineering,2004
 Sverige,Skanska,Buyer,Civil Engineering,1985
 Sverige,Skanska,CEO,Civil Engineering,1994
@@ -964,24 +969,24 @@ Sverige,Skanska,Project Engineer,Civil Engineering,2006
 Sverige,Skanska,Project Engineer,Civil Engineering,2011
 Sverige,Skanska,Project Engineer,Civil Engineering,2008
 Sverige,Skanska,Project Engineer,Civil Engineering,2009
-Sverige,Skanska,Project Manager,Civil Engineering,2008
-Sverige,Skanska,Project Manager,Civil Engineering,2003
-Sverige,Skanska,Project Manager,Civil Engineering,1988
-Sverige,Skanska,Project Manager,Civil Engineering,1989
-Sverige,Skanska,Project Manager,Civil Engineering,2004
-Sverige,Skanska,Project Manager,Civil Engineering,2000
+Sverige,Skanska,Project manager,Civil Engineering,2008
+Sverige,Skanska,Project manager,Civil Engineering,2003
+Sverige,Skanska,Project manager,Civil Engineering,1988
+Sverige,Skanska,Project manager,Civil Engineering,1989
+Sverige,Skanska,Project manager,Civil Engineering,2004
+Sverige,Skanska,Project manager,Civil Engineering,2000
 Sverige,Skanska,Project Developer,Civil Engineering,2002
 Sverige,Skanska,Project Engineer,Civil Engineering,2011
 Sverige,Skanska,Research Manager,Civil Engineering,2006
 Sverige,Skanska,Supervisor,Civil Engineering,2007
 Sverige,Skanska,Vice President ,Civil Engineering,1994
 Sverige,Skanska,Vice President ,Civil Engineering,1990
-Sverige,SL,Project Manager,Civil Engineering,2000
+Sverige,SL,Project manager,Civil Engineering,2000
 Sverige,Södertälje kommun,Environmental Protection Inspector,Civil Engineering,1991
 Sverige,Södertälje Kommun,Investigation Engineer,Civil Engineering,1997
 Sverige,Solna Stad,GIS Coordinator,Civil Engineering,2002
-Sverige,Specialfastigheter,Project Manager,Civil Engineering,2004
-Norge,Sporveien Oslo As,Project Manager,Civil Engineering,2007
+Sverige,Specialfastigheter,Project manager,Civil Engineering,2004
+Norge,Sporveien Oslo As,Project manager,Civil Engineering,2007
 Sverige,Spotscale,Business Developer,Civil Engineering,2003
 Sverige,Spring,Sales Manager,Civil Engineering,2001
 Sverige,Stadsbyggnadskontoret,Administrator,Civil Engineering,1994
@@ -997,11 +1002,11 @@ Sverige,Stockholm Globe Arena Fastigheter AB,CEO,Civil Engineering,1985
 Sverige,Stockholm Stad,Construction Manager,Civil Engineering,2006
 Sverige,Stockholm Stad,Exploitation Engineer,Civil Engineering,2007
 Sverige,Stockholm Stad,Head of Unit,Civil Engineering,2000
-Sverige,Stockholm Stad,Project Manager,Civil Engineering,1994
-Sverige,Stockholm Stad,Project Manager,Civil Engineering,2005
-Sverige,Stockholm Stad,Project Manager,Civil Engineering,2003
-Sverige,Stockholm Stad,Project Manager,Civil Engineering,1999
-Sverige,Stockholm Stad,Project Manager,Civil Engineering,2004
+Sverige,Stockholm Stad,Project manager,Civil Engineering,1994
+Sverige,Stockholm Stad,Project manager,Civil Engineering,2005
+Sverige,Stockholm Stad,Project manager,Civil Engineering,2003
+Sverige,Stockholm Stad,Project manager,Civil Engineering,1999
+Sverige,Stockholm Stad,Project manager,Civil Engineering,2004
 Sverige,Stockholm Stad,Property Development,Civil Engineering,1995
 Sverige,Stockholm Stad,Property Director,Civil Engineering,1999
 Sverige,Stockholm Stad,City Planning Director,Civil Engineering,1993
@@ -1023,8 +1028,8 @@ Sverige,Structor,Engineer,Civil Engineering,2006
 Sverige,Structor,Project Developer,Civil Engineering,2004
 Sverige,Structor,Project Developer,Civil Engineering,2004
 Sverige,Structor,Project Developer,Civil Engineering,2009
-Sverige,Structor,Project Manager,Civil Engineering,2006
-Sverige,Structor,Project Manager,Civil Engineering,2006
+Sverige,Structor,Project manager,Civil Engineering,2006
+Sverige,Structor,Project manager,Civil Engineering,2006
 Sverige,Struptor,Surveyor,Civil Engineering,2006
 Singapore,Subsea 7,Project Engineer,Civil Engineering,2002
 Sverige,Sundbybergs Stad,Traffic Planner,Civil Engineering,2002
@@ -1058,25 +1063,25 @@ Sverige,Sweco,Group Manager,Civil Engineering,1996
 Sverige,Sweco,Constructor,Civil Engineering,1992
 Sverige,Sweco,Constructor,Civil Engineering,1997
 Sverige,Sweco,Manager,Civil Engineering,2000
-Sverige,Sweco,Project Manager,Civil Engineering,2004
-Sverige,Sweco,Project Manager,Civil Engineering,2000
-Sverige,Sweco,Project Manager,Civil Engineering,2006
-Sverige,Sweco,Project Manager,Civil Engineering,2009
-Sverige,Sweco,Project Manager,Civil Engineering,2009
+Sverige,Sweco,Project manager,Civil Engineering,2004
+Sverige,Sweco,Project manager,Civil Engineering,2000
+Sverige,Sweco,Project manager,Civil Engineering,2006
+Sverige,Sweco,Project manager,Civil Engineering,2009
+Sverige,Sweco,Project manager,Civil Engineering,2009
 Sverige,Sweco,Surveyor,Civil Engineering,2006
 Sverige,Sweco,Traffic Planner,Civil Engineering,2005
 Sverige,Sweco,Road Assignment Manager,Civil Engineering,2003
 Sverige,Swedbank,Head of Transition Office,Civil Engineering,1983
 Sverige,Swedbank,Head of Transition Office,Civil Engineering,1983
-Sverige,Swedbank,Project Manager,Civil Engineering,1999
-Sverige,Swepro,Project Manager,Civil Engineering,1991
-Sverige,Swepro,Project Manager,Civil Engineering,1999
+Sverige,Swedbank,Project manager,Civil Engineering,1999
+Sverige,Swepro,Project manager,Civil Engineering,1991
+Sverige,Swepro,Project manager,Civil Engineering,1999
 Sverige,Synergenix Interactive AB,Business Developer,Civil Engineering,2001
 Sverige,Täby kommun,Exploitation Engineer,Civil Engineering,1999
 Sverige,Täby kommun,Surveyor Manager,Civil Engineering,1974
 Sverige,Tagehus AB,CEO,Civil Engineering,1996
 Sverige,Tailings Consultants Scandinavia AB,Administrator Mining Ponds,Civil Engineering,2012
-Sverige,Telge,Project Manager,Civil Engineering,1991
+Sverige,Telge,Project manager,Civil Engineering,1991
 Sverige,TeliaSonera,Environmental Manager,Civil Engineering,1995
 Sverige,TeliaSonera,Surveyor,Civil Engineering,2005
 Sverige,TeliaSonera,Surveyor,Civil Engineering,2006
@@ -1092,7 +1097,7 @@ Sverige,Trafikverket,Administrator,Civil Engineering,1999
 Sverige,Trafikverket,Environmental Engineer,Civil Engineering,2011
 Sverige,Trafikverket,Group Manager,Civil Engineering,2010
 Sverige,Trafikverket,Land Negotiator,Civil Engineering,2008
-Sverige,Trafikverket,Project Manager,Civil Engineering,1996
+Sverige,Trafikverket,Project manager,Civil Engineering,1996
 Sverige,Trafikverket,Section Manager,Civil Engineering,1992
 Sverige,Trafikverket,Specialist,Civil Engineering,1991
 Sverige,Trafikverket,Strategist,Civil Engineering,1992
@@ -1104,20 +1109,20 @@ Sverige,Tyréns,Administrator Contructions,Civil Engineering,2003
 Sverige,Tyréns,Design Engineer,Civil Engineering,2004
 Sverige,Tyréns,Design Engineer,Civil Engineering,2007
 Sverige,Tyréns,Geotechnician,Civil Engineering,2011
-Sverige,Tyréns,Project Manager,Civil Engineering,1999
-Sverige,Tyréns,Project Manager,Civil Engineering,1999
+Sverige,Tyréns,Project manager,Civil Engineering,1999
+Sverige,Tyréns,Project manager,Civil Engineering,1999
 Danmark,Tyréns,Structural Engineer,Civil Engineering,2004
 Sverige,Tyresö kommun,Exploitation Engineer,Civil Engineering,2010
 Sverige,Tyresö kommun,surveying and mapping manager,Civil Engineering,2008
 Sverige,UIB Nordic AB,Risk Engineering Practice Leader,Civil Engineering,1993
-Sverige,Unibail-Rodamco,Project Manager,Civil Engineering,2005
-Sverige,Unibail-Rodamco,Project Manager,Civil Engineering,2005
+Sverige,Unibail-Rodamco,Project manager,Civil Engineering,2005
+Sverige,Unibail-Rodamco,Project manager,Civil Engineering,2005
 Sverige,Unit4 Agresso,System Specialist,Civil Engineering,2010
 Kanada,University of Alberta,Professor,Civil Engineering,1998
 Sverige,Upplands Väsby kommun,GIS Coordinator,Civil Engineering,2001
 Sverige,Upplands Väsby kommun,Land- and Development Engineer,Civil Engineering,2001
 Sverige,Uppsala kommun,Exploitation Engineer,Civil Engineering,2005
-Sverige,Uppsala kommun,Project Manager,Civil Engineering,2010
+Sverige,Uppsala kommun,Project manager,Civil Engineering,2010
 Sverige,Uppsala Universitet,Professor,Civil Engineering,
 Sverige,Vägverket,Calculation Engineer,Civil Engineering,2008
 Sverige,Vägverket,Environmental Engineer,Civil Engineering,2001
@@ -1157,7 +1162,7 @@ Sverige,WSP ,Design Engineer,Civil Engineering,2010
 Sverige,WSP ,Group Manager,Civil Engineering,1993
 Sverige,WSP ,Group Manager,Civil Engineering,1993
 Sverige,WSP ,Manager,Civil Engineering,1999
-Sverige,WSP ,Project Manager,Civil Engineering,2000
+Sverige,WSP ,Project manager,Civil Engineering,2000
 Sverige,WSP ,Road Assignment Manager,Civil Engineering,2002
 Sverige,Xervon Sweden AB,CEO,Civil Engineering,1996
 Sverige,.SE,System Administrator,Computer Science,2007
@@ -1232,8 +1237,13 @@ Sverige,Bwin Games AB,Software developer,Computer Science,2005
 Sverige,C Security Systems AB,CEO,Computer Science,2005
 Tyskland,Cadence Design Systems,Applications Engineer,Computer Science,2005
 Sverige,Capgemini AB,Principal,Computer Science,1995
+<<<<<<< HEAD
 Tyskland,CAS Software A.G,Researcher,Computer Science,2011
 Sverige,CashGuard AB,Software developer,Computer Science,1995
+=======
+Tyskland,CAS Software A.G,Research,Computer Science,2011
+Sverige,CashGuard AB,Software Developer,Computer Science,1995
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Bangladesh,Central Hospital Limeted,IT Manager,Computer Science,2011
 Sverige,Certezza AB,Manager,Computer Science,2004
 Sverige,Certosoft HB,Consultant,Computer Science,1997
@@ -1249,8 +1259,13 @@ Sverige,Cinnober Financial Technology AB,Software developer,Computer Science,200
 Sverige,Cint,Developer,Computer Science,2003
 Sverige,Cint,Programmer,Computer Science,2008
 Sverige,Cision,Group Manager,Computer Science,2005
+<<<<<<< HEAD
 Sverige,Cision,Project Manager,Computer Science,2001
 Sverige,Clickgirot,Software developer,Computer Science,2008
+=======
+Sverige,Cision,Project manager,Computer Science,2001
+Sverige,Clickgirot,Software Developer,Computer Science,2008
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Codelirium,Self Employed,Computer Science,2004
 Sverige,Cognos | IBM,Consultant,Computer Science,2004
 Sverige,Columbia University,Ritt Assistant Professor,Computer Science,2005
@@ -1261,7 +1276,7 @@ Sverige,Connecta,Consultant,Computer Science,2004
 Thailand,"Coon Software Co., Ltd.",Managing Director,Computer Science,2001
 Sverige,Cosaq AB,Consultant,Computer Science,2000
 Schweiz,Credit Suisse,Equity Derivatives Structuring,Computer Science,2003
-Sverige,Creuna,Project Manager,Computer Science,2005
+Sverige,Creuna,Project manager,Computer Science,2005
 Sverige,CSG International (Ascade AB),Integration Developer,Computer Science,2011
 Sverige,CVICSE,Deputy Dirctor,Computer Science,2010
 Sverige,Cybercom,Consultant,Computer Science,2006
@@ -1286,7 +1301,7 @@ Sverige,Deloitte,Manager,Computer Science,2004
 USA,Delphix,IT Support,Computer Science,2011
 USA,Digital,CEO,Computer Science,1988
 Sverige,Digital,Manager,Computer Science,1995
-Sverige,Digital,Researcher,Computer Science,2006
+Sverige,Digital,Research,Computer Science,2006
 Sverige,Dokumentera EU AB,Technical Author,Computer Science,2001
 Sverige,Dokumentera EU AB,Technical Author,Computer Science,2001
 Sverige,Donald Davies & Partners AB,Self Employed,Computer Science,2002
@@ -1315,7 +1330,7 @@ Sverige,Ericsson,IT Solution,Computer Science,2004
 Sverige,Ericsson,Network Operation Manager,Computer Science,2003
 Sverige,Ericsson,Patent Attorney,Computer Science,1997
 Sverige,Ericsson,Patent Attorney,Computer Science,1997
-Sverige,Ericsson,Project Manager,Computer Science,2006
+Sverige,Ericsson,Project manager,Computer Science,2006
 Sverige,Ericsson,Scrum Master,Computer Science,2005
 Sverige,Ericsson,Security Manager,Computer Science,1990
 Sverige,Ericsson,Software Designer,Computer Science,2008
@@ -1370,7 +1385,7 @@ Sverige,H&M,Software developer,Computer Science,2005
 Sverige,Hafslund,Manager,Computer Science,2005
 Sverige,Handelsbanken,IT Manager,Computer Science,1989
 Sverige,Handelsbanken,IT Manager,Computer Science,1989
-USA,Hewlett Packard,Project Manager,Computer Science,1989
+USA,Hewlett Packard,Project manager,Computer Science,1989
 Sverige,Hewlett Packard,System Engineer,Computer Science,2007
 Sverige,Hi3G Access,Application Specialist,Computer Science,2004
 Sverige,Hi3G Access,Software developer,Computer Science,2007
@@ -1396,12 +1411,12 @@ Sverige,INRIA,PhD Student,Computer Science,2010
 Tyskland,Intel,NAS Developer,Computer Science,2009
 Sverige,Intelligenca AB,Founder,Computer Science,1996
 Sverige,Intrum,Manager,Computer Science,1995
-Sverige,ISD Technologies,Technical Project Manager,Computer Science,2001
+Sverige,ISD Technologies,Technical Project manager,Computer Science,2001
 Sverige,Iteam Solutions,Self Employed,Computer Science,2002
 Sverige,ITT Water & Wastewater,Enterprise Architect,Computer Science,1995
 Sverige,Jage IT Consulting,Consultant,Computer Science,2004
 Sverige,Jajja Communications AB,CTO,Computer Science,2007
-Sverige,Jeeves Information System,Project Manager,Computer Science,2002
+Sverige,Jeeves Information System,Project manager,Computer Science,2002
 Sverige,Jentell Consulting,Self Employed,Computer Science,2007
 Sverige,Kapsch Trafficom AB,Software developer,Computer Science,2004
 Sverige,Karolinska Institutet,IT Manager,Computer Science,2005
@@ -1412,7 +1427,7 @@ Sverige,King,Product Owner,Computer Science,2004
 Sverige,Klarna,Cluster Manager,Computer Science,2000
 Sverige,KMD Informatik,Consultant,Computer Science,2000
 Sverige,Know IT,Consultant,Computer Science,1999
-Sverige,Kommunikationsmyndigheten PTS,Project Manager,Computer Science,2001
+Sverige,Kommunikationsmyndigheten PTS,Project manager,Computer Science,2001
 Sverige,Konsultbolag1,Consultant,Computer Science,2000
 Sverige,Korsnäs,System Engineer,Computer Science,2000
 Sverige,Kriminalvården,Investigator,Computer Science,2012
@@ -1422,10 +1437,10 @@ Sverige,Royal Institute of Technology,PhD Student,Computer Science,2007
 Sverige,Royal Institute of Technology,PhD Student,Computer Science,2006
 Sverige,Royal Institute of Technology,PhD Student,Computer Science,2007
 Sverige,Royal Institute of Technology,PhD Student,Computer Science,2012
-Sverige,Royal Institute of Technology,Researcher,Computer Science,2009
+Sverige,Royal Institute of Technology,Research,Computer Science,2009
 Sverige,Royal Institute of Technology,System Specialist,Computer Science,2007
 Sverige,Royal Institute of Technology,Teacher,Computer Science,2008
-Belgien,KU Leuven,Researcher,Computer Science,2009
+Belgien,KU Leuven,Research,Computer Science,2009
 Sverige,Kuponginlösen,Development Manager,Computer Science,2000
 Sverige,L.E.B System AB,Software developer,Computer Science,2008
 Sverige,Lady Winter,CEO,Computer Science,
@@ -1451,9 +1466,15 @@ Sverige,Meepo AB,Software developer,Computer Science,2008
 Sverige,mental images,Software developer,Computer Science,2007
 Sverige,Metamatrix,Computer Consultant,Computer Science,2009
 Sverige,Microsoft,Consultant,Computer Science,2000
+<<<<<<< HEAD
 Norge,Microsoft,Project Manager,Computer Science,2007
 Norge,Microsoft,Software developer,Computer Science,2012
 Danmark,Microsoft,Software developer,Computer Science,2009
+=======
+Norge,Microsoft,Project manager,Computer Science,2007
+Norge,Microsoft,Software Developer,Computer Science,2012
+Danmark,Microsoft,Software Developer,Computer Science,2009
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Mindwell,Consultant,Computer Science,2000
 Sverige,Mira Network,Head of Development,Computer Science,1996
 Sverige,Mojang AB,Web Manager,Computer Science,2008
@@ -1550,9 +1571,15 @@ Sverige,Röök Consulting,Business Analyst,Computer Science,1996
 Sverige,RPS,Security Specialist,Computer Science,2000
 Indien,Saab Group,Liaison officer,Computer Science,2014
 Sverige,Saab Group,Program Developer,Computer Science,
+<<<<<<< HEAD
 Sverige,Saab Group,Project Manager,Computer Science,2011
 Sverige,Saab Group,Software developer,Computer Science,2004
 Sverige,Saab Group,Software developer,Computer Science,2007
+=======
+Sverige,Saab Group,Project manager,Computer Science,2011
+Sverige,Saab Group,Software Developer,Computer Science,2004
+Sverige,Saab Group,Software Developer,Computer Science,2007
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Saab Group,System Engineer,Computer Science,2000
 Sverige,Saab Group,System Engineer,Computer Science,2009
 Sverige,Saab Group,System Engineer,Computer Science,2012
@@ -1574,15 +1601,21 @@ Sverige,Skandinaviska Enskilda Banken,Business Analyst,Computer Science,1999
 Tyskland,Skandinaviska Enskilda Banken,IT Administrator,Computer Science,2012
 Sverige,Skandinaviska Enskilda Banken,IT Architect,Computer Science,1995
 Sverige,Skandinaviska Enskilda Banken,Operation Manager,Computer Science,
+<<<<<<< HEAD
 Sverige,Skandinaviska Enskilda Banken,Project Manager,Computer Science,2011
 Sverige,Skandinaviska Enskilda Banken,Software developer,Computer Science,2005
 Sverige,Skandinaviska Enskilda Banken,Software developer,Computer Science,2003
+=======
+Sverige,Skandinaviska Enskilda Banken,Project manager,Computer Science,2011
+Sverige,Skandinaviska Enskilda Banken,Software Developer,Computer Science,2005
+Sverige,Skandinaviska Enskilda Banken,Software Developer,Computer Science,2003
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Skandinaviska Enskilda Banken,Structural Engineer,Computer Science,2000
 Sverige,Seko,Database Developer,Computer Science,2003
 Sverige,self-employed,Operation Manager,Computer Science,2002
 Sverige,Self-employed,Self Employed,Computer Science,2012
 Sverige,Sensehouse AB,CEO,Computer Science,
-Sverige,SICS,Researcher,Computer Science,
+Sverige,SICS,Research,Computer Science,
 Sverige,Siemens,System Integrator,Computer Science,2003
 Sverige,Sigma,Consultant,Computer Science,2000
 Sverige,Sigma,Information Engineer,Computer Science,2006
@@ -1635,8 +1668,13 @@ Sverige,Svensk ByggnadsGeodesi AB,Software developer,Computer Science,2004
 Sverige,Svensk Exportkredit,IT Architect,Computer Science,1992
 Sverige,Svensk IT funktion,Self Employed,Computer Science,2003
 Sverige,Svenska Handelsbanken,Information Security Consultant,Computer Science,1997
+<<<<<<< HEAD
 Sverige,Svenska Spel,Project Manager,Computer Science,1989
 Sverige,Svenska Spel,Software developer,Computer Science,2010
+=======
+Sverige,Svenska Spel,Project manager,Computer Science,1989
+Sverige,Svenska Spel,Software Developer,Computer Science,2010
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Swedbank,Infrastructure Engineer,Computer Science,2005
 Sverige,Swedbank,Security Engineer,Computer Science,2000
 Sverige,Swedbank,Software developer,Computer Science,2007
@@ -1653,7 +1691,7 @@ USA,TekStream Solutions LLC,Technical Architect,Computer Science,1987
 Sverige,Tele2,Analyst,Computer Science,2003
 Sverige,Tele2,Software developer,Computer Science,2005
 Sverige,Tele3,System Engineer,Computer Science,
-Sverige,Tele6,Technical Project Manager,Computer Science,2004
+Sverige,Tele6,Technical Project manager,Computer Science,2004
 Sverige,Teleopti AB,Manager,Computer Science,2005
 Sverige,TeliaSonera,Marketing Director,Computer Science,1987
 Sverige,TeliaSonera,System Specialist,Computer Science,1999
@@ -1695,7 +1733,7 @@ Sverige,Upplands-bro Kommun,Teacher,Computer Science,2005
 Sverige,Uppsala Universitet,PhD Student,Computer Science,2004
 Sverige,Uppsala Universitet,Research Assistant,Computer Science,2003
 Sverige,UPSYS - Upsala Systemkonsult AB,Consultant,Computer Science,2004
-Sverige,Valtec,Project Manager,Computer Science,2005
+Sverige,Valtec,Project manager,Computer Science,2005
 Sverige,Valtech,Consultant,Computer Science,1992
 Ungern,Veeva Systems Inc.,Consultant,Computer Science,2002
 Sverige,Verifone,Software developer,Computer Science,2011
@@ -1725,13 +1763,13 @@ Sverige,Ålands Bygg,Supervisor,Constructional Engineering and Design,2009
 Sverige,Centurion,Sales Engineer,Constructional Engineering and Design,2015
 Sverige,ConocoPhillips Nordic AB,Construction Manager,Constructional Engineering and Design,2006
 Sverige,Equator Stockholm,Building Engineer,Constructional Engineering and Design,2007
-Sverige,Erfator,Project Manager,Constructional Engineering and Design,2012
+Sverige,Erfator,Project manager,Constructional Engineering and Design,2012
 Sverige,Grontmij,Assignment Manager,Constructional Engineering and Design,2006
 Sverige,Grontmij,Road Assignment Manager,Constructional Engineering and Design,2009
 Sverige,Haninge Kommun,Building Permit Manager,Constructional Engineering and Design,2013
 Sverige,I Ett Byggföretag Sverige AB,Self Employed,Constructional Engineering and Design,2008
-Sverige,JM,Project Manager,Constructional Engineering and Design,2010
-Sverige,Locum,Project Manager,Constructional Engineering and Design,2009
+Sverige,JM,Project manager,Constructional Engineering and Design,2010
+Sverige,Locum,Project manager,Constructional Engineering and Design,2009
 Tyskland,MBN Bau AG,Site Manager,Constructional Engineering and Design,2011
 Sverige,NCC,AL,Constructional Engineering and Design,2005
 Sverige,NCC,Tendering Engineer,Constructional Engineering and Design,2006
@@ -1769,7 +1807,7 @@ Sverige,AstraZeneca,Contract Manager,Design and Product Realization,2011
 Sverige,AstraZeneca,Line Manager,Design and Product Realization,2010
 Sverige,Atlas Copco,Mechanical Design Engineer,Design and Product Realization,2011
 Sverige,Awapatent,Patent Attorney,Design and Product Realization,2009
-Sverige,Blueair AB,Project Manager,Design and Product Realization,2013
+Sverige,Blueair AB,Project manager,Design and Product Realization,2013
 Sverige,BSH Hushållsapparater AB,Product Manager,Design and Product Realization,2008
 Sverige,Busslink,Driver,Design and Product Realization,2012
 Sverige,Capgemini AB,Consultant,Design and Product Realization,2013
@@ -1781,8 +1819,8 @@ Sverige,Energimyndigheten,Administrator,Design and Product Realization,2010
 Sverige,Epsilon,Student Relations Manager,Design and Product Realization,2013
 Sverige,Ericsson,Mechanical Design Engineer,Design and Product Realization,2011
 Sverige,Ericsson,Student Relations Manager,Design and Product Realization,2010
-Sverige,Essiq,Project Manager,Design and Product Realization,2011
-Sverige,FMV,Project Manager,Design and Product Realization,2009
+Sverige,Essiq,Project manager,Design and Product Realization,2011
+Sverige,FMV,Project manager,Design and Product Realization,2009
 Sverige,FS Dynamics,Calculation Engineer,Design and Product Realization,2010
 Sverige,Handelsbanken,Applications Programmer,Design and Product Realization,2010
 Sverige,Helenius Ingenjörsbyrå AB,Design Engineer,Design and Product Realization,2011
@@ -1795,24 +1833,24 @@ Sverige,Jelmtech Produktutveckling AB,Product Developer,Design and Product Reali
 Sverige,Kiab,Communicator,Design and Product Realization,2009
 Sverige,Knightec,Consultant,Design and Product Realization,2012
 Sverige,Royal Institute of Technology,PhD Student,Design and Product Realization,2009
-Sverige,Royal Institute of Technology,Researcher,Design and Product Realization,2007
+Sverige,Royal Institute of Technology,Research,Design and Product Realization,2007
 Sverige,Link22,System Engineer,Design and Product Realization,2010
-Sverige,Lunds Universitet,Researcher,Design and Product Realization,2010
+Sverige,Lunds Universitet,Research,Design and Product Realization,2010
 Sverige,Medius AB,ERP Consultant,Design and Product Realization,2008
 Sverige,Mercur Solutions,Consultant,Design and Product Realization,2009
 Sverige,Mercur Solutions,Consultant,Design and Product Realization,2009
 Sverige,Neonet,Clearing & Settlement,Design and Product Realization,2011
 Sverige,Omegapoint,Consultant,Design and Product Realization,2010
-Sverige,OptimumG LLC,Project Manager,Design and Product Realization,2008
+Sverige,OptimumG LLC,Project manager,Design and Product Realization,2008
 Sverige,Oxyma Innovation AB,Product Developer,Design and Product Realization,2009
 Sverige,Passarella AB,Consultant,Design and Product Realization,2008
 Sverige,Patent- och registreringsverket,Patent Engineer,Design and Product Realization,2007
 Schweiz,Phonak,Manager,Design and Product Realization,2009
 Norge,Reinertsen AS,Security,Design and Product Realization,2013
 Sverige,Saab Group,System Engineer,Design and Product Realization,2010
-Sverige,Scania,Industrial researcher,Design and Product Realization,2009
-Sverige,Scania,Project Manager,Design and Product Realization,2009
-Sverige,Scania,Project Manager,Design and Product Realization,2011
+Sverige,Scania,Industrial Research,Design and Product Realization,2009
+Sverige,Scania,Project manager,Design and Product Realization,2009
+Sverige,Scania,Project manager,Design and Product Realization,2011
 Sverige,Scania,Test Engineer,Design and Product Realization,2010
 Sverige,Scania,Trainee,Design and Product Realization,2015
 Sverige,SHL Group,Mechanical Design Engineer,Design and Product Realization,2012
@@ -1836,8 +1874,8 @@ Sverige,ABB Group,Head of Mechatronics,Electrical Engineering,2002
 Sverige,ABB Group,Manager,Electrical Engineering,1993
 Sverige,ABB Group,Marketing Director,Electrical Engineering,1992
 USA,ABB Group,Product Management,Electrical Engineering,1995
-Sverige,ABB Group,Project Manager,Electrical Engineering,1987
-Sverige,ABB Group,Project Manager,Electrical Engineering,2004
+Sverige,ABB Group,Project manager,Electrical Engineering,1987
+Sverige,ABB Group,Project manager,Electrical Engineering,2004
 Brasilien,ABB Group,Region Sales Manager,Electrical Engineering,1999
 Sverige,ABB Group,Sales Engineer,Electrical Engineering,2000
 Schweiz,ABB Group,Sales Support,Electrical Engineering,2008
@@ -1857,8 +1895,8 @@ Sverige,ÅF,Consultant,Electrical Engineering,2003
 Sverige,ÅF,Consultant,Electrical Engineering,2001
 Sverige,ÅF,Electrical Engineer,Electrical Engineering,
 Sverige,ÅF,Manager,Electrical Engineering,1987
-Sverige,ÅF,Project Manager,Electrical Engineering,2006
-Sverige,ÅF,Project Manager,Electrical Engineering,2003
+Sverige,ÅF,Project manager,Electrical Engineering,2006
+Sverige,ÅF,Project manager,Electrical Engineering,2003
 Sverige,Agfa HealthCare Sweden AB,Manager,Electrical Engineering,
 Sverige,Agfa HealthCare Sweden AB,Manager,Electrical Engineering,
 Sverige,Aibel,Planner,Electrical Engineering,2003
@@ -1878,7 +1916,7 @@ Sverige,ARC Electronics,Software developer,Electrical Engineering,1984
 Frankrike,ARCEP,Manager,Electrical Engineering,2000
 Sverige,Aritco Lift AB,Customer Support,Electrical Engineering,1987
 Sverige,Aritco Lift AB,Customer Support,Electrical Engineering,1987
-Sverige,Assa Abloy,Project Manager,Electrical Engineering,2000
+Sverige,Assa Abloy,Project manager,Electrical Engineering,2000
 Sverige,Assa Abloy,System Architect,Electrical Engineering,1994
 Sverige,Assa Abloy,System Architect,Electrical Engineering,1994
 Taiwan,ASUSTek Computer Inc,Hardware R&D Engineer,Electrical Engineering,2014
@@ -1903,7 +1941,7 @@ Sverige,Bombardier Transportation,Engineer,Electrical Engineering,1985
 Sverige,Bombardier Transportation,Manager,Electrical Engineering,1978
 Sverige,Bombardier Transportation,Manager,Electrical Engineering,1978
 Sverige,Bombardier Transportation,Power Electronics Engineer,Electrical Engineering,2011
-Sverige,Bombardier Transportation,Project Manager,Electrical Engineering,1996
+Sverige,Bombardier Transportation,Project manager,Electrical Engineering,1996
 Sverige,BooCore AB,CEO,Electrical Engineering,1984
 Sverige,BorgWarner,Vehicle Engineer,Electrical Engineering,2007
 Sverige,Broadnor AB,Consultant,Electrical Engineering,1985
@@ -1976,14 +2014,21 @@ USA,Electrolux Small Appliances,Manager,Electrical Engineering,
 Sverige,Electryon,Network Diagnostics Support,Electrical Engineering,2005
 Sverige,Ellen AB,Production Manager,Electrical Engineering,2000
 Sverige,eMagii,Self Employed,Electrical Engineering,1984
+<<<<<<< HEAD
 Sverige,Emerson Process Management,Project Manager,Electrical Engineering,2002
 Sverige,Enea Services Stockholm AB,Project Manager,Electrical Engineering,2007
 Sverige,Enea Services Stockholm AB,Software developer,Electrical Engineering,2007
 Sverige,Enea Services Stockholm AB,Software developer,Electrical Engineering,2010
+=======
+Sverige,Emerson Process Management,Project manager,Electrical Engineering,2002
+Sverige,Enea Services Stockholm AB,Project manager,Electrical Engineering,2007
+Sverige,Enea Services Stockholm AB,Software Developer,Electrical Engineering,2007
+Sverige,Enea Services Stockholm AB,Software Developer,Electrical Engineering,2010
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Enea Services Stockholm AB,Test Manager,Electrical Engineering,1991
 Sverige,Energibesiktningar NJKV AB,Energy Engineer,Electrical Engineering,1974
 Sverige,Energibesiktningar NJKV AB,Energy Engineer,Electrical Engineering,1974
-Sverige,Enestra,Project Manager,Electrical Engineering,1991
+Sverige,Enestra,Project manager,Electrical Engineering,1991
 Sverige,Enghouse Interactive,Head of Delivery,Electrical Engineering,1995
 Sverige,Eniro,IT Strategist,Electrical Engineering,1987
 Sverige,Entraction Solutions AB,CTO,Electrical Engineering,1995
@@ -2013,12 +2058,12 @@ Sverige,Ericsson,Principal Digital Hardware Design Engineer,Electrical Engineeri
 Frankrike,Ericsson,Product Manager,Electrical Engineering,2001
 Sverige,Ericsson,Product Manager,Electrical Engineering,1994
 Sverige,Ericsson,Program Manager,Electrical Engineering,1989
-Sverige,Ericsson,Project Manager,Electrical Engineering,1996
-Sverige,Ericsson,Project Manager,Electrical Engineering,1994
-Sverige,Ericsson,Project Manager,Electrical Engineering,2007
+Sverige,Ericsson,Project manager,Electrical Engineering,1996
+Sverige,Ericsson,Project manager,Electrical Engineering,1994
+Sverige,Ericsson,Project manager,Electrical Engineering,2007
 Sverige,Ericsson,Regional Manger,Electrical Engineering,1994
 Sverige,Ericsson,Regional Manger,Electrical Engineering,1994
-Sverige,Ericsson,Researcher,Electrical Engineering,2005
+Sverige,Ericsson,Research,Electrical Engineering,2005
 Sverige,Ericsson,RFIC Design Engineer,Electrical Engineering,2004
 Sverige,Ericsson,Risk Manager,Electrical Engineering,2006
 Sverige,Ericsson,Sales Manager,Electrical Engineering,1999
@@ -2075,8 +2120,8 @@ Sverige,FindOut Technologies,COO,Electrical Engineering,2003
 Sverige,Flextronics,RF engineer,Electrical Engineering,2002
 Frankrike,Fluoptics,Manager,Electrical Engineering,2004
 Norge,FMC Technologies,Engineer,Electrical Engineering,2008
-Sverige,FMV,Project Manager,Electrical Engineering,2006
-Sverige,FOI,Researcher,Electrical Engineering,2003
+Sverige,FMV,Project manager,Electrical Engineering,2006
+Sverige,FOI,Research,Electrical Engineering,2003
 Polen,Fooddesigners Sp z.o o,President of the board,Electrical Engineering,2003
 Sverige,Forefront,Consultant,Electrical Engineering,2003
 Sverige,Företagsmakarna AB,Chairman,Electrical Engineering,
@@ -2099,7 +2144,7 @@ Sverige,Fortum,Vice President ,Electrical Engineering,1998
 Sverige,FRA,Analyst,Electrical Engineering,2005
 Sverige,Freespee AB,Commercial Manager,Electrical Engineering,2003
 Sverige,Front Capital Systems,Manager,Electrical Engineering,1990
-Sverige,Frontit AB,Project Manager,Electrical Engineering,1995
+Sverige,Frontit AB,Project manager,Electrical Engineering,1995
 Sverige,Fujitsu Services AB,Consultant,Electrical Engineering,2008
 Sverige,G4S Services / Systems,IT Technician,Electrical Engineering,2000
 Sverige,Gardiner & Theobald AB,Associate,Electrical Engineering,2002
@@ -2113,10 +2158,17 @@ Sverige,GKN,Test Engineer,Electrical Engineering,2012
 Sverige,Global IP Solutions,Director Product Marketing,Electrical Engineering,1990
 Sverige,Global IP Solutions,Director Product Marketing,Electrical Engineering,1990
 USA,gogo6,CTO,Electrical Engineering,2000
+<<<<<<< HEAD
 Sverige,Google,Software developer,Electrical Engineering,2005
 Sverige,Google,Software developer,Electrical Engineering,2007
 USA,Google,Software developer,Electrical Engineering,
 Spanien,Greenlight Project Management S.L.,Project Manager,Electrical Engineering,1993
+=======
+Sverige,Google,Software Developer,Electrical Engineering,2005
+Sverige,Google,Software Developer,Electrical Engineering,2007
+USA,Google,Software Developer,Electrical Engineering,
+Spanien,Greenlight Project Management S.L.,Project manager,Electrical Engineering,1993
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Grontmij,Consultant,Electrical Engineering,2001
 Sverige,Grontmij,Project Engineer,Electrical Engineering,
 Sverige,H&M,Integration Architect,Electrical Engineering,1997
@@ -2142,8 +2194,8 @@ Frankrike,Hibiscus Consulting,Director,Electrical Engineering,1997
 Sverige,HiQ,CEO,Electrical Engineering,1986
 Sverige,HiQ,Consultant,Electrical Engineering,2004
 Sverige,HiQ,Consultant,Electrical Engineering,1989
-Sverige,HiQ,Project Manager,Electrical Engineering,2002
-Sverige,HiQ,Project Manager,Electrical Engineering,2005
+Sverige,HiQ,Project manager,Electrical Engineering,2002
+Sverige,HiQ,Project manager,Electrical Engineering,2005
 Sverige,Hjälpmedelsinstitutet,Test Engineer,Electrical Engineering,2003
 Sverige,Honeywell,Sales Engineer,Electrical Engineering,2008
 Sverige,Huawei,Product Manager,Electrical Engineering,1989
@@ -2169,8 +2221,13 @@ Sverige,Inmotion Software,Development Manager,Electrical Engineering,2004
 Sverige,Innventia,Group Manager,Electrical Engineering,2001
 Italien,INRIA,Postdoctoral,Electrical Engineering,2003
 Sverige,instabridge,CEO,Electrical Engineering,2005
+<<<<<<< HEAD
 Spanien,Intel,Researcher,Electrical Engineering,2007
 Sverige,Intel,Software developer,Electrical Engineering,2007
+=======
+Spanien,Intel,Research,Electrical Engineering,2007
+Sverige,Intel,Software Developer,Electrical Engineering,2007
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Interfleet Technology,Consultant,Electrical Engineering,2008
 Sverige,Interfleet Technology,Consultant,Electrical Engineering,2008
 Sverige,Interfleet Technology,Consultant,Electrical Engineering,2010
@@ -2183,7 +2240,7 @@ USA,Investor,Director,Electrical Engineering,1988
 Sverige,IP-Solutions,Consultant,Electrical Engineering,2002
 Storbritannien,iPLATO Healthcare,CEO,Electrical Engineering,1996
 Sverige,Ipsos,Manager,Electrical Engineering,1998
-Sverige,IS Tools AB,Project Manager,Electrical Engineering,2001
+Sverige,IS Tools AB,Project manager,Electrical Engineering,2001
 Sverige,IT Ledarna AB,Business Area Manager,Electrical Engineering,1987
 Sverige,ITT Water & Wastewater AB,Product Manager,Electrical Engineering,1988
 Sverige,JBCG,Investigator,Electrical Engineering,1987
@@ -2195,8 +2252,13 @@ Sverige,Juniper Networks,System Engineer,Electrical Engineering,1993
 Sverige,Kägleholms Säteri AB,Self Employed,Electrical Engineering,1990
 Sverige,Karolinska Institutet,PhD Student,Electrical Engineering,2006
 Sverige,Karolinska Institutet,Medical Technical Engineer,Electrical Engineering,1978
+<<<<<<< HEAD
 Sverige,Karolinska Institutet,Project Manager,Electrical Engineering,
 Sverige,Karolinska Institutet,Software developer,Electrical Engineering,1997
+=======
+Sverige,Karolinska Institutet,Project manager,Electrical Engineering,
+Sverige,Karolinska Institutet,Software Developer,Electrical Engineering,1997
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Karolinska Institutet,System Designer,Electrical Engineering,1999
 Sverige,Kentor IT,Consultant,Electrical Engineering,2004
 Sverige,Keysight Technologies Sweden AB,Account Manager,Electrical Engineering,1997
@@ -2205,10 +2267,10 @@ Sverige,Klarna,Technical Lead,Electrical Engineering,1998
 Sverige,Knightec,Consultant,Electrical Engineering,1999
 Sverige,Kollmorgen,Application Engineer,Electrical Engineering,2011
 Sverige,Kollmorgen,Software Testing,Electrical Engineering,1997
-Sverige,Kollmorgen,Technical Project Manager,Electrical Engineering,1997
+Sverige,Kollmorgen,Technical Project manager,Electrical Engineering,1997
 Sverige,Konsultbolag1,Business Consultant,Electrical Engineering,2004
 Sverige,Konsumentverket,Administrator,Electrical Engineering,1999
-Sverige,Kronofogdemyndigheten,Project Manager,Electrical Engineering,1991
+Sverige,Kronofogdemyndigheten,Project manager,Electrical Engineering,1991
 Sverige,Royal Institute of Technology,Adjunct Professor,Electrical Engineering,1985
 Sverige,Royal Institute of Technology,Administration Manager,Electrical Engineering,1982
 Sverige,Royal Institute of Technology,IT Manager,Electrical Engineering,2002
@@ -2218,8 +2280,8 @@ Sverige,Royal Institute of Technology,PhD Student,Electrical Engineering,2010
 Sverige,Royal Institute of Technology,PhD Student,Electrical Engineering,2006
 Sverige,Royal Institute of Technology,PhD Student,Electrical Engineering,2013
 Sverige,Royal Institute of Technology,PhD Student,Electrical Engineering,2006
-Sverige,Royal Institute of Technology,Researcher,Electrical Engineering,2012
-Sverige,Royal Institute of Technology,Researcher,Electrical Engineering,2013
+Sverige,Royal Institute of Technology,Research,Electrical Engineering,2012
+Sverige,Royal Institute of Technology,Research,Electrical Engineering,2013
 Sverige,Royal Institute of Technology,Tentamensvakt,Electrical Engineering,
 Sverige,Laird Technologies,RF and accoustics engineer,Electrical Engineering,2006
 Sverige,Laird Technologies,RF Engineer,Electrical Engineering,2002
@@ -2237,8 +2299,13 @@ Sverige,Lynx Asset Management AB,Execution Research,Electrical Engineering,2000
 Sverige,M&K Global Group AB,Self Employed,Electrical Engineering,2007
 Norge,Malnes og Endresen AS,Advisor,Electrical Engineering,2005
 Sverige,Mannheimer Swartling,IT Manager,Electrical Engineering,2003
+<<<<<<< HEAD
 Sverige,Maquet,Project Manager,Electrical Engineering,1993
 Sverige,Maquet,Software developer,Electrical Engineering,1987
+=======
+Sverige,Maquet,Project manager,Electrical Engineering,1993
+Sverige,Maquet,Software Developer,Electrical Engineering,1987
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Marlin Computer AB,CEO,Electrical Engineering,1996
 Sverige,Marlin Computer AB,CEO,Electrical Engineering,1996
 Sverige,Marquet,System Engineer,Electrical Engineering,1992
@@ -2291,7 +2358,7 @@ Sverige,Nordea Investment Management,Portfolio Manager,Electrical Engineering,19
 Sverige,Nordic Growth Market NGM AB,CTO,Electrical Engineering,1999
 Sverige,NORDUnet A/S,Network Engineer,Electrical Engineering,2011
 Sverige,Norrtälje Energi AB,CEO,Electrical Engineering,1995
-Schweiz,Novartis,Project Manager,Electrical Engineering,2003
+Schweiz,Novartis,Project manager,Electrical Engineering,2003
 Schweiz,NXP Semiconductors,Technical Manager,Electrical Engineering,2000
 Sverige,Nyköpings Enskilda Gymnasium,Teacher,Electrical Engineering,2002
 Sverige,Nyttadesign,Marketing Director,Electrical Engineering,1984
@@ -2307,7 +2374,7 @@ Sverige,Parrot,RFIC Designer,Electrical Engineering,
 Sverige,Patent- och registreringsverket,Patent Engineer,Electrical Engineering,2008
 Sverige,Patent- och registreringsverket,Patent Engineer,Electrical Engineering,2008
 Sverige,Peepoople AB,Sales Manager,Electrical Engineering,1997
-Sverige,PGS Technologies,Researcher,Electrical Engineering,2007
+Sverige,PGS Technologies,Research,Electrical Engineering,2007
 Sverige,Phoniro Systems AB,Order Processer,Electrical Engineering,2003
 Sverige,Ping Pong AB,Manager,Electrical Engineering,
 Sverige,PlusFourSix AB,Development Manager,Electrical Engineering,1998
@@ -2332,7 +2399,7 @@ Sverige,ReadSoft AB,Software Test Lead,Electrical Engineering,2004
 Sverige,Red Hat,Channel Manager,Electrical Engineering,1994
 Sverige,Red Hat,Channel Manager,Electrical Engineering,1994
 Sverige,Regeringskansliet,IT Architect,Electrical Engineering,2005
-Sverige,Regeringskansliet,Project Manager,Electrical Engineering,1996
+Sverige,Regeringskansliet,Project manager,Electrical Engineering,1996
 Sverige,Reinertsen AS,Structural Engineer,Electrical Engineering,
 Sverige,Rejlers,Consultant,Electrical Engineering,2008
 Sverige,Retea,Assignment Manager,Electrical Engineering,2004
@@ -2341,7 +2408,7 @@ USA,Riscure,Manager,Electrical Engineering,1984
 Sverige,Rockwell Collins Sweden,Manager,Electrical Engineering,2003
 USA,ROkITT,Sales Manager,Electrical Engineering,1984
 Tyskland,Rolls Royce,System Engineer,Electrical Engineering,2013
-Sverige,Ruag,Project Manager,Electrical Engineering,2001
+Sverige,Ruag,Project manager,Electrical Engineering,2001
 Sverige,Saab Group,Application Manager,Electrical Engineering,2002
 Sverige,Saab Group,Head of Development,Electrical Engineering,1989
 Sverige,Saab Group,Head of Video & Graphics SW,Electrical Engineering,2003
@@ -2355,7 +2422,7 @@ Sverige,Saab Group,System Engineer,Electrical Engineering,2008
 Sverige,Saab Group,System Engineer,Electrical Engineering,2011
 Sverige,Saab Group,Test Engineer,Electrical Engineering,2009
 Sverige,Safeline sweden AB,Final Assembly,Electrical Engineering,2003
-Sverige,Safemind,Researcher,Electrical Engineering,1994
+Sverige,Safemind,Research,Electrical Engineering,1994
 Frankrike,Safran,Image Processing Research Engineer,Electrical Engineering,2013
 Sverige,SAM,Consultant,Electrical Engineering,2005
 Sverige,Samarbetande Konsulter AB,Consultant,Electrical Engineering,2007
@@ -2377,7 +2444,7 @@ Sverige,Scania,Head of Vehicle Control Systems,Electrical Engineering,1997
 Sverige,Scania,IT Architect,Electrical Engineering,1994
 Sverige,Scania,Manager,Electrical Engineering,2002
 Sverige,Scania,Product Engineer,Electrical Engineering,2000
-Sverige,Scania,Project Manager,Electrical Engineering,1995
+Sverige,Scania,Project manager,Electrical Engineering,1995
 Sverige,Scania,Test Department Coordinator,Electrical Engineering,2003
 Sverige,Scania,Solution Architect,Electrical Engineering,1998
 Sverige,Scania,System Architect,Electrical Engineering,2006
@@ -2390,7 +2457,7 @@ Frankrike,Schlumberger,R&D Engineer,Electrical Engineering,2008
 Sverige,Schneider Electric ,Electronic Design Engineer,Electrical Engineering,1989
 USA,ScrollMotion,Solutions Engineering,Electrical Engineering,1998
 Sverige,Skandinaviska Enskilda Banken,Application specialist,Electrical Engineering,1985
-Sverige,Skandinaviska Enskilda Banken,Project Manager,Electrical Engineering,1978
+Sverige,Skandinaviska Enskilda Banken,Project manager,Electrical Engineering,1978
 Sverige,Skandinaviska Enskilda Banken,Skandinaviska Enskilda Banken Way Navigator,Electrical Engineering,2004
 Sverige,Skandinaviska Enskilda Banken,Software developer,Electrical Engineering,2008
 Sverige,Skandinaviska Enskilda Banken,Software developer,Electrical Engineering,2004
@@ -2423,29 +2490,29 @@ Sverige,SP,PhD Student,Electrical Engineering,2007
 USA,Squarespace,Software developer,Electrical Engineering,2002
 Sverige,SSAB,Process Control,Electrical Engineering,2003
 Sverige,St. Jude Medical,Program Manager,Electrical Engineering,1984
-Sverige,St. Jude Medical,Project Manager,Electrical Engineering,2007
-Sverige,St. Jude Medical,Researcher,Electrical Engineering,1993
+Sverige,St. Jude Medical,Project manager,Electrical Engineering,2007
+Sverige,St. Jude Medical,Research,Electrical Engineering,1993
 Sverige,St. Jude Medical,Software Engineer,Electrical Engineering,2004
 Sverige,St. Jude Medical,Supply & Quality Engineer,Electrical Engineering,1993
 Sverige,St. Jude Medical,System Engineer,Electrical Engineering,2002
 Sverige,Statnett,Engineer,Electrical Engineering,2008
 Sverige,Stiftelsen för Strategisk Forskning,Communications Manager,Electrical Engineering,1984
-Frankrike,STMicroelectronics,Researcher,Electrical Engineering,2012
+Frankrike,STMicroelectronics,Research,Electrical Engineering,2012
 Sverige,Stockholm konsulterna,Consultant,Electrical Engineering,2000
 Sverige,Stockholmstekniskainstitut (STI),Teacher,Electrical Engineering,2003
 Sverige,Stora Enso,CEO,Electrical Engineering,1994
 Sverige,Stora Enso,CEO,Electrical Engineering,1994
 Sverige,Storstockholms Lokaltrafik,Function Manager,Electrical Engineering,2003
-Sverige,Storstockholms Lokaltrafik,Project Manager,Electrical Engineering,2000
-Sverige,Strålfors,IT Project Manager,Electrical Engineering,1999
-Sverige,Strålfors,IT Project Manager,Electrical Engineering,1999
+Sverige,Storstockholms Lokaltrafik,Project manager,Electrical Engineering,2000
+Sverige,Strålfors,IT Project manager,Electrical Engineering,1999
+Sverige,Strålfors,IT Project manager,Electrical Engineering,1999
 Sverige,STRI AB,Test Engineer,Electrical Engineering,2009
 Sverige,Ström & Gulliksson,Patent Attorney,Electrical Engineering,1997
 Sverige,Ström & Gulliksson,Patent Attorney,Electrical Engineering,1997
 Sverige,Structor,Signal Technician,Electrical Engineering,2005
 Sverige,SUAZO IT,CEO,Electrical Engineering,2002
 Sverige,Subset,Consultant,Electrical Engineering,
-Sverige,Suncom Pharma,Project Manager,Electrical Engineering,1998
+Sverige,Suncom Pharma,Project manager,Electrical Engineering,1998
 Sverige,SunGard,Product Manager,Electrical Engineering,1986
 Sverige,SunGard,Software Configuration Manager,Electrical Engineering,1984
 Sverige,SunGard,Software developer,Electrical Engineering,2007
@@ -2455,14 +2522,14 @@ Sverige,"Svenska julförlaget, E2go, Vår bassar",Self Employed,Electrical Engin
 Sverige,Svenska Kraftnät,Control Construction Coordinator,Electrical Engineering,1995
 Sverige,Svenska Kraftnät,Operation Analyst,Electrical Engineering,2008
 Sverige,Svenska Kraftnät,Operation Analyst,Electrical Engineering,2006
-Sverige,Svenska Kraftnät,Project Manager,Electrical Engineering,2004
-Sverige,Svenska Kraftnät,Project Manager,Electrical Engineering,2004
+Sverige,Svenska Kraftnät,Project manager,Electrical Engineering,2004
+Sverige,Svenska Kraftnät,Project manager,Electrical Engineering,2004
 Sverige,Svenska Statoil,Administration Manager,Electrical Engineering,2002
 Sverige,Sweco,Assignment Manager,Electrical Engineering,2005
 Sverige,Sweco,Data Coordinator,Electrical Engineering,2004
-Sverige,Sweco,Project Manager,Electrical Engineering,2009
-Sverige,Sweco,Project Manager,Electrical Engineering,2006
-Sverige,Sweco,Project Manager,Electrical Engineering,2006
+Sverige,Sweco,Project manager,Electrical Engineering,2009
+Sverige,Sweco,Project manager,Electrical Engineering,2006
+Sverige,Sweco,Project manager,Electrical Engineering,2006
 Sverige,Swedavia,Service Technician,Electrical Engineering,2006
 Sverige,Sylog Sverige AB,Software developer,Electrical Engineering,2005
 Sverige,Symbio,Test System Designer,Electrical Engineering,1996
@@ -2493,7 +2560,7 @@ Sverige,TeliaSonera,Life Cycle Manager,Electrical Engineering,
 Sverige,TeliaSonera,Product Manager,Electrical Engineering,2000
 Sverige,TeliaSonera,Product Specialist,Electrical Engineering,2006
 Sverige,TeliaSonera,Product Specialist,Electrical Engineering,2006
-Sverige,TeliaSonera,Project Manager,Electrical Engineering,1987
+Sverige,TeliaSonera,Project manager,Electrical Engineering,1987
 Sverige,TeliaSonera,Technical Specialist,Electrical Engineering,1997
 Sverige,TeliaSonera,Technology Specialist,Electrical Engineering,2000
 Sverige,TeliaSonera,Test Manager,Electrical Engineering,2000
@@ -2513,13 +2580,18 @@ Sverige,Tieto,Software developer,Electrical Engineering,1995
 Sverige,Tobii,Test Automation Engineer,Electrical Engineering,2006
 Sverige,Toolkit Software,Consultant,Electrical Engineering,2003
 Sverige,Total Eclipse,IT Consultant,Electrical Engineering,1998
-Sverige,Totalförsvarets Forskningsinstitut,Researcher,Electrical Engineering,1995
+Sverige,Totalförsvarets Forskningsinstitut,Research,Electrical Engineering,1995
 Sverige,Trafikförvaltningen SLL,IT Architect,Electrical Engineering,2003
 Sverige,Trafikverket,Construction Manager,Electrical Engineering,2007
+<<<<<<< HEAD
 Sverige,Trafikverket,Project Manager,Electrical Engineering,2002
 Sverige,Trafikverket,Software developer,Electrical Engineering,1995
+=======
+Sverige,Trafikverket,Project manager,Electrical Engineering,2002
+Sverige,Trafikverket,Software Developer,Electrical Engineering,1995
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Tre,NIS,Electrical Engineering,1994
-Sverige,Tre,Project Manager,Electrical Engineering,1996
+Sverige,Tre,Project manager,Electrical Engineering,1996
 USA,Trimble,Director,Electrical Engineering,1987
 Sverige,Triolab,Product Specialist,Electrical Engineering,2002
 Sverige,Triona,Consultant,Electrical Engineering,1986
@@ -2527,7 +2599,7 @@ Sverige,Tritech Technology AB,Software developer,Electrical Engineering,2003
 Sverige,Triventus Service AB,Sales Manager,Electrical Engineering,
 Spanien,UAB Research Park (Barcelona),Director,Electrical Engineering,1994
 Sverige,Unicon Konsult AB,Consultant,Electrical Engineering,1989
-Sverige,"Utbildningsdep., Regeringskansliet",Researcher,Electrical Engineering,1991
+Sverige,"Utbildningsdep., Regeringskansliet",Research,Electrical Engineering,1991
 Sverige,Valea AB,Patent Attorney,Electrical Engineering,1996
 Sverige,Vattenfall,Area Manager,Electrical Engineering,2007
 Sverige,Vattenfall,Consultant,Electrical Engineering,2005
@@ -2544,10 +2616,15 @@ Sverige,Viasat/MTG,Sales Manager,Electrical Engineering,2005
 Sverige,Visab Consulting AB,Consultant,Electrical Engineering,1981
 Sverige,Visab Consulting AB,Consultant,Electrical Engineering,1981
 Sverige,Visma Services,IT Manager,Electrical Engineering,1997
+<<<<<<< HEAD
 Finland,Visma Software Oy,Software developer,Electrical Engineering,2008
 Sverige,Vodafone,Project Manager,Electrical Engineering,2000
+=======
+Finland,Visma Software Oy,Software Developer,Electrical Engineering,2008
+Sverige,Vodafone,Project manager,Electrical Engineering,2000
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Volvo,Manager,Electrical Engineering,2010
-Sverige,Volvo,Project Manager,Electrical Engineering,2000
+Sverige,Volvo,Project manager,Electrical Engineering,2000
 Finland,VR Track Oy,Consultant,Electrical Engineering,2003
 USA,Wells Fargo Bank,Vice President,Electrical Engineering,1999
 USA,Wind River,CTO,Electrical Engineering,1985
@@ -2577,7 +2654,7 @@ Sverige,Accenture,Consultant,Engineering Physics,1985
 Tyskland,Active Space technologies GmbH,System Engineer,Engineering Physics,2010
 Sverige,ÅF,Calculation Engineer,Engineering Physics,2011
 Sverige,ÅF,Consultant,Engineering Physics,2005
-Sverige,ÅF,Project Manager,Engineering Physics,2011
+Sverige,ÅF,Project manager,Engineering Physics,2011
 Sverige,Agero,Consultant,Engineering Physics,1997
 USA,AgilOne,Data Scientist,Engineering Physics,2012
 Sverige,Agrenius Consulting,Consultant,Engineering Physics,2004
@@ -2590,7 +2667,7 @@ Sverige,Algorithmica Research,Financial Software Engineer,Engineering Physics,20
 Sverige,ALSTOM Power,Calculation Engineer,Engineering Physics,2007
 Sverige,Altegra Consulting AB,Computer Consultant,Engineering Physics,2004
 Sverige,Alternativa,Head of trading,Engineering Physics,2005
-Sverige,Alyata Projektledning AB,Project Manager,Engineering Physics,2003
+Sverige,Alyata Projektledning AB,Project manager,Engineering Physics,2003
 Frankrike,Amadeus,Usability Specialist,Engineering Physics,2010
 Sverige,AMF Pension,Actuary,Engineering Physics,2007
 Sverige,Ampfield AB,CEO,Engineering Physics,1993
@@ -2600,7 +2677,7 @@ Sverige,Aptilo Networks AB,Software developer,Engineering Physics,1996
 Frankrike,AREVA NP,Emergency Operation Engineer,Engineering Physics,2008
 Sverige,Assessio,Organizational Development Consultant,Engineering Physics,1995
 Sverige,Assistera,Assistant,Engineering Physics,1992
-Sverige,Astando AB,Project Manager,Engineering Physics,2008
+Sverige,Astando AB,Project manager,Engineering Physics,2008
 USA,Attendo Care,Director,Engineering Physics,2007
 Sverige,Augmentum StartUp Support AB,Self Employed,Engineering Physics,1976
 Sverige,Avanza,Software developer,Engineering Physics,2004
@@ -2674,8 +2751,8 @@ Sverige,Ericsson,Information Security,Engineering Physics,
 Sverige,Ericsson,Manager,Engineering Physics,1993
 Sverige,Ericsson,Patent Attorney,Engineering Physics,1992
 Sverige,Ericsson,Product Owner,Engineering Physics,2002
-Sverige,Ericsson,Project Manager,Engineering Physics,2007
-Sverige,Ericsson,Researcher,Engineering Physics,2001
+Sverige,Ericsson,Project manager,Engineering Physics,2007
+Sverige,Ericsson,Research,Engineering Physics,2001
 Sverige,Ericsson,Sales Manager,Engineering Physics,1987
 Sverige,Ericsson,Software Designer,Engineering Physics,2007
 Sverige,Ericsson,Software developer,Engineering Physics,2010
@@ -2690,7 +2767,7 @@ Sverige,EssNet,Developer,Engineering Physics,2001
 Sverige,Evidente ES East AB,Manager,Engineering Physics,2005
 Sverige,Evidente ES East AB,Manager,Engineering Physics,2005
 Sverige,EVRY,Security Manager,Engineering Physics,2007
-Sverige,Exportrådet,Project Manager,Engineering Physics,2005
+Sverige,Exportrådet,Project manager,Engineering Physics,2005
 Sverige,Favner Nordic,Consultant,Engineering Physics,1986
 Sverige,FLSmidth Airtech,Programmer,Engineering Physics,2003
 Sverige,FOI,Laser Physics,Engineering Physics,2006
@@ -2707,7 +2784,7 @@ Sverige,Front Capital Systems AB,Financial Development,Engineering Physics,2000
 Sverige,Futential AB,CEO,Engineering Physics,1997
 Sverige,General Electric,Market Analyst,Engineering Physics,2005
 Frankrike,General Electric,Test Engineer,Engineering Physics,2009
-Sverige,Gilbarco,Project Manager,Engineering Physics,2011
+Sverige,Gilbarco,Project manager,Engineering Physics,2011
 Sverige,Green Cargo,Analyst,Engineering Physics,1989
 Sverige,GSI,PhD Student,Engineering Physics,2006
 Sverige,GVA Consultants,Design Engineer,Engineering Physics,2007
@@ -2769,11 +2846,11 @@ Sverige,Royal Institute of Technology,PhD Student,Engineering Physics,2010
 Sverige,Royal Institute of Technology,PhD Student,Engineering Physics,2013
 Sverige,Royal Institute of Technology,Postdoctoral,Engineering Physics,2007
 Sverige,Royal Institute of Technology,Professor,Engineering Physics,1987
-Sverige,Royal Institute of Technology,Project Manager,Engineering Physics,1981
+Sverige,Royal Institute of Technology,Project manager,Engineering Physics,1981
 Sverige,Royal Institute of Technology,Principal,Engineering Physics,
 Sverige,Royal Institute of Technology,Principal,Engineering Physics,
-Sverige,Royal Institute of Technology,Researcher,Engineering Physics,2011
-Sverige,Royal Institute of Technology,Researcher,Engineering Physics,2006
+Sverige,Royal Institute of Technology,Research,Engineering Physics,2011
+Sverige,Royal Institute of Technology,Research,Engineering Physics,2006
 Sverige,Royal Institute of Technology,Trainee,Engineering Physics,2012
 Sverige,Kubi,CEO,Engineering Physics,1986
 Sverige,Kubi,CEO,Engineering Physics,1986
@@ -2817,7 +2894,7 @@ Sverige,Netnod Internet Exchange,System Specialist,Engineering Physics,1991
 USA,New York University,Clinical Associate Professor and Director of the Mathematics in Finance Masters Program,Engineering Physics,
 Frankrike,Nicesoft,Medical Software Engineer,Engineering Physics,2011
 Sverige,Nocilis Materials AB,Founder,Engineering Physics,1983
-Sverige,Nordea,Project Manager,Engineering Physics,2001
+Sverige,Nordea,Project manager,Engineering Physics,2001
 Sverige,Nordea Investment Management,Quantitative Analyst,Engineering Physics,2008
 USA,"Nordec, LLC",CEO,Engineering Physics,1987
 Sverige,Nordic Capital,Director,Engineering Physics,2004
@@ -2852,16 +2929,16 @@ Sverige,Riksgälden,Analyst,Engineering Physics,2005
 Sverige,Rototest,Web Manager,Engineering Physics,2010
 Sverige,Rymdstyrelsen,Director-general,Engineering Physics,1988
 Indien,Saab Group,Manager,Engineering Physics,2005
-Sverige,Saab Group,Project Manager,Engineering Physics,2008
+Sverige,Saab Group,Project manager,Engineering Physics,2008
 Sverige,Saab Group,System Engineer,Engineering Physics,1994
 Sverige,Saab Group,System Engineer,Engineering Physics,2004
 USA,Sage Bionetworks,Principal Scientist,Engineering Physics,1999
-Sverige,Sandvik,Researcher,Engineering Physics,1989
+Sverige,Sandvik,Research,Engineering Physics,1989
 Sverige,Sandvik,Strategic Technical Analyst,Engineering Physics,1989
-Sverige,SCA,Project Manager,Engineering Physics,1986
+Sverige,SCA,Project manager,Engineering Physics,1986
 Sverige,Scania,Development Engineer,Engineering Physics,2007
 Sverige,Scania,Production Technician,Engineering Physics,2005
-Sverige,Scania,Project Manager,Engineering Physics,2003
+Sverige,Scania,Project manager,Engineering Physics,2003
 Sverige,Sciencetech-inc,Optical Designer,Engineering Physics,2003
 Sverige,Skandinaviska Enskilda Banken,Analyst,Engineering Physics,2007
 Sverige,Skandinaviska Enskilda Banken,Quant Analyst,Engineering Physics,2008
@@ -2870,7 +2947,7 @@ Sverige,Skandinaviska Enskilda Banken,Risk Manager,Engineering Physics,1996
 Sverige,Sectra,Physicist,Engineering Physics,2007
 Sverige,Semcon,Calculation Engineer,Engineering Physics,2006
 Sverige,Sirona Health Solutions,Consultant,Engineering Physics,2011
-Sverige,Skandia,Project Manager,Engineering Physics,2005
+Sverige,Skandia,Project manager,Engineering Physics,2005
 Sverige,Skanska,Purchasing Manager,Engineering Physics,1991
 Sverige,SkySparc,CEO,Engineering Physics,1993
 Sverige,SLL / Hälso- och sjukvårdsförvaltningen,Function Manager,Engineering Physics,1988
@@ -2884,8 +2961,8 @@ Sverige,Stanford University,Postdoctoral,Engineering Physics,2003
 Sverige,Stockholms läns landsting,Statistician,Engineering Physics,2006
 Sverige,Stockholms Universitet,PhD Student,Engineering Physics,2014
 Sverige,Stockholms Universitet,Postdoctoral,Engineering Physics,2003
-Sverige,Stockholms Universitet,Researcher,Engineering Physics,2004
-Sverige,Stockholms Universitet,Researcher,Engineering Physics,1995
+Sverige,Stockholms Universitet,Research,Engineering Physics,2004
+Sverige,Stockholms Universitet,Research,Engineering Physics,1995
 Sverige,Strålsäkerhetsmyndigheten,Investigator,Engineering Physics,2006
 Kina,StratOp Group,Engagement Manager,Engineering Physics,2006
 Sverige,Strive Advisory,CEO,Engineering Physics,2006
@@ -2894,21 +2971,21 @@ Sverige,SunGard,Manager,Engineering Physics,1987
 Sverige,SunGard,Software developer,Engineering Physics,2011
 Sverige,Sunstone Systems AB,Software developer,Engineering Physics,2011
 Sverige,Svensk Exportkredit,PhD Student,Engineering Physics,2008
-Sverige,Sveriges Lantbruksuniversitet,Researcher,Engineering Physics,1982
+Sverige,Sveriges Lantbruksuniversitet,Research,Engineering Physics,1982
 Sverige,Swedbank,Risk Analyst,Engineering Physics,2006
 Sverige,Telenor,Manager,Engineering Physics,2005
 Sverige,Telenor,Nordic Key Account Manager,Engineering Physics,1986
 Sverige,TeliaSonera,Manager,Engineering Physics,1984
 Sverige,TeliaSonera,Manager,Engineering Physics,1985
-Sverige,TeliaSonera,Project Manager,Engineering Physics,1993
+Sverige,TeliaSonera,Project manager,Engineering Physics,1993
 USA,"Tellme Networks, Inc",Director,Engineering Physics,1991
 Storbritannien,Tessin Consulting Ltd,Managing Director,Engineering Physics,1998
-Sverige,The University of Edinburgh,Researcher,Engineering Physics,2007
+Sverige,The University of Edinburgh,Research,Engineering Physics,2007
 Sverige,Third Swedish National Pension Fund (AP3),Strategist,Engineering Physics,2005
 Sverige,Tobii,Manager,Engineering Physics,
 Sverige,Tomas Svensson Teknik och Ledarskap AB,Consultant,Engineering Physics,1983
 Sverige,Tomas Svensson Teknik och Ledarskap AB,Consultant,Engineering Physics,1983
-Sverige,Totalförsvarets Forskningsinstitut,Researcher,Engineering Physics,2003
+Sverige,Totalförsvarets Forskningsinstitut,Research,Engineering Physics,2003
 Sverige,Towers Perrin Tillinghast,Analyst,Engineering Physics,2004
 Sverige,Transmode Systems AB,Electronics Designer,Engineering Physics,2006
 Sverige,Transmode Systems AB,Product Manager,Engineering Physics,2005
@@ -2953,7 +3030,7 @@ Sverige,Accenture,Consultant,Industrial Economy,1999
 Sverige,Accenture,Consultant,Industrial Economy,2007
 Sverige,ÅF,Energy Consultant,Industrial Economy,2014
 Sverige,ÅF,Management Consulting,Industrial Economy,2009
-Sverige,ÅF,Project Manager,Industrial Economy,2013
+Sverige,ÅF,Project manager,Industrial Economy,2013
 Sverige,Ålandsbanken,Fund Manager,Industrial Economy,2010
 Sverige,Annata Sverige,COO,Industrial Economy,1997
 Sverige,Applied Value,Management Consulting,Industrial Economy,2007
@@ -2969,14 +3046,14 @@ Sverige,Atea,Sales Engineer,Industrial Economy,1999
 Sverige,AudioApps,CEO,Industrial Economy,2011
 Sverige,Autoliv,Buyer,Industrial Economy,2008
 Sverige,B&B TOOLS,Business Developer,Industrial Economy,2007
-Sverige,B&B TOOLS,Project Manager,Industrial Economy,2006
+Sverige,B&B TOOLS,Project manager,Industrial Economy,2006
 Sverige,B&B TOOLS,Trainee,Industrial Economy,2009
 Sverige,Bain & Company,Associate Consultant,Industrial Economy,2005
 Sverige,Bain & Company,Consultant,Industrial Economy,2005
 Sverige,Bain & Company,Manager,Industrial Economy,2000
 Sverige,BearingPoint,Management Consulting,Industrial Economy,2008
 Schweiz,BearingPoint Stockholm,Consultant,Industrial Economy,2006
-Sverige,BillerudKorsnäs,Project Manager,Industrial Economy,2008
+Sverige,BillerudKorsnäs,Project manager,Industrial Economy,2008
 Sverige,Biner,Manager,Industrial Economy,2009
 Sverige,Biorecro,CEO,Industrial Economy,2002
 Sverige,Booz & Company,Associate,Industrial Economy,2005
@@ -3000,11 +3077,11 @@ Sverige,Clarify,Network Engineer,Industrial Economy,2005
 Sverige,Clarify,Network Engineer,Industrial Economy,2005
 Sverige,Coeli Fonder,Analyst,Industrial Economy,2006
 Sverige,Com Hem,Business Development Manager,Industrial Economy,2004
-Sverige,Compricer,Project Manager,Industrial Economy,2006
+Sverige,Compricer,Project manager,Industrial Economy,2006
 Sverige,Connecta,Consultant,Industrial Economy,2008
 Sverige,Connecta,Consultant,Industrial Economy,2007
 Sverige,Connecta,Consultant,Industrial Economy,2007
-Sverige,Creuna,Project Manager,Industrial Economy,2013
+Sverige,Creuna,Project manager,Industrial Economy,2013
 Sverige,CSFB,Analyst,Industrial Economy,2003
 Sverige,Curamando,Consultant,Industrial Economy,2005
 Sverige,Curamando,Consultant,Industrial Economy,2005
@@ -3017,17 +3094,24 @@ Sverige,DePuy - Johnson & Johnson,General Manager,Industrial Economy,2001
 USA,DMI,Business Analyst,Industrial Economy,2008
 Sverige,E.ON,Business Developer,Industrial Economy,2007
 Sverige,East Capital,Product Manager,Industrial Economy,2006
-Sverige,East Capital,Project Manager,Industrial Economy,2007
+Sverige,East Capital,Project manager,Industrial Economy,2007
 Sverige,EF Education First,General Manager,Industrial Economy,2007
 Kina,EF Education First,Trainee,Industrial Economy,
 Sverige,Ekelöw,Advisor,Industrial Economy,1996
 Sverige,Elekta Instrument,Director,Industrial Economy,1999
 Sverige,Elfa Distrelec,Head of business development; Regional sales manager,Industrial Economy,2007
 Sverige,Elkraft Sverige AB,Manager,Industrial Economy,2011
+<<<<<<< HEAD
 Sverige,Enea Services Stockholm AB,Software developer,Industrial Economy,2007
 Sverige,Energimyndigheten,Project Manager,Industrial Economy,2012
 Sverige,Eniro,Project Manager,Industrial Economy,2000
 Sverige,Epsilon,Project Manager,Industrial Economy,2011
+=======
+Sverige,Enea Services Stockholm AB,Software Developer,Industrial Economy,2007
+Sverige,Energimyndigheten,Project manager,Industrial Economy,2012
+Sverige,Eniro,Project manager,Industrial Economy,2000
+Sverige,Epsilon,Project manager,Industrial Economy,2011
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Ericsson,Consultant,Industrial Economy,2000
 Sverige,Ericsson,Core Consultant,Industrial Economy,2008
 Sverige,Ericsson,Engagement Manager,Industrial Economy,2004
@@ -3036,7 +3120,7 @@ Sverige,Ericsson,Head of Order-2-Cash transformation program,Industrial Economy,
 Sverige,Ericsson,Manager,Industrial Economy,2003
 Sverige,Ericsson,Strategic Planning Manager,Industrial Economy,2006
 Sverige,Ericsson,Strategic Sourcing Manager,Industrial Economy,2007
-Sverige,Ericsson,Supply Project Manager,Industrial Economy,2000
+Sverige,Ericsson,Supply Project manager,Industrial Economy,2000
 Sverige,Ernst & Young,Consultant,Industrial Economy,2015
 Sverige,Ernst & Young,Management Consulting,Industrial Economy,2008
 Sverige,Establish,Consultant,Industrial Economy,2005
@@ -3066,7 +3150,7 @@ Sverige,H&M,Sales Department,Industrial Economy,2008
 Sverige,Handelsbanken,Analyst,Industrial Economy,2007
 Sverige,Handelsbanken,Risk Analyst,Industrial Economy,2014
 Schweiz,Hilti,Marketing Director,Industrial Economy,2003
-Schweiz,Hilti,Project Manager,Industrial Economy,2006
+Schweiz,Hilti,Project manager,Industrial Economy,2006
 Sverige,HiQ,Consultant,Industrial Economy,2001
 Sverige,HiQ,IT Consultant,Industrial Economy,2008
 Indien,Honeywell,Engineer,Industrial Economy,2008
@@ -3097,7 +3181,7 @@ Sverige,Keystone Advisers,Analyst,Industrial Economy,2006
 Sverige,Klarna,Trainee,Industrial Economy,2011
 Sverige,Know IT,Management Consulting,Industrial Economy,2013
 Schweiz,Komax AG,Head of Komax Services,Industrial Economy,2004
-Tyskland,KraussMaffei Technologies GmbH,Project Manager,Industrial Economy,2010
+Tyskland,KraussMaffei Technologies GmbH,Project manager,Industrial Economy,2010
 Sverige,Krauthammer,Consultant,Industrial Economy,2004
 Storbritannien,L.E.K. Consulting,Associate,Industrial Economy,2010
 Sverige,Lawson,Business Consultant,Industrial Economy,2006
@@ -3107,9 +3191,9 @@ Sverige,Lemontree,Sales Engineer,Industrial Economy,2003
 Sverige,Lesjöfors,Product Area Manager,Industrial Economy,2004
 Sverige,Lesjöfors,Product Area Manager,Industrial Economy,2004
 Sverige,LynxEye brand consultants,Consultant,Industrial Economy,2010
-Sverige,Maconomy Sverige AB,Technical Project Manager,Industrial Economy,
+Sverige,Maconomy Sverige AB,Technical Project manager,Industrial Economy,
 Sverige,Maquet,Product Manager,Industrial Economy,2003
-Sverige,MB Gipsputs AB,Project Manager,Industrial Economy,2005
+Sverige,MB Gipsputs AB,Project manager,Industrial Economy,2005
 Sverige,McKinsey,Associate,Industrial Economy,2004
 Sverige,McKinsey,Associate,Industrial Economy,2006
 Sverige,McKinsey,Consultant,Industrial Economy,2008
@@ -3125,7 +3209,7 @@ Sverige,MODisplay,CEO,Industrial Economy,2006
 Sverige,Modular Management AB,Consultant,Industrial Economy,2005
 Sverige,Morgan Stanley,Intern,Industrial Economy,2007
 Indien,Mu Sigma,Business Analyst,Industrial Economy,2013
-Sverige,Munksjö,Project Manager,Industrial Economy,2006
+Sverige,Munksjö,Project manager,Industrial Economy,2006
 Sverige,Naslund Medical AB,CEO,Industrial Economy,2000
 Sverige,Navetti,Consultant,Industrial Economy,2008
 Sverige,NCC,Trainee,Industrial Economy,2010
@@ -3154,7 +3238,7 @@ Sverige,Pensionsmyndigheten,Process Manager,Industrial Economy,2003
 Sverige,Pointer,Business Intelligence Consultant,Industrial Economy,2004
 Sverige,Pon Holdings,Trainee,Industrial Economy,2013
 Sverige,Pond,Strategy Consultant,Industrial Economy,2010
-Sverige,Posten Logistik,Project Manager,Industrial Economy,2002
+Sverige,Posten Logistik,Project manager,Industrial Economy,2002
 Sverige,Pöyry Management Consulting,Consultant,Industrial Economy,2009
 Sverige,Pöyry Management Consulting,Consultant,Industrial Economy,2010
 Sverige,Procter & Gamble,Nordic Demand Planning Manager,Industrial Economy,2007
@@ -3173,23 +3257,28 @@ Sverige,Rolls Royce,System Engineer,Industrial Economy,2014
 Sverige,Royal Caribbean Cruises Ltd.,Coordinator,Industrial Economy,2006
 Sverige,SAM,Management Consulting,Industrial Economy,2010
 Sverige,Sandvik,Intern Leankonsult,Industrial Economy,2007
-Sverige,Sandvik,Project Manager,Industrial Economy,2007
+Sverige,Sandvik,Project manager,Industrial Economy,2007
 Sverige,Sapa,Internal Consultant,Industrial Economy,2005
 Sverige,Scan,Trainee,Industrial Economy,2007
 Sverige,Scania,Business Developer,Industrial Economy,2006
 Sverige,Scania,Certification Engineer,Industrial Economy,2005
 Sverige,Scania,Controller,Industrial Economy,2006
 Sverige,Scania,Production Technician,Industrial Economy,2006
+<<<<<<< HEAD
 Sverige,Scania,Project Manager,Industrial Economy,2011
 Sverige,Scania,Software developer,Industrial Economy,2006
+=======
+Sverige,Scania,Project manager,Industrial Economy,2011
+Sverige,Scania,Software Developer,Industrial Economy,2006
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Scania,Supply & Quality Engineer,Industrial Economy,2005
-Sverige,Scania,Technical Project Manager,Industrial Economy,2006
+Sverige,Scania,Technical Project manager,Industrial Economy,2006
 Sverige,Scania,Trainee,Industrial Economy,2007
 Sverige,Scania,Trainee,Industrial Economy,2007
 Sverige,Scania,Trainee,Industrial Economy,2007
 Sverige,Scania,Transport Controller,Industrial Economy,2010
 Sverige,Skandinaviska Enskilda Banken,Consultant,Industrial Economy,2005
-Sverige,Skandinaviska Enskilda Banken,Project Manager,Industrial Economy,2000
+Sverige,Skandinaviska Enskilda Banken,Project manager,Industrial Economy,2000
 Sverige,Skandinaviska Enskilda Banken,Risk Analyst,Industrial Economy,2011
 Sverige,Skandinaviska Enskilda Banken,Sales Manager,Industrial Economy,2002
 Sverige,Skandinaviska Enskilda Banken,Trader,Industrial Economy,2002
@@ -3217,13 +3306,13 @@ Sverige,SunGard,Software developer,Industrial Economy,2004
 Sverige,Svea,Product Manager,Industrial Economy,2007
 Sverige,Svensk Kärnbränslehantering AB,Controller ,Industrial Economy,2006
 Sverige,Sweco,Consultant,Industrial Economy,2006
-Sverige,Sweco,Project Manager,Industrial Economy,2012
+Sverige,Sweco,Project manager,Industrial Economy,2012
 Sverige,Swedbank,CFO,Industrial Economy,2008
 Sverige,Swedbank,Risk Analyst,Industrial Economy,2008
 Sverige,Swedbank,Strategic Analysis and M&A,Industrial Economy,2009
 Sverige,SYSteam Applications,Consultant,Industrial Economy,2008
-Sverige,TAC,Project Manager,Industrial Economy,2006
-Sverige,TAC,Project Manager,Industrial Economy,2005
+Sverige,TAC,Project manager,Industrial Economy,2006
+Sverige,TAC,Project manager,Industrial Economy,2005
 Sverige,Tågia AB,Site Manager,Industrial Economy,2005
 Sverige,Talloil,Trainee,Industrial Economy,2006
 Sverige,TBT Stockholm,Site Manager,Industrial Economy,2005
@@ -3231,7 +3320,7 @@ Sverige,Tele Coaching,Business Development,Industrial Economy,2005
 Sverige,Tele7,Trainee,Industrial Economy,2008
 Sverige,TeliaSonera,Customer Relationship Management,Industrial Economy,2005
 Sverige,TeliaSonera,Customer Relationship Management,Industrial Economy,2005
-Sverige,TeliaSonera,Project Manager,Industrial Economy,2006
+Sverige,TeliaSonera,Project manager,Industrial Economy,2006
 Sverige,TeliaSonera,Strategic Development,Industrial Economy,2010
 Sverige,The Boston Consulting Group,Associate Consultant,Industrial Economy,2006
 Sverige,The Boston Consulting Group,Management Consulting,Industrial Economy,2007
@@ -3271,7 +3360,7 @@ Sverige,Amadeus,Product Definition Analyst,Information Technology,2007
 Sverige,Amadeus,Software developer,Information Technology,2009
 Kina,Atlas Copco,Business Controller,Information Technology,2006
 Sverige,Attollo AB,Consultant,Information Technology,2007
-Sverige,Attollo AB,Project Manager,Information Technology,
+Sverige,Attollo AB,Project manager,Information Technology,
 Sverige,Axis Communications,Document Investigator,Information Technology,2012
 Sverige,Boston Consulting Group,Management Consulting,Information Technology,2005
 USA,Business Sweden,Manager,Information Technology,2013
@@ -3293,8 +3382,8 @@ Sverige,EQ Consulting,Consultant,Information Technology,2009
 Sverige,Ericsson,IT Consultant,Information Technology,2009
 Sverige,Ericsson,Linux Software Designer,Information Technology,2010
 Sverige,Ericsson,Radio Network Consultant,Information Technology,2008
-Sverige,Ericsson,Researcher,Information Technology,2007
-Sverige,Ericsson,Researcher,Information Technology,2011
+Sverige,Ericsson,Research,Information Technology,2007
+Sverige,Ericsson,Research,Information Technology,2011
 Sverige,Ericsson,Software Designer,Information Technology,2007
 Sverige,Ericsson,Software Testing,Information Technology,2008
 Sverige,Ericsson,Solutions Integrator,Information Technology,2006
@@ -3302,8 +3391,8 @@ Sverige,Ericsson,Test Coordinator,Information Technology,2009
 Sverige,Ericsson,Test Engineer,Information Technology,2011
 Sverige,Ericsson,Verification Engineer,Information Technology,2007
 Sverige,Exido International AB,Analyst,Information Technology,2006
-Sverige,Exido International AB,Project Manager,Information Technology,2006
-Sverige,Falu Energi & Vatten,Project Manager,Information Technology,2006
+Sverige,Exido International AB,Project manager,Information Technology,2006
+Sverige,Falu Energi & Vatten,Project manager,Information Technology,2006
 Sverige,Fortum,Production Analytic,Information Technology,2012
 Sverige,Generic Systems AB,Head of Unit,Information Technology,2005
 Sverige,Giesecke & Devrient,Solutions Manager,Information Technology,2007
@@ -3320,7 +3409,7 @@ Sverige,IBM,Services Sales,Information Technology,2006
 Sverige,IBS,Software developer,Information Technology,2006
 Sverige,IBX,Consultant,Information Technology,2005
 Sverige,Ica,Integration Specialist,Information Technology,2008
-Sverige,IFS Sverige AB,Project Manager,Information Technology,2007
+Sverige,IFS Sverige AB,Project manager,Information Technology,2007
 Sverige,IT-konsult,Business Developer,Information Technology,2007
 Sverige,Jobylon AB,Software developer,Information Technology,2005
 Sverige,Kalven-IT AB,Consultant,Information Technology,2004
@@ -3383,13 +3472,13 @@ Sverige,ABB Group,Product Developer,Mechanical Engineering,2007
 Sverige,ABB Group,Product Manager,Mechanical Engineering,1984
 Sverige,ABB Group,Production Developer,Mechanical Engineering,2007
 Sverige,ABB Group,Production Technician,Mechanical Engineering,2006
-Sverige,ABB Group,Project Manager,Mechanical Engineering,2007
-Sverige,ABB Group,Project Manager,Mechanical Engineering,1991
-Sverige,ABB Group,Project Manager,Mechanical Engineering,2005
-Sverige,ABB Group,Researcher,Mechanical Engineering,2009
+Sverige,ABB Group,Project manager,Mechanical Engineering,2007
+Sverige,ABB Group,Project manager,Mechanical Engineering,1991
+Sverige,ABB Group,Project manager,Mechanical Engineering,2005
+Sverige,ABB Group,Research,Mechanical Engineering,2009
 Sverige,ABB Group,Sales Executive,Mechanical Engineering,2006
 Sverige,ABB Group,System Engineer,Mechanical Engineering,2010
-Sverige,ABB Group,Technical Project Manager,Mechanical Engineering,2011
+Sverige,ABB Group,Technical Project manager,Mechanical Engineering,2011
 Sverige,ABB Group,Trainee,Mechanical Engineering,2006
 Sverige,ABB Group,Trainee,Mechanical Engineering,2006
 Sverige,ABB Group,Training Manager,Mechanical Engineering,
@@ -3423,12 +3512,12 @@ Sverige,ÅF,Electronic Design Engineer,Mechanical Engineering,2005
 Sverige,ÅF,Constructor,Mechanical Engineering,2006
 Sverige,ÅF,Manager,Mechanical Engineering,1995
 Sverige,ÅF,Mechanical Design Engineer,Mechanical Engineering,2006
-Sverige,ÅF,Project Manager,Mechanical Engineering,1999
+Sverige,ÅF,Project manager,Mechanical Engineering,1999
 Sverige,ÅF,Mission Leader,Mechanical Engineering,2006
 Sverige,ÅF,Section Manager,Mechanical Engineering,1995
 Sverige,ÅF,Section Manager,Mechanical Engineering,2007
 Sverige,ÅF,Section Manager,Mechanical Engineering,1987
-Sverige,ÅF,Technical Project Manager,Mechanical Engineering,2008
+Sverige,ÅF,Technical Project manager,Mechanical Engineering,2008
 Sverige,AGA Gas AB,REN SHEQ Advisor,Mechanical Engineering,1985
 Sverige,Agency9 ,CEO,Mechanical Engineering,1984
 Sverige,Ahlsell Maskin AB,Service Manager,Mechanical Engineering,1985
@@ -3438,7 +3527,7 @@ Sverige,Air Liquide Gas AB,Sales Engineer,Mechanical Engineering,1991
 Sverige,Alert Security AB,Sales Manager,Mechanical Engineering,
 Sverige,Alfa Laval,Buyer,Mechanical Engineering,2006
 Sverige,Alfa Laval,Construction Manager,Mechanical Engineering,2003
-Sverige,Alfa Laval,PLM/PDM Platform manager & Project Manager,Mechanical Engineering,2002
+Sverige,Alfa Laval,PLM/PDM Platform manager & Project manager,Mechanical Engineering,2002
 Sverige,Alfa Laval,Product Manager,Mechanical Engineering,
 Sverige,Alfa Laval,Production Technician,Mechanical Engineering,2005
 Sverige,Alfa Laval,Vibration Analyst,Mechanical Engineering,2005
@@ -3447,7 +3536,7 @@ Sverige,ALSTOM Power,Calculation Engineer,Mechanical Engineering,1984
 Schweiz,ALSTOM Power,Development Engineer,Mechanical Engineering,2012
 Sverige,Altegra Consulting AB,CEO,Mechanical Engineering,1985
 Sverige,Alten,Calculation Engineer,Mechanical Engineering,2007
-Sverige,Alten,Project Manager,Mechanical Engineering,2011
+Sverige,Alten,Project manager,Mechanical Engineering,2011
 Sverige,Ångpanneföreningen AB,Consultant,Mechanical Engineering,2006
 Sverige,Annas pepparkakor,Operation manager,Mechanical Engineering,2001
 Sverige,Annell Ljus + Form AB,Design Manager,Mechanical Engineering,2006
@@ -3455,20 +3544,20 @@ USA,Archimedes Inc,Director,Mechanical Engineering,1999
 Sverige,Aritco,Development Manager,Mechanical Engineering,1987
 Sverige,Arkwright,Consultant,Mechanical Engineering,1996
 Sverige,Arlanda Express/ A-Train,Vehicle Manager,Mechanical Engineering,1995
-Sverige,Assa Abloy,Project Manager,Mechanical Engineering,2014
-Sverige,Assa Abloy,Project Manager,Mechanical Engineering,2005
+Sverige,Assa Abloy,Project manager,Mechanical Engineering,2014
+Sverige,Assa Abloy,Project manager,Mechanical Engineering,2005
 Sverige,Assa Abloy,Purchasing Manager,Mechanical Engineering,1999
 Sverige,Assa Abloy,Sales Manager,Mechanical Engineering,1983
 Sverige,Astrada,Profitability Consultant,Mechanical Engineering,2004
 Sverige,AstraZeneca,Director,Mechanical Engineering,1989
 Sverige,AstraZeneca,Machine Operator,Mechanical Engineering,2008
-Sverige,AstraZeneca,Project Manager,Mechanical Engineering,1997
+Sverige,AstraZeneca,Project manager,Mechanical Engineering,1997
 Sverige,Atlas Copco,Design Manager ,Mechanical Engineering,1995
 Sverige,Atlas Copco,Environmental Manager,Mechanical Engineering,1989
 Sverige,Atlas Copco,Product Engineer,Mechanical Engineering,2007
 Sverige,Atlas Copco,Product Manager,Mechanical Engineering,2005
-Sverige,Atlas Copco,Project Manager,Mechanical Engineering,2002
-Sverige,Atlas Copco,Project Manager,Mechanical Engineering,2003
+Sverige,Atlas Copco,Project manager,Mechanical Engineering,2002
+Sverige,Atlas Copco,Project manager,Mechanical Engineering,2003
 Sverige,Autopilot Stockholm AB,CEO,Mechanical Engineering,2002
 Sverige,AVL,Development Engineer,Mechanical Engineering,2009
 Sverige,AVL,Engineer,Mechanical Engineering,
@@ -3499,16 +3588,16 @@ Sverige,Biotage,System Engineer,Mechanical Engineering,1996
 Sverige,Blueair AB,President,Mechanical Engineering,2006
 Ungern,BMW Group,Consultant,Mechanical Engineering,2006
 Sverige,Boghammar Marin AB,Operative Manager,Mechanical Engineering,
-Sverige,Boliden AB,Project Manager,Mechanical Engineering,1992
+Sverige,Boliden AB,Project manager,Mechanical Engineering,1992
 Sverige,Bombardier Transportation,Advanced Engineer,Mechanical Engineering,2002
 Sverige,Bombardier Transportation,Design Engineer,Mechanical Engineering,2005
 Sverige,Bombardier Transportation,Director,Mechanical Engineering,
 Sverige,Bombardier Transportation,Manager,Mechanical Engineering,1994
 Tyskland,Bombardier Transportation,Manager,Mechanical Engineering,1992
-Sverige,Bombardier Transportation,Project Manager,Mechanical Engineering,2005
+Sverige,Bombardier Transportation,Project manager,Mechanical Engineering,2005
 Sverige,Bombardier Transportation,Quality Coordinator,Mechanical Engineering,1996
 Sverige,BombayWorks,Managing Director,Mechanical Engineering,2006
-Sverige,Bonver Logistics AB,Project Manager,Mechanical Engineering,2004
+Sverige,Bonver Logistics AB,Project manager,Mechanical Engineering,2004
 Sverige,Boston Consulting Group,Associate,Mechanical Engineering,2006
 Sverige,Botniabanan AB,Training Coordinator,Mechanical Engineering,1997
 Sverige,Brand Insight AB,CEO,Mechanical Engineering,1993
@@ -3521,11 +3610,11 @@ Sverige,BT Svenska AB,Business Developer,Mechanical Engineering,2004
 Sverige,CA Monitor AB,CEO,Mechanical Engineering,
 Sverige,CA Monitor AB,CEO,Mechanical Engineering,
 Frankrike,Cabinet Plasseraud,Patent Consultant,Mechanical Engineering,
-Sverige,Caldaro AB,Project Manager,Mechanical Engineering,1999
+Sverige,Caldaro AB,Project manager,Mechanical Engineering,1999
 Sverige,Cale Access AB,Requirements Manager,Mechanical Engineering,2005
-Sverige,Camfil AB,Project Manager,Mechanical Engineering,2003
-Sverige,Camfil AB,Project Manager,Mechanical Engineering,2003
-Sverige,Camfil AB,Project Manager,Mechanical Engineering,2003
+Sverige,Camfil AB,Project manager,Mechanical Engineering,2003
+Sverige,Camfil AB,Project manager,Mechanical Engineering,2003
+Sverige,Camfil AB,Project manager,Mechanical Engineering,2003
 Sverige,Camfil Svenska AB,Logistic Manager,Mechanical Engineering,2004
 Sverige,Capacent,Consultant,Mechanical Engineering,2008
 Sverige,Capgemini AB,Management Consulting,Mechanical Engineering,2003
@@ -3541,8 +3630,8 @@ Sverige,Citec AB,Design Engineer,Mechanical Engineering,2007
 Sverige,CL Trading,Self Employed,Mechanical Engineering,1983
 Sverige,ClimateWell,Sales Engineer,Mechanical Engineering,2006
 Sverige,CLO Design,Art Director,Mechanical Engineering,1989
-Sverige,Cobham Antenna Systems,Project Manager,Mechanical Engineering,1999
-Sverige,Cobham Antenna Systems,Project Manager,Mechanical Engineering,1999
+Sverige,Cobham Antenna Systems,Project manager,Mechanical Engineering,1999
+Sverige,Cobham Antenna Systems,Project manager,Mechanical Engineering,1999
 Finland,Colorant Chromatics ,Development Engineer,Mechanical Engineering,2002
 Sverige,Combitech,Consultant,Mechanical Engineering,2008
 Sverige,Connecta,Consultant,Mechanical Engineering,1996
@@ -3583,12 +3672,12 @@ Sverige,DevPort,Consultant,Mechanical Engineering,2008
 Sverige,DHL Exel Supply Chain,Business Manager,Mechanical Engineering,2004
 Sverige,Diab Group,Advisor,Mechanical Engineering,
 Sverige,Dometic,Manager,Mechanical Engineering,1987
-Sverige,Dynamate AB,Project Manager,Mechanical Engineering,1998
+Sverige,Dynamate AB,Project manager,Mechanical Engineering,1998
 Sverige,DynaMate AB,Maintanance Engineer,Mechanical Engineering,2007
 Sverige,Dynamate AB (Scania CV),Energy Engineer,Mechanical Engineering,2006
 Sverige,E-Print,Vice President ,Mechanical Engineering,1992
 Finland,E.ON,Analyst,Mechanical Engineering,2005
-USA,Eaton,Project Manager,Mechanical Engineering,1989
+USA,Eaton,Project manager,Mechanical Engineering,1989
 USA,Eaton,Vice President ,Mechanical Engineering,1989
 Sverige,Edö Servicehus,Receptionist,Mechanical Engineering,2010
 Sverige,Efficio Consulting,Consultant,Mechanical Engineering,2010
@@ -3598,10 +3687,10 @@ Sverige,Eigenbrodt AB,Product Manager,Mechanical Engineering,2005
 Sverige,Electrolux,Demand Flow Process Manager,Mechanical Engineering,2006
 Sverige,Electrolux,Divsional Director,Mechanical Engineering,1990
 Sverige,Electrolux,Manager,Mechanical Engineering,1986
-Sverige,Electrolux,Project Manager,Mechanical Engineering,1999
+Sverige,Electrolux,Project manager,Mechanical Engineering,1999
 Italien,Electrolux,Studio Engineer,Mechanical Engineering,2003
 Sverige,Eli Lilly & Co,Research Manager,Mechanical Engineering,1977
-Sverige,EMMET-Cad/Data,Technical Project Manager,Mechanical Engineering,1994
+Sverige,EMMET-Cad/Data,Technical Project manager,Mechanical Engineering,1994
 Sverige,Empire communication,Information specialist,Mechanical Engineering,1996
 Sverige,Enea Services Stockholm AB,CEO,Mechanical Engineering,1986
 Sverige,Enea Services Stockholm AB,CEO,Mechanical Engineering,1986
@@ -3609,7 +3698,7 @@ Sverige,Enea Services Stockholm AB,Consultant,Mechanical Engineering,2007
 Sverige,Enea Services Stockholm AB,Consultant,Mechanical Engineering,1996
 Sverige,Enea Services Stockholm AB,Field Application Engineer,Mechanical Engineering,2007
 Sverige,Enea Services Stockholm AB,Head of Project Execution,Mechanical Engineering,2007
-Sverige,Energimyndigheten,Project Manager,Mechanical Engineering,1984
+Sverige,Energimyndigheten,Project manager,Mechanical Engineering,1984
 Sverige,ENERGO AB,Energy Engineer,Mechanical Engineering,2006
 Sverige,Enskede Gårds Gymnasium,Teacher,Mechanical Engineering,2003
 Sverige,Enskede Gårds Gymnasium,Teacher,Mechanical Engineering,2003
@@ -3635,19 +3724,19 @@ Sverige,Ericsson,Manager,Mechanical Engineering,1988
 Sverige,Ericsson,Manager,Mechanical Engineering,1994
 Sverige,Ericsson,Manager,Mechanical Engineering,1995
 Sverige,Ericsson,Master Data Specialist,Mechanical Engineering,1994
-Sverige,Ericsson,Node Project Manager,Mechanical Engineering,1993
+Sverige,Ericsson,Node Project manager,Mechanical Engineering,1993
 Sverige,Ericsson,Patent Manager,Mechanical Engineering,1996
 Sverige,Ericsson,Product Manager,Mechanical Engineering,1987
 Sverige,Ericsson,Product Manager,Mechanical Engineering,1983
 Sverige,Ericsson,Product Manager,Mechanical Engineering,1985
 Sverige,Ericsson,Project Coordinator,Mechanical Engineering,2008
-Sverige,Ericsson,Project Manager,Mechanical Engineering,1993
-Sverige,Ericsson,Project Manager,Mechanical Engineering,1988
-Sverige,Ericsson,Project Manager,Mechanical Engineering,1999
-Sverige,Ericsson,Project Manager,Mechanical Engineering,2000
-Sverige,Ericsson,Project Manager,Mechanical Engineering,1990
-Sverige,Ericsson,Project Manager,Mechanical Engineering,1990
-USA,Ericsson,Project Manager,Mechanical Engineering,1989
+Sverige,Ericsson,Project manager,Mechanical Engineering,1993
+Sverige,Ericsson,Project manager,Mechanical Engineering,1988
+Sverige,Ericsson,Project manager,Mechanical Engineering,1999
+Sverige,Ericsson,Project manager,Mechanical Engineering,2000
+Sverige,Ericsson,Project manager,Mechanical Engineering,1990
+Sverige,Ericsson,Project manager,Mechanical Engineering,1990
+USA,Ericsson,Project manager,Mechanical Engineering,1989
 Sverige,Ericsson,R&D Manager,Mechanical Engineering,1996
 Sverige,Ericsson,Research Engineer,Mechanical Engineering,1985
 Sverige,Ericsson,Software Designer,Mechanical Engineering,2001
@@ -3665,9 +3754,9 @@ Sverige,ES-kosult,Consultant,Mechanical Engineering,2006
 Sverige,ESAB,Application Manager,Mechanical Engineering,2005
 Sverige,ESAB,PLM Manager,Mechanical Engineering,2005
 Sverige,ESMA,Sales Engineer,Mechanical Engineering,2002
-Sverige,ETEL SA,Project Manager,Mechanical Engineering,2005
+Sverige,ETEL SA,Project manager,Mechanical Engineering,2005
 Sverige,ETM Mätteknik AB,HW/SW Design Engineer,Mechanical Engineering,2000
-Sverige,Etteplan Industry AB,Project Manager,Mechanical Engineering,2008
+Sverige,Etteplan Industry AB,Project manager,Mechanical Engineering,2008
 Frankrike,European Commission,Business Analyst,Mechanical Engineering,1999
 Sverige,Eurovator,Self Employed,Mechanical Engineering,2003
 Sverige,EVRY,Business Consultant,Mechanical Engineering,2008
@@ -3681,15 +3770,15 @@ Sverige,Finicon,Self Employed,Mechanical Engineering,1989
 Sverige,Finlarm AB,Supervisor,Mechanical Engineering,2002
 Sverige,Fläkt Woods AB,Production Technician,Mechanical Engineering,2005
 Sverige,Fläktwoods AB,Area Sales Manager,Mechanical Engineering,
-Sverige,Flextronics International Sweden AB,Supply Project Manager,Mechanical Engineering,2005
+Sverige,Flextronics International Sweden AB,Supply Project manager,Mechanical Engineering,2005
 Sverige,Flir,Line Manager,Mechanical Engineering,2007
 Sverige,FLIR Systems AB,Constructor,Mechanical Engineering,2001
 Sverige,Flir Systems AB,Mechanical Design Engineer,Mechanical Engineering,2006
 Norge,FMC Technologies,System Engineer,Mechanical Engineering,2012
 Sverige,FMV,Head of Unit,Mechanical Engineering,1998
-Sverige,FMV,Project Manager,Mechanical Engineering,2001
+Sverige,FMV,Project manager,Mechanical Engineering,2001
 Sverige,FOI,Analyst,Mechanical Engineering,2007
-Sverige,Folksam,Traffic Safety Researcher,Mechanical Engineering,1991
+Sverige,Folksam,Traffic Safety Research,Mechanical Engineering,1991
 Sverige,Force Technology,Mechanical Design Engineer,Mechanical Engineering,2008
 Sverige,FöreningsSparbanken,Manager,Mechanical Engineering,2004
 Sverige,Forsmarks Kraftgrupp AB,Engineer,Mechanical Engineering,2009
@@ -3706,8 +3795,8 @@ Sverige,Fortum,Analyst,Mechanical Engineering,2006
 Sverige,Fortum,Analyst,Mechanical Engineering,1997
 Sverige,Fortum,Group Manager,Mechanical Engineering,2006
 Sverige,Fortum,Product Manager,Mechanical Engineering,1996
-Sverige,Fortum,Project Manager,Mechanical Engineering,1992
-Sverige,Fortum,Project Manager,Mechanical Engineering,1992
+Sverige,Fortum,Project manager,Mechanical Engineering,1992
+Sverige,Fortum,Project manager,Mechanical Engineering,1992
 Sverige,Fortum,Purchaser,Mechanical Engineering,1973
 Sverige,Fortum,Technical Systems Engineer,Mechanical Engineering,2007
 Sverige,Fredfix,Self Employed,Mechanical Engineering,1991
@@ -3720,7 +3809,7 @@ Sverige,Galderma,Strategic Area Manager,Mechanical Engineering,1984
 Sverige,General Electric,Herad of Quality and PMO,Mechanical Engineering,1993
 Sverige,General Electric,Production Technician,Mechanical Engineering,1999
 Sverige,General Electric,Project Engineer,Mechanical Engineering,2003
-Sverige,General Electric,Project Manager,Mechanical Engineering,2007
+Sverige,General Electric,Project manager,Mechanical Engineering,2007
 Sverige,General Electric,System Engineer,Mechanical Engineering,1991
 Sverige,Generic Systems AB,Consultant,Mechanical Engineering,1989
 Sverige,GenerPro AB,Production Unit Manager,Mechanical Engineering,2006
@@ -3731,14 +3820,14 @@ Sverige,Giesecke & Devrient,Managing Director,Mechanical Engineering,1992
 Sverige,Giesecke & Devrient,Managing Director,Mechanical Engineering,1992
 Sverige,GKN,Engineer,Mechanical Engineering,1992
 Sverige,GKN,Manager,Mechanical Engineering,2006
-Sverige,Globe Forum,Project Manager,Mechanical Engineering,2010
+Sverige,Globe Forum,Project manager,Mechanical Engineering,2010
 Sverige,Glocalnet,Manager,Mechanical Engineering,2001
 Sverige,GM Powertrain,Test Engineer,Mechanical Engineering,2000
 Hong Kong,Goldman Sachs,Developer,Mechanical Engineering,2003
 USA,Google,Software developer,Mechanical Engineering,2005
 Sverige,GRAVYR & LASERMÄRKNING I STHLM AB,Production Manager,Mechanical Engineering,2002
 Sverige,Grindex AB,IT Support,Mechanical Engineering,1995
-Sverige,Grontmij,Project Manager,Mechanical Engineering,2007
+Sverige,Grontmij,Project manager,Mechanical Engineering,2007
 Sverige,Grundfos AB,Sales Manager,Mechanical Engineering,2002
 Sverige,GS1 Sweden,Head of Standards & Implementation,Mechanical Engineering,1989
 Sverige,Gullers Grupp,Information Consultant,Mechanical Engineering,2004
@@ -3762,11 +3851,11 @@ Sverige,Hjalmarsson & Partners Corporate Finance AB,Finansial Advisor,Mechanical
 Sverige,Holmen Paper AB,Technical Manager,Mechanical Engineering,1996
 Sverige,HotSwap,Section Manager,Mechanical Engineering,1994
 Sverige,HotSwap,Section Manager,Mechanical Engineering,1994
-Sverige,HSB,Project Manager,Mechanical Engineering,2002
+Sverige,HSB,Project manager,Mechanical Engineering,2002
 Sverige,Huddig AB,CEO,Mechanical Engineering,1986
-Sverige,Hufvudstaden AB,Project Manager,Mechanical Engineering,1996
+Sverige,Hufvudstaden AB,Project manager,Mechanical Engineering,1996
 Sverige,Husqvarna,CEO,Mechanical Engineering,1985
-Sverige,Husqvarna,Project Manager,Mechanical Engineering,2004
+Sverige,Husqvarna,Project manager,Mechanical Engineering,2004
 Sverige,Hydro Swede AB,Sales,Mechanical Engineering,2002
 Sverige,Hydro Swede AB,Sales,Mechanical Engineering,2002
 Schweiz,i-Risk,Consultant,Mechanical Engineering,2007
@@ -3797,21 +3886,21 @@ Sverige,Intertek Semko,Project Engineer,Mechanical Engineering,2004
 Sverige,Ipracraft AB,CEO,Mechanical Engineering,1984
 Sverige,ISP (Inspektionen för Strategiska Produkter),Chief Engineer,Mechanical Engineering,1991
 Sverige,ITT Flygt AB,Design Engineer,Mechanical Engineering,2001
-Sverige,ITT Flygt AB,Project Manager,Mechanical Engineering,1995
+Sverige,ITT Flygt AB,Project manager,Mechanical Engineering,1995
 Sverige,ITT Water & Wastewater,Design Engineer,Mechanical Engineering,2003
 Sverige,ITT Water & Wastewater,Design Engineer,Mechanical Engineering,1985
 Sverige,ITT Water & wastewater,Design Engineer,Mechanical Engineering,2008
 Sverige,ITWO Welding,ROD,Mechanical Engineering,1995
-Sverige,IVA,Project Manager,Mechanical Engineering,
-Sverige,IVA,Project Manager,Mechanical Engineering,
-Sverige,IVA,Project Manager,Mechanical Engineering,
-Sverige,IVA,Project Manager,Mechanical Engineering,
-Sverige,"IVF, Industriforskning och utveckling AB",Researcher,Mechanical Engineering,2006
+Sverige,IVA,Project manager,Mechanical Engineering,
+Sverige,IVA,Project manager,Mechanical Engineering,
+Sverige,IVA,Project manager,Mechanical Engineering,
+Sverige,IVA,Project manager,Mechanical Engineering,
+Sverige,"IVF, Industriforskning och utveckling AB",Research,Mechanical Engineering,2006
 Sverige,IVL Svenska Miljöinstitutet,Vice Head of Division,Mechanical Engineering,2002
 Chile,JaneDoe Communications,System Designer,Mechanical Engineering,1992
 Schweiz,Jasprod AB,CEO,Mechanical Engineering,
 Sverige,JemtEken AB,Constructor,Mechanical Engineering,2006
-Storbritannien,JM,Project Manager,Mechanical Engineering,1994
+Storbritannien,JM,Project manager,Mechanical Engineering,1994
 Sverige,Johns Manville AB,Purchasing and Planning manager,Mechanical Engineering,1995
 Sverige,Johns Manville AB,Purchasing and Planning manager,Mechanical Engineering,1995
 Sverige,Johnson & Johnson,Supply Chain Manager,Mechanical Engineering,1996
@@ -3823,9 +3912,9 @@ Sverige,Karolinska Institutet,Production Developer,Mechanical Engineering,2005
 Sverige,Karolinska Institutet,Specialist,Mechanical Engineering,1988
 Sverige,Kemetyl,Procurment Manager,Mechanical Engineering,2002
 Sverige,Kentor IT,Software Engineer,Mechanical Engineering,1998
-Sverige,KF-Fastigheter,Project Manager,Mechanical Engineering,2002
+Sverige,KF-Fastigheter,Project manager,Mechanical Engineering,2002
 Sverige,Kistler Nordic AB,Sales Engineer,Mechanical Engineering,1997
-Sverige,Knightec,Project Manager,Mechanical Engineering,1994
+Sverige,Knightec,Project manager,Mechanical Engineering,1994
 Sverige,Komet Handels AB,CEO,Mechanical Engineering,
 Sverige,Kone AB,Business Area Manager,Mechanical Engineering,2004
 Norge,Kongsberg Nemo,Project Engineer,Mechanical Engineering,2006
@@ -3843,19 +3932,19 @@ Sverige,Royal Institute of Technology,PhD Student,Mechanical Engineering,2009
 Sverige,Royal Institute of Technology,PhD Student,Mechanical Engineering,2009
 Sverige,Royal Institute of Technology,Professor,Mechanical Engineering,1973
 Sverige,Royal Institute of Technology,Professor,Mechanical Engineering,1973
-Sverige,Royal Institute of Technology,Researcher,Mechanical Engineering,2002
-Sverige,Kuponginlösen,Project Manager,Mechanical Engineering,2009
+Sverige,Royal Institute of Technology,Research,Mechanical Engineering,2002
+Sverige,Kuponginlösen,Project manager,Mechanical Engineering,2009
 Norge,Kvaerner,Package Responsible Engineer,Mechanical Engineering,2007
 Sverige,Kvarngymnasiet,Teacher,Mechanical Engineering,1991
 Sverige,L.A.S Interiör AB,CEO,Mechanical Engineering,1993
-Sverige,Laird Technologies,Project Manager,Mechanical Engineering,1998
-Sverige,Länsförsäkringar,Project Manager,Mechanical Engineering,1984
-Sverige,Länsförsäkringar,Project Manager,Mechanical Engineering,1987
-Sverige,Länsförsäkringar,Project Manager,Mechanical Engineering,1987
+Sverige,Laird Technologies,Project manager,Mechanical Engineering,1998
+Sverige,Länsförsäkringar,Project manager,Mechanical Engineering,1984
+Sverige,Länsförsäkringar,Project manager,Mechanical Engineering,1987
+Sverige,Länsförsäkringar,Project manager,Mechanical Engineering,1987
 Sverige,Lantmännen,Business Analyst,Mechanical Engineering,2011
 Sverige,Leine & Linde,Sales Engineer,Mechanical Engineering,2012
 Sverige,Lidsoft,IT Support,Mechanical Engineering,1999
-Sverige,Liko R&D,Project Manager,Mechanical Engineering,2004
+Sverige,Liko R&D,Project manager,Mechanical Engineering,2004
 Sverige,Linköpings Universitet,PhD Student,Mechanical Engineering,2011
 Sverige,Linse Management AB,Self Employed,Mechanical Engineering,2000
 Sverige,LKAB,Production Manager,Mechanical Engineering,1987
@@ -3869,7 +3958,7 @@ Sverige,Lundin Mining Corp,CEO,Mechanical Engineering,1982
 Sverige,Luvata Söderköping AB,Development Engineer,Mechanical Engineering,1994
 Sverige,Magirus Nordic AB,Sales Manager,Mechanical Engineering,1988
 Sverige,Magirus Nordic AB,Sales Manager,Mechanical Engineering,1988
-Sverige,Magnora,Project Manager,Mechanical Engineering,2006
+Sverige,Magnora,Project manager,Mechanical Engineering,2006
 Sverige,Malmö Aviation,Pilot,Mechanical Engineering,1989
 Sverige,Manpower AB,Strategic account manager,Mechanical Engineering,1988
 Sverige,Maquet,Laboratory Manager,Mechanical Engineering,2005
@@ -3920,7 +4009,7 @@ Sverige,Network Danderyd Management AB,CEO,Mechanical Engineering,1984
 USA,"NeuCo, Inc",Sales Manager,Mechanical Engineering,1993
 Sverige,Neweng,R&D Systems Technician,Mechanical Engineering,2000
 Sverige,Nike Hydraulics,Production Manager,Mechanical Engineering,1997
-Sverige,Nilar,Technical Project Manager,Mechanical Engineering,1992
+Sverige,Nilar,Technical Project manager,Mechanical Engineering,1992
 Danmark,Nilfisk-Advance A/S,Quality Manager,Mechanical Engineering,1993
 Sverige,Nira Control AB,CTO,Mechanical Engineering,2002
 Sverige,Nobina,Purchasing Manager,Mechanical Engineering,1999
@@ -3929,7 +4018,7 @@ Sverige,Nomor AB,Environment and Quality Manager,Mechanical Engineering,2005
 Sverige,Nord Pool Spot AB,Manager,Mechanical Engineering,1999
 Sverige,Nord Pool Spot AB,Manager,Mechanical Engineering,1999
 Sverige,Nordea,Manager,Mechanical Engineering,1983
-Sverige,Nordea,Project Manager,Mechanical Engineering,
+Sverige,Nordea,Project manager,Mechanical Engineering,
 Sverige,Nordea,"Strategic Initiatives IT Treasury, Credit& Risk and IT Group Functions",Mechanical Engineering,1992
 Sverige,Nordea Markets,Business Analyst,Mechanical Engineering,2004
 Sverige,Nordic Airways,Maintenance Planner,Mechanical Engineering,2004
@@ -3951,7 +4040,7 @@ Sverige,OTW Publishing,Editor,Mechanical Engineering,2004
 Sverige,Överkalix kommun,Teacher,Mechanical Engineering,
 Sverige,OX2,Administration Manager,Mechanical Engineering,2013
 Sverige,Oxyma Innovation AB,Production Developer,Mechanical Engineering,2003
-Sverige,Oy Ovako AB,Project Manager,Mechanical Engineering,2005
+Sverige,Oy Ovako AB,Project manager,Mechanical Engineering,2005
 Sverige,Packetfront,CEO,Mechanical Engineering,1990
 Sverige,Passito AB,CEO,Mechanical Engineering,1996
 Sverige,Patent- och registreringsverket,Patent Engineer,Mechanical Engineering,2008
@@ -3960,8 +4049,8 @@ Sverige,Peab,Installation Coordination,Mechanical Engineering,1995
 Sverige,Pfizer,Process Developer,Mechanical Engineering,2001
 Sverige,Pfizer,Production Manager,Mechanical Engineering,1999
 Sverige,Pharmadule AB,Manager,Mechanical Engineering,1991
-Sverige,Pharmadule AB,Project Manager,Mechanical Engineering,1999
-Sverige,Pharmadule AB,Project Manager,Mechanical Engineering,1985
+Sverige,Pharmadule AB,Project manager,Mechanical Engineering,1999
+Sverige,Pharmadule AB,Project manager,Mechanical Engineering,1985
 Sverige,PHASEIN AB,Product Manager,Mechanical Engineering,2007
 Frankrike,PiaGab Traduction Technique,Manager,Mechanical Engineering,1985
 Sverige,Plockmatic International AB,Software developer,Mechanical Engineering,2009
@@ -3970,7 +4059,7 @@ Sverige,Pond,Consultant,Mechanical Engineering,2005
 Sverige,Posten AB,Solution Architect,Mechanical Engineering,1991
 Sverige,PostNord,Corporate Business Developer,Mechanical Engineering,1997
 Sverige,PostNord,Corporate Business Developer,Mechanical Engineering,1997
-Sverige,PRC Engineering AB,Project Manager,Mechanical Engineering,2004
+Sverige,PRC Engineering AB,Project manager,Mechanical Engineering,2004
 Sverige,Prevas,Consultant,Mechanical Engineering,2005
 Sverige,Prevas,Electronic Design Engineer,Mechanical Engineering,2009
 Sverige,Prevas,Manager,Mechanical Engineering,1986
@@ -3979,7 +4068,7 @@ Sverige,Proeza AB,Self Employed,Mechanical Engineering,2007
 Sverige,Profoto,Vice President ,Mechanical Engineering,2004
 Sverige,Project development,CEO,Mechanical Engineering,1987
 Sverige,Project managementt & Structuring AB,Consultant,Mechanical Engineering,1996
-Sverige,Project Manager,Project Manager,Mechanical Engineering,2006
+Sverige,Project manager,Project manager,Mechanical Engineering,2006
 Sverige,PROXIMION FIBER SYSTEMS AB,Developer,Mechanical Engineering,1983
 Sverige,PTC,Solution Architect,Mechanical Engineering,2001
 Sverige,Qbrick AB,Head of Professional Services,Mechanical Engineering,2005
@@ -4000,14 +4089,14 @@ Sverige,Renholmen AB,Design Engineer,Mechanical Engineering,
 Sverige,Require AB,Self Employed,Mechanical Engineering,2005
 Sverige,RFR Solutions,Director,Mechanical Engineering,1996
 Sverige,Riada AB,Consultant,Mechanical Engineering,1996
-Sverige,Rikspolisstyrelsen,Project Manager,Mechanical Engineering,2005
+Sverige,Rikspolisstyrelsen,Project manager,Mechanical Engineering,2005
 Sverige,Robert Bosch,Sales,Mechanical Engineering,2000
 Sverige,Robustus Wear Components,Chairman,Mechanical Engineering,
 Sverige,Robustus Wear Components,Chairman,Mechanical Engineering,
 Sverige,Rolls Royce,Commodity Leader,Mechanical Engineering,2005
 Tyskland,Rolls Royce,Manager,Mechanical Engineering,2002
 Sverige,Rörelse & Utveckling Organisationskonsulter,Consultant,Mechanical Engineering,1991
-Sverige,Roslagsvatten,VA-Project Manager,Mechanical Engineering,2001
+Sverige,Roslagsvatten,VA-Project manager,Mechanical Engineering,2001
 Sverige,Rule Communication,CEO,Mechanical Engineering,2005
 Sverige,Saab Group,CAE Engineer,Mechanical Engineering,2005
 Sverige,Saab Group,Design Engineer,Mechanical Engineering,2005
@@ -4015,7 +4104,7 @@ Sverige,Saab Group,Design Engineer,Mechanical Engineering,2006
 Sverige,Saab Group,Improvement and Audit Manager,Mechanical Engineering,1983
 Sverige,Saab Group,Maintenance Superintendent,Mechanical Engineering,2001
 Sverige,Saab Group,Portfolio Manager,Mechanical Engineering,2001
-Sverige,Saab Group,Project Manager,Mechanical Engineering,1990
+Sverige,Saab Group,Project manager,Mechanical Engineering,1990
 Sverige,Saab Group,Hull Constructor,Mechanical Engineering,2008
 Sverige,Saab Group,Software Architect,Mechanical Engineering,2003
 Sverige,Saab Group,System Developer,Mechanical Engineering,2007
@@ -4042,9 +4131,9 @@ Sverige,Sandvik,Production Manager,Mechanical Engineering,2000
 Sverige,Sandvik,Production Manager,Mechanical Engineering,2010
 Sverige,Sandvik,Production Manager,Mechanical Engineering,1996
 Sverige,Sandvik,Production Manager,Mechanical Engineering,2002
-Sverige,Sandvik,Project Manager,Mechanical Engineering,1993
-Sverige,Sandvik,Project Manager,Mechanical Engineering,2008
-Sverige,Sandvik,Researcher,Mechanical Engineering,1999
+Sverige,Sandvik,Project manager,Mechanical Engineering,1993
+Sverige,Sandvik,Project manager,Mechanical Engineering,2008
+Sverige,Sandvik,Research,Mechanical Engineering,1999
 Sverige,Sandvik,Sales Support Engineer,Mechanical Engineering,2003
 Sverige,Sandvik,Segment Manager,Mechanical Engineering,1986
 Sverige,Sandvik,Software developer,Mechanical Engineering,2004
@@ -4137,11 +4226,11 @@ Sverige,Scania,Production Technician,Mechanical Engineering,2008
 Sverige,Scania,Production Technician,Mechanical Engineering,2001
 Sverige,Scania,Project Coordinator,Mechanical Engineering,2004
 Sverige,Scania,Project Engineer,Mechanical Engineering,2006
-Sverige,Scania,Project Manager,Mechanical Engineering,1999
-Sverige,Scania,Project Manager,Mechanical Engineering,1988
-Sverige,Scania,Project Manager,Mechanical Engineering,2005
-Sverige,Scania,Project Manager,Mechanical Engineering,2009
-Sverige,Scania,Project Manager,Mechanical Engineering,2002
+Sverige,Scania,Project manager,Mechanical Engineering,1999
+Sverige,Scania,Project manager,Mechanical Engineering,1988
+Sverige,Scania,Project manager,Mechanical Engineering,2005
+Sverige,Scania,Project manager,Mechanical Engineering,2009
+Sverige,Scania,Project manager,Mechanical Engineering,2002
 Sverige,Scania,Tester of User Functions,Mechanical Engineering,2004
 Sverige,Scania,Sales development manager,Mechanical Engineering,1986
 Kina,Scania,Sales Engineer,Mechanical Engineering,2007
@@ -4160,14 +4249,14 @@ Sverige,Scania,Assignment Manager,Mechanical Engineering,2002
 Sverige,Scantool Michael Abrahamsa AB,CEO,Mechanical Engineering,1989
 Sverige,Schilling A/S,Country Manager,Mechanical Engineering,1995
 Sverige,Schneider Electric,IT Manager,Mechanical Engineering,1997
-Sverige,Schneider Electric ,Project Manager,Mechanical Engineering,1991
-Sverige,Schneider Electric ,Project Manager,Mechanical Engineering,1991
+Sverige,Schneider Electric ,Project manager,Mechanical Engineering,1991
+Sverige,Schneider Electric ,Project manager,Mechanical Engineering,1991
 Sverige,SciLifeLab,Laboratory Engineer,Mechanical Engineering,1999
 Sverige,SciLifeLab,Laboratory Engineer,Mechanical Engineering,1999
 Sverige,Skandinaviska Enskilda Banken,Business Developer,Mechanical Engineering,2001
 Sverige,Skandinaviska Enskilda Banken,Business Development Manager,Mechanical Engineering,2005
 Sverige,Skandinaviska Enskilda Banken,Credit Analyst,Mechanical Engineering,1987
-Sverige,Skandinaviska Enskilda Banken,Project Manager,Mechanical Engineering,2001
+Sverige,Skandinaviska Enskilda Banken,Project manager,Mechanical Engineering,2001
 Sverige,Seco Tools,Cad/Cam Engineer,Mechanical Engineering,1984
 Sverige,Secretariat of the UNFCCC,Program Manager,Mechanical Engineering,1990
 Sverige,Sectra,Production Technician,Mechanical Engineering,2003
@@ -4186,7 +4275,7 @@ Sverige,Siemens,CEO,Mechanical Engineering,1992
 Sverige,Siemens,Development Engineer,Mechanical Engineering,1993
 Sverige,Siemens,Manager,Mechanical Engineering,1999
 Sverige,Siemens,Product Manager,Mechanical Engineering,2000
-Sverige,Siemens,Project Manager,Mechanical Engineering,2000
+Sverige,Siemens,Project manager,Mechanical Engineering,2000
 Sverige,Siemens,Purchasing Manager,Mechanical Engineering,1991
 Sverige,Sigma,Manager,Mechanical Engineering,1999
 Sverige,SIS,Criteria Coordinator,Mechanical Engineering,1990
@@ -4194,19 +4283,19 @@ Sverige,SIS,MCR Engineer,Mechanical Engineering,2001
 Sverige,SIX Telekurs,Product Manager,Mechanical Engineering,2002
 Sverige,SJ,Manager,Mechanical Engineering,2006
 Sverige,SJ,Manager,Mechanical Engineering,1988
-Sverige,SJ,Project Manager,Mechanical Engineering,1989
-Sverige,SJ,Project Manager,Mechanical Engineering,1994
-Sverige,SJ,Project Manager,Mechanical Engineering,1994
+Sverige,SJ,Project manager,Mechanical Engineering,1989
+Sverige,SJ,Project manager,Mechanical Engineering,1994
+Sverige,SJ,Project manager,Mechanical Engineering,1994
 Sverige,Sjöfartsverket,Ship Inspector,Mechanical Engineering,2003
 Sverige,Sjöfartsverket,Seameasurer,Mechanical Engineering,2005
 Sverige,Sjöliv,Self Employed,Mechanical Engineering,1999
 Sverige,Sjöliv,Self Employed,Mechanical Engineering,1999
 Sverige,Skandia,Portfolio Manager,Mechanical Engineering,1995
-Sverige,Skandinavisk Termoekonomi AB,Project Manager,Mechanical Engineering,2002
+Sverige,Skandinavisk Termoekonomi AB,Project manager,Mechanical Engineering,2002
 Sverige,Skanska,Development Manager,Mechanical Engineering,1995
 Sverige,Skanska,Project Engineer,Mechanical Engineering,2005
 Sverige,Skanska,Assignment Manager,Mechanical Engineering,1991
-Sverige,Skatteverket,Project Manager,Mechanical Engineering,2004
+Sverige,Skatteverket,Project manager,Mechanical Engineering,2004
 Sverige,SKF,Account Director,Mechanical Engineering,1993
 Sverige,SLSO,Manager,Mechanical Engineering,1985
 Sverige,Smarttrust,Product Manager,Mechanical Engineering,1991
@@ -4220,7 +4309,7 @@ Sverige,SolTech Energy,Design Engineer,Mechanical Engineering,2006
 Sverige,Sony Ericsson,Acoustician,Mechanical Engineering,2006
 Sverige,Sony Ericsson,Sourcing Manager,Mechanical Engineering,1999
 Sverige,Sörman Information & Media,Information Engineer,Mechanical Engineering,2005
-Sverige,Sörman Information & Media,Project Manager,Mechanical Engineering,1991
+Sverige,Sörman Information & Media,Project manager,Mechanical Engineering,1991
 Sverige,Spendrups Bryggeri AB,Controller,Mechanical Engineering,2008
 Sverige,Spring,CEO,Mechanical Engineering,1990
 Sverige,SSAB,Developer,Mechanical Engineering,2007
@@ -4240,11 +4329,11 @@ Sverige,Stoneridge Electronics,Test Engineer,Mechanical Engineering,2004
 Sverige,Stora Enso,Manager,Mechanical Engineering,1992
 Sverige,Stora Enso,Mill Order Planing,Mechanical Engineering,1993
 Sverige,Studentconsulting,Forklift driver,Mechanical Engineering,
-Norge,Subsea 7,Project Manager,Mechanical Engineering,2009
+Norge,Subsea 7,Project manager,Mechanical Engineering,2009
 Sverige,Subsea 7,Rigid Pipeline Engineer,Mechanical Engineering,2007
 Sverige,Sundbybergs Stad,Project Coordinator,Mechanical Engineering,1986
 Sverige,Sundbybergs Stad,Project Coordinator,Mechanical Engineering,1986
-Sverige,Sundsvall Energi,Project Manager,Mechanical Engineering,2005
+Sverige,Sundsvall Energi,Project manager,Mechanical Engineering,2005
 Sverige,Svea,Vice President ,Mechanical Engineering,1992
 Sverige,Sveaskog,CEO,Mechanical Engineering,1980
 Sverige,Svenska Kraftnät,Head of Unit,Mechanical Engineering,1987
@@ -4252,16 +4341,16 @@ Sverige,Svenska Spel,Architect,Mechanical Engineering,1991
 Sverige,Svenska Spel,BI Manager,Mechanical Engineering,1992
 Sverige,Svenskt Kvalitetsindex,Analyst,Mechanical Engineering,2008
 Sverige,Sveriges Byggindustrier,IT Manager,Mechanical Engineering,2000
-Sverige,Sveriges Radio,Researcher,Mechanical Engineering,2000
-Sverige,Sweco,Project Manager,Mechanical Engineering,2009
+Sverige,Sveriges Radio,Research,Mechanical Engineering,2000
+Sverige,Sweco,Project manager,Mechanical Engineering,2009
 Sverige,Sweco,Consultant,Mechanical Engineering,2004
 Sverige,Sweco,Consultant,Mechanical Engineering,2011
 Sverige,Sweco,Group Manager,Mechanical Engineering,2002
-Sverige,Sweco,Project Manager,Mechanical Engineering,2004
+Sverige,Sweco,Project manager,Mechanical Engineering,2004
 Sverige,Sweco,Railway Assignment Manager,Mechanical Engineering,2006
 Sverige,Swedaiva,Commercial Manager,Mechanical Engineering,1986
 Sverige,Swedbank,IT Architect,Mechanical Engineering,1999
-Sverige,Swepro,Project Manager,Mechanical Engineering,1999
+Sverige,Swepro,Project manager,Mechanical Engineering,1999
 Sverige,Swisslog Accalon,Sales Manager,Mechanical Engineering,1994
 Sverige,Sylog Sverige AB,Consultant,Mechanical Engineering,2004
 Sverige,SYNTELL,Configuration Manager,Mechanical Engineering,2006
@@ -4276,7 +4365,7 @@ Sverige,Tacton Systems,Business Consultant,Mechanical Engineering,2013
 Sverige,Tacton Systems,Manager,Mechanical Engineering,1996
 Sverige,Tacton Systems,Modeler,Mechanical Engineering,2007
 Sverige,Tacton Systems,Product Manager,Mechanical Engineering,2009
-Sverige,Tacton Systems,Project Manager,Mechanical Engineering,2002
+Sverige,Tacton Systems,Project manager,Mechanical Engineering,2002
 Sverige,Tacton Systems,Vice President ,Mechanical Engineering,2003
 Sverige,Tacton Systems,Vice President ,Mechanical Engineering,2008
 Sverige,Tagmaster,Software developer,Mechanical Engineering,2008
@@ -4291,13 +4380,13 @@ Sverige,Technia,Business Consultant,Mechanical Engineering,2007
 Sverige,Technia,Director,Mechanical Engineering,
 Sverige,Technia,Director,Mechanical Engineering,
 Sverige,Technia,Director,Mechanical Engineering,1996
-Sverige,Technia,Project Manager,Mechanical Engineering,1994
-Sverige,Technia,Project Manager,Mechanical Engineering,1994
+Sverige,Technia,Project manager,Mechanical Engineering,1994
+Sverige,Technia,Project manager,Mechanical Engineering,1994
 Sverige,Technia,Sales Executive,Mechanical Engineering,1994
 Sverige,TechTeam SQM AB,Manager,Mechanical Engineering,1991
 Sverige,Tekla Software AB,Manager,Mechanical Engineering,1997
 Sverige,Teknikförvaltning i Stockholm AB,CEO,Mechanical Engineering,1984
-Sverige,Teknisk fastighets service AB,Project Manager,Mechanical Engineering,2003
+Sverige,Teknisk fastighets service AB,Project manager,Mechanical Engineering,2003
 Sverige,Telenor,Manager,Mechanical Engineering,1998
 Sverige,Telenor,Manager,Mechanical Engineering,1998
 Sverige,Telenor,Strategy Manager,Mechanical Engineering,2007
@@ -4306,11 +4395,11 @@ Sverige,TeliaSonera,Buyer,Mechanical Engineering,1993
 Sverige,TeliaSonera,CPO,Mechanical Engineering,1985
 Sverige,TeliaSonera,IT Manager,Mechanical Engineering,1989
 Sverige,TeliaSonera,Program Manager,Mechanical Engineering,2010
-Sverige,TeliaSonera,Project Manager,Mechanical Engineering,1993
-Sverige,TeliaSonera,Project Manager,Mechanical Engineering,2001
+Sverige,TeliaSonera,Project manager,Mechanical Engineering,1993
+Sverige,TeliaSonera,Project manager,Mechanical Engineering,2001
 Sverige,TeliaSonera,,Mechanical Engineering,1999
-Italien,Termochimica Impianti Srl.,Project Manager,Mechanical Engineering,2005
-Sverige,TFK,Project Manager,Mechanical Engineering,2004
+Italien,Termochimica Impianti Srl.,Project manager,Mechanical Engineering,2005
+Sverige,TFK,Project manager,Mechanical Engineering,2004
 Sverige,TH Konsult i Nybro AB,Consultant,Mechanical Engineering,1988
 USA,"The Linden Group, Inc.",CEO,Mechanical Engineering,
 Sverige,Thermia Värme AB,Laboratory Engineer,Mechanical Engineering,2006
@@ -4349,9 +4438,9 @@ Sverige,ValueIT AB,CEO,Mechanical Engineering,1999
 Sverige,Västerås Stad,Strategist,Mechanical Engineering,1990
 Sverige,Vattenfall,Asset Manager,Mechanical Engineering,2004
 Sverige,Vattenfall,Process Manager,Mechanical Engineering,1993
-Sverige,Vattenfall,Project Manager,Mechanical Engineering,1995
-Sverige,Vattenfall,Project Manager,Mechanical Engineering,1989
-Sverige,Vattenfall,Researcher,Mechanical Engineering,2000
+Sverige,Vattenfall,Project manager,Mechanical Engineering,1995
+Sverige,Vattenfall,Project manager,Mechanical Engineering,1989
+Sverige,Vattenfall,Research,Mechanical Engineering,2000
 Sverige,Vattenfall,Technical Advisor,Mechanical Engineering,1998
 Sverige,Vector Intelligence KB,CEO,Mechanical Engineering,1972
 Sverige,Verizon Business,Account Director,Mechanical Engineering,1996
@@ -4378,10 +4467,10 @@ Sverige,Volvo,Industrial Strategy Manager,Mechanical Engineering,1991
 Sverige,Volvo,Inventory Manager,Mechanical Engineering,1993
 Sverige,Volvo,Manager,Mechanical Engineering,2001
 Sverige,Volvo,Manager,Mechanical Engineering,1986
-Sverige,Volvo,Project Manager,Mechanical Engineering,1985
-Sverige,Volvo,Project Manager,Mechanical Engineering,2002
-Sverige,Volvo,Project Manager,Mechanical Engineering,2003
-Sverige,Volvo,Project Manager,Mechanical Engineering,1997
+Sverige,Volvo,Project manager,Mechanical Engineering,1985
+Sverige,Volvo,Project manager,Mechanical Engineering,2002
+Sverige,Volvo,Project manager,Mechanical Engineering,2003
+Sverige,Volvo,Project manager,Mechanical Engineering,1997
 Sverige,Volvo,System Manager,Mechanical Engineering,2006
 Sverige,Volvo,Trainee,Mechanical Engineering,2004
 Sverige,Volvo,Trainee,Mechanical Engineering,2006
@@ -4392,8 +4481,8 @@ Tyskland,WealthCap,Risk Manager,Mechanical Engineering,1987
 Sverige,Weatherford,Product Manager,Mechanical Engineering,2002
 Sverige,Westinghouse,Engineer,Mechanical Engineering,1997
 Sverige,Westinghouse,Operations Focus Lead,Mechanical Engineering,2002
-Sverige,Westinghouse,Project Manager,Mechanical Engineering,2006
-Sverige,Westinghouse,Technical Project Manager,Mechanical Engineering,2002
+Sverige,Westinghouse,Project manager,Mechanical Engineering,2006
+Sverige,Westinghouse,Technical Project manager,Mechanical Engineering,2002
 Sverige,Whitelines AB,CEO,Mechanical Engineering,1991
 Sverige,WM-data,Design Engineer,Mechanical Engineering,2002
 Sverige,Xdin,CAE Analyst,Mechanical Engineering,2008
@@ -4401,12 +4490,12 @@ Sverige,Xdin,Consultant,Mechanical Engineering,2006
 Sverige,Xdin,Consultant,Mechanical Engineering,2006
 Sverige,XLENT Consulting,Head of Media & Entertainment,Mechanical Engineering,1996
 Sverige,Yanzi Networks AB,Manager,Mechanical Engineering,2005
-Sverige,YIT Sverige AB,Project Manager,Mechanical Engineering,2006
+Sverige,YIT Sverige AB,Project manager,Mechanical Engineering,2006
 Sverige,YIT Sverige AB,Service Manager,Mechanical Engineering,2003
 Tyskland,ZF friedrichshafven,Vice President ,Mechanical Engineering,1998
 Sverige,AB Karosseritillbehör,Purchasing Manager,Media Technology,1997
 Sverige,ABB Group,Manager,Media Technology,1988
-Sverige,ABB Group,Project Manager,Media Technology,2011
+Sverige,ABB Group,Project manager,Media Technology,2011
 Sverige,Academic Work,Project Assistant,Media Technology,2006
 Sverige,Academic Work,Teacher,Media Technology,2013
 Storbritannien,Accedo Broadband AB,Software developer,Media Technology,2013
@@ -4423,7 +4512,7 @@ Sverige,Adlibris,Responsible for operational IT,Media Technology,2004
 Sverige,Advanze Consulting Group,Configuration Manager,Media Technology,1997
 Sverige,AerotechTelub AB,Environmental Engineer,Media Technology,2004
 Sverige,ÅF,Calculation Engineer,Media Technology,2005
-Sverige,ÅF,Project Manager,Media Technology,2005
+Sverige,ÅF,Project manager,Media Technology,2005
 Sverige,AGA Gas AB,Process Safety Specialist,Media Technology,1999
 Sverige,Aktiv Kapital,IT Support,Media Technology,
 Sverige,Alfa Laval,Service Center Manager,Media Technology,1997
@@ -4439,7 +4528,7 @@ Sverige,Atlas Copco,Development Engineer,Media Technology,2007
 Sverige,Atlas Copco,Materials Specialist,Media Technology,1994
 Sverige,Atlas Copco,Production Technician,Media Technology,2005
 Sverige,Avalanche Studios,Level Designer,Media Technology,2007
-Sverige,Avalon-Technology,Project Manager,Media Technology,2005
+Sverige,Avalon-Technology,Project manager,Media Technology,2005
 Norge,Avenir,Consultant,Media Technology,2005
 Sverige,Blidholm Vagnemark Design,Retail Brander,Media Technology,2006
 Indien,BombayWorks,Managing Director,Media Technology,2009
@@ -4458,7 +4547,7 @@ Sverige,Centigo,Consultant,Media Technology,2000
 Sverige,Centigo,Product Manager,Media Technology,2006
 Sverige,CGI,Consultant,Media Technology,2010
 USA,Citigroup Inc.,Vice President ,Media Technology,1997
-Sverige,Cobolt AB,Researcher,Media Technology,2006
+Sverige,Cobolt AB,Research,Media Technology,2006
 Sverige,Coca-Cola Drycker Sverige AB,Product Manager,Media Technology,2000
 Sverige,ComAround,Interaction Designer,Media Technology,2008
 Sverige,Community Entertainment Svenska AB,Art Director,Media Technology,2005
@@ -4469,18 +4558,18 @@ Sverige,Connecta,Digital Strategist,Media Technology,2005
 Sverige,Connecta,IT Consultant,Media Technology,2008
 Sverige,Consortio Development AB,Software developer,Media Technology,2009
 Sverige,Cortus AB,CEO,Media Technology,1987
-Sverige,CSC Sverige AB,Project Manager,Media Technology,1991
+Sverige,CSC Sverige AB,Project manager,Media Technology,1991
 Sverige,Cybercom,Business Area Manager,Media Technology,1992
 Sverige,Dagens Samhälle,Journalist,Media Technology,2001
 Sverige,Danieli,Sales Engineer,Media Technology,2005
-Sverige,Deakin University,Researcher,Media Technology,2003
+Sverige,Deakin University,Research,Media Technology,2003
 Norge,Delling Group AB,Production Manager,Media Technology,2005
 Sverige,Det Norske Veritas AB,Surveyor,Media Technology,1998
 Sverige,Diamond,Development Engineer,Media Technology,2006
 Sverige,Doxa,Development Engineer,Media Technology,2005
 Sverige,Dynabyte AB,Consultant,Media Technology,2008
 Sverige,Dynabyte AB,IT Consultant,Media Technology,2011
-Sverige,e-Centret,Project Manager,Media Technology,2005
+Sverige,e-Centret,Project manager,Media Technology,2005
 Sverige,EA,Development Director,Media Technology,2007
 Sverige,Electrolux,Software developer,Media Technology,1998
 Sverige,Elkem AS,Metallurgical,Media Technology,2006
@@ -4501,25 +4590,25 @@ Sverige,Fjord,Interaction Designer,Media Technology,2011
 Sverige,FM Global,Consultant,Media Technology,2000
 Sverige,Forefront Consulting Group,Web Development,Media Technology,2012
 Sverige,Försvarsmakten,Responsible for R&D,Media Technology,2001
-Sverige,Försvarsmakten,Project Manager,Media Technology,2008
-Sverige,Fred. Olsen,Project Manager,Media Technology,2004
-Sverige,Fred. Olsen,Project Manager,Media Technology,2004
+Sverige,Försvarsmakten,Project manager,Media Technology,2008
+Sverige,Fred. Olsen,Project manager,Media Technology,2004
+Sverige,Fred. Olsen,Project manager,Media Technology,2004
 Sverige,Funka Nu,Usability Specialist,Media Technology,2011
 Sverige,G4S,Sales Engineer,Media Technology,2002
 Norge,General Electric,Engineering Manager,Media Technology,2012
-Sverige,Gestamp HardTech AB,Researcher,Media Technology,1998
+Sverige,Gestamp HardTech AB,Research,Media Technology,1998
 Sverige,Global Utmaning,Web Manager,Media Technology,2005
 Sverige,GLV Sweden AB,Product Business Manager,Media Technology,2006
 Sverige,Grafiska Företagens Förbund,Market Surveillance,Media Technology,2007
-Sverige,H&M,Project Manager,Media Technology,2006
+Sverige,H&M,Project manager,Media Technology,2006
 Sverige,H&M,Requirements Analyst,Media Technology,2011
 Sverige,Haldex Traction AB,Manager,Media Technology,1993
 Kanada,HATCH,Director,Media Technology,1992
-Sverige,Headweb,Project Manager,Media Technology,2005
+Sverige,Headweb,Project manager,Media Technology,2005
 Sverige,Hermelin IT-partner AB,Developer,Media Technology,
 Sverige,HiQ,Consultant,Media Technology,2006
 Sverige,HiQ,Web Consultant,Media Technology,2009
-Sverige,hitta.se,Project Manager,Media Technology,2012
+Sverige,hitta.se,Project manager,Media Technology,2012
 Sverige,Husqvarna,Purchasing Director,Media Technology,1993
 USA,Hyperion Solutions,Principal Consultant,Media Technology,1994
 Sverige,Hyundai Mobis Parts Europe (Sweden),Marketing & Planning manager,Media Technology,2010
@@ -4545,13 +4634,13 @@ Sverige,Konsultbolag1,Consultant,Media Technology,2003
 Sverige,Kornboden/Lemontree,Software developer,Media Technology,2009
 Sverige,Royal Institute of Technology,PhD Student,Media Technology,2005
 Sverige,Royal Institute of Technology,PhD Student,Media Technology,2012
-Sverige,Royal Institute of Technology,Researcher,Media Technology,2012
+Sverige,Royal Institute of Technology,Research,Media Technology,2012
 Sverige,Kumpan AB,Self Employed,Media Technology,2004
 Sverige,Kungliga Vetenskapsakademin,Communications Officer,Media Technology,2010
 Sverige,Liber AB,System Manager,Media Technology,2004
-Sverige,Locum,Project Manager,Media Technology,1999
+Sverige,Locum,Project manager,Media Technology,1999
 Sverige,M.Bit Consuting AB,CEO,Media Technology,1997
-Sverige,MacGREGOR AB,Project Manager,Media Technology,2005
+Sverige,MacGREGOR AB,Project manager,Media Technology,2005
 Sverige,ManpowerGroup,Digital Manager,Media Technology,2006
 Sverige,Maquet,Test Manager,Media Technology,1998
 Sverige,MediaCom,Research Analyst,Media Technology,2002
@@ -4562,7 +4651,7 @@ Sverige,Milvik AB,CTO,Media Technology,2012
 Sverige,Monier Roofing AB,Innovation and Product Portfoilo Manager,Media Technology,1990
 Sverige,Mr Green,Product Designer,Media Technology,2007
 Sverige,MTG,Editor,Media Technology,2005
-Sverige,Mungo Digital,Project Manager,Media Technology,2007
+Sverige,Mungo Digital,Project manager,Media Technology,2007
 Sverige,Myndigheten för radio och tv,Technical Advisor,Media Technology,2011
 Sverige,Neducation Media AB,Creative Director,Media Technology,
 Sverige,Netcompetence Sweden AB,CEO,Media Technology,2006
@@ -4571,7 +4660,7 @@ Norge,Netlight Consulting,Consultant,Media Technology,2011
 Sverige,Netrelations,Software developer,Media Technology,2004
 Sverige,Netsurvey Bolinder AB,Head of technical operations,Media Technology,2004
 USA,Nilfisk Inc.,Vice President ,Media Technology,2000
-Kina,Nilsin,Marketing Researcher,Media Technology,2011
+Kina,Nilsin,Marketing Research,Media Technology,2011
 Österrike,Nolato,CEO,Media Technology,1994
 Sverige,Nord Konsult,Software developer,Media Technology,2011
 Sverige,Nortech AB,IT Manager,Media Technology,1997
@@ -4587,7 +4676,7 @@ Sverige,Outokumpu,Application Manager,Media Technology,2004
 Sverige,Outokumpu,Business Process Manager,Media Technology,1994
 Sverige,Outokumpu,Quality Engineer,Media Technology,2002
 Sverige,Outokumpu,Site Manager,Media Technology,1989
-Sverige,Ovako,Operation Researcher,Media Technology,2006
+Sverige,Ovako,Operation Research,Media Technology,2006
 Sverige,Ovako,Production Manager,Media Technology,2008
 Sverige,Ovako,Production Technician,Media Technology,2007
 Sverige,PA Consulting Group,Analyst,Media Technology,2005
@@ -4605,10 +4694,10 @@ Sverige,Pulsen Integration AB,Web Consultant,Media Technology,2005
 Sverige,RABB Grouple,Software developer,Media Technology,2012
 Sverige,Rebel & Bird,Growth Designer,Media Technology,
 Kina,Reckitt Benckiser Household (China),Trainee,Media Technology,2012
-Sverige,Rejlers,Project Manager,Media Technology,2004
+Sverige,Rejlers,Project manager,Media Technology,2004
 Sverige,Rexam beverage Can Fosie AB,EHS Manager,Media Technology,1987
 Sverige,River,Game Designer,Media Technology,2012
-Sverige,Rolls Royce,Project Manager,Media Technology,2001
+Sverige,Rolls Royce,Project manager,Media Technology,2001
 Sverige,Saab Group,Technical Assistance Manager,Media Technology,2008
 Sverige,SAM,Consultant,Media Technology,2010
 Sverige,Sandvik,Applications Specialist,Media Technology,2004
@@ -4619,19 +4708,19 @@ Sverige,Sandvik,Development Engineer,Media Technology,2002
 Sverige,Sandvik,Maintenance Superintendent,Media Technology,1992
 Sverige,Sandvik,Product Specialist,Media Technology,2007
 Sverige,Sandvik,QHSE- & Materials manager,Media Technology,2003
-Sverige,Sandvik,Researcher,Media Technology,2003
+Sverige,Sandvik,Research,Media Technology,2003
 Sverige,Sandvik,Sales Engineer,Media Technology,2009
 Sverige,Sandvik,Vice President ,Media Technology,1993
 Sverige,Sapa,Metallurgical,Media Technology,2007
 Sverige,Sapa,Production Manager,Media Technology,1993
-Sverige,Sapa,Researcher,Media Technology,2004
+Sverige,Sapa,Research,Media Technology,2004
 Sverige,Scania,Analyst,Media Technology,1999
 Sverige,Scania,Assignment Manager,Media Technology,2002
 Sverige,Scania,Communicator,Media Technology,1995
 Sverige,Scania,Development Engineer,Media Technology,1998
 Sverige,Scania,Information Security Consultant,Media Technology,1999
-Sverige,Scania,Project Manager,Media Technology,2004
-Sverige,Scania,Project Manager,Media Technology,2004
+Sverige,Scania,Project manager,Media Technology,2004
+Sverige,Scania,Project manager,Media Technology,2004
 Sverige,Scania,Sourcing Manager,Media Technology,
 Sverige,Scania,Sourcing Manager,Media Technology,2002
 Sverige,Scania,Specialist,Media Technology,2004
@@ -4643,7 +4732,7 @@ Sverige,Skandinaviska Enskilda Banken,Analyst,Media Technology,2005
 Sverige,Skandinaviska Enskilda Banken,Group Manager,Media Technology,2003
 Sverige,Skandinaviska Enskilda Banken,Group Manager,Media Technology,2003
 Sverige,Skandinaviska Enskilda Banken,Internal Consultant,Media Technology,1999
-Sverige,Seco Tools,Researcher,Media Technology,2006
+Sverige,Seco Tools,Research,Media Technology,2006
 Sverige,Seco Tools,System Responsible,Media Technology,1996
 Sverige,Self-employed,Digital Strategist,Media Technology,2007
 Tyskland,Self-employed,Poker Player,Media Technology,2007
@@ -4653,27 +4742,32 @@ Sverige,Siemens,Laboratory Manager,Media Technology,1989
 Sverige,Siemens,Materials Engineer,Media Technology,2004
 Sverige,Siemens,Product Manager,Media Technology,2004
 Sverige,Sigma,Information Engineer,Media Technology,2003
-Sverige,SIS,Project Manager,Media Technology,2004
-Sverige,SIS,Project Manager,Media Technology,2000
+Sverige,SIS,Project manager,Media Technology,2004
+Sverige,SIS,Project manager,Media Technology,2000
 Sverige,Skandia,Web Analyst,Media Technology,2006
 Sverige,SKF,CEO,Media Technology,1989
-Sverige,Spectrogon AB,Researcher,Media Technology,1996
+Sverige,Spectrogon AB,Research,Media Technology,1996
 Sverige,Spotify,Design Manager,Media Technology,2005
 Sverige,SSAB,Production Developer,Media Technology,2004
 Sverige,Stockholms Universitet,DSA,Media Technology,2004
-Sverige,Sublime,Project Manager,Media Technology,2008
+Sverige,Sublime,Project manager,Media Technology,2008
 Sverige,Sundraia,Manager,Media Technology,
 Sverige,Svenska Kraftnät,Project Developer,Media Technology,2000
 Sverige,Svenska Kraftnät,Project Developer,Media Technology,2000
 Sverige,Sveriges Radio,System Engineer,Media Technology,
 Sverige,Sveriges Television,Transmission Engineer,Media Technology,
+<<<<<<< HEAD
 Sverige,Sveriges Television,Software developer,Media Technology,2008
 Sverige,Sveriges Television,Technical Project Manager,Media Technology,2006
+=======
+Sverige,Sveriges Television,Software Developer,Media Technology,2008
+Sverige,Sveriges Television,Technical Project manager,Media Technology,2006
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Swedbank,Administrator,Media Technology,2010
-Sverige,Swedish Medtech,Project Manager,Media Technology,2008
+Sverige,Swedish Medtech,Project manager,Media Technology,2008
 Sverige,Swedish Qualification Centre AB,Test Engineer,Media Technology,1992
-Sverige,Swerea KIMAB AB,Researcher,Media Technology,2007
-Norge,Sykehuspartner,Project Manager,Media Technology,2008
+Sverige,Swerea KIMAB AB,Research,Media Technology,2007
+Norge,Sykehuspartner,Project manager,Media Technology,2008
 Sverige,Systembolaget,Category Manager,Media Technology,2006
 Sverige,TCO,Editor-In-Chief,Media Technology,2004
 Norge,Tech Dr. Olav Olsen as,Quality Engineer,Media Technology,1997
@@ -4691,13 +4785,13 @@ USA,The Florida State University,Visiting Scholar Scientist,Media Technology,200
 Sverige,Tibnor AB,Head of Key Account Management,Media Technology,2002
 Sverige,Tidningen Vi,Market Coordinator,Media Technology,2005
 Sverige,Tierra Products,Product Developer,Media Technology,2004
-Sverige,Tieto,Project Manager,Media Technology,
+Sverige,Tieto,Project manager,Media Technology,
 Sverige,Tingeer,CTO,Media Technology,2012
 Sverige,Tobii,Test Engineer,Media Technology,2011
 Sverige,TPC Components AB,Process Engineer,Media Technology,2006
 Sverige,Trafikverket,Materials Engineer,Media Technology,2004
 Sverige,Tranter International AB,Design Engineer,Media Technology,2004
-Sverige,Trelleborg Protective Products AB,Project Manager,Media Technology,1993
+Sverige,Trelleborg Protective Products AB,Project manager,Media Technology,1993
 Sverige,TV5,Analyst,Media Technology,2007
 Sverige,Tyco Electronics Logistics AG,Process Engineer,Media Technology,1990
 Schweiz,UBS,Group Manager,Media Technology,
@@ -4717,7 +4811,7 @@ Sverige,WSP ,Consultant,Media Technology,2006
 Sverige,Xdin,Application Engineer,Media Technology,2004
 Sverige,Yarrow Consulting,Sales Manager,Media Technology,1994
 Sverige,ABB Group,ERP Architect,Vehicle Engineering,1993
-Sverige,ABB Group,Project Manager,Vehicle Engineering,2006
+Sverige,ABB Group,Project manager,Vehicle Engineering,2006
 Sverige,ACAD-International AB,Acoustician,Vehicle Engineering,2012
 Sverige,ACAD-International AB,Acoustician,Vehicle Engineering,2001
 Sverige,Accenture,Analyst,Vehicle Engineering,2007
@@ -4731,7 +4825,7 @@ Sverige,Affecto (tidigare (Intellibis),Group Manager,Vehicle Engineering,2005
 Sverige,Aftonbladet,Software developer,Vehicle Engineering,2006
 Frankrike,Airbus,Area Sales Director,Vehicle Engineering,1997
 Frankrike,Airbus,Ariane 5 mission analysis,Vehicle Engineering,2013
-Sverige,Alfa Laval,Project Manager,Vehicle Engineering,1993
+Sverige,Alfa Laval,Project manager,Vehicle Engineering,1993
 Tyskland,Alten,Consultant,Vehicle Engineering,2009
 Frankrike,Altran Technologies,Vehicle Engineer,Vehicle Engineering,2011
 Sverige,Approach AB,Consultant,Vehicle Engineering,2004
@@ -4742,9 +4836,9 @@ Sverige,Autoliv Sverige AB,Calculation Engineer,Vehicle Engineering,2007
 Sverige,Autoliv Sverige AB,Group Manager,Vehicle Engineering,2000
 Sverige,Aveva AB,Naval Architect,Vehicle Engineering,2000
 Sverige,AVL,Certification Engineer,Vehicle Engineering,2010
-Sverige,AVL,Project Manager,Vehicle Engineering,2001
+Sverige,AVL,Project manager,Vehicle Engineering,2001
 Sverige,Axel Larsson,Product Manager,Vehicle Engineering,2005
-Sverige,Axis Communications,Project Manager,Vehicle Engineering,1993
+Sverige,Axis Communications,Project manager,Vehicle Engineering,1993
 Sverige,BAE Systems,Sales Engineer,Vehicle Engineering,1998
 Sverige,Billerud AB,Corporate Logistics Manager,Vehicle Engineering,2010
 Sverige,Bjerkéns Patentbyå KB,Patent Engineer,Vehicle Engineering,1990
@@ -4770,7 +4864,7 @@ Frankrike,Dassault Aviation,Customer Support,Vehicle Engineering,2007
 Sverige,Dematek AB,Product Manager,Vehicle Engineering,1990
 Sverige,Det Norske Veritas AB,Country Manager,Vehicle Engineering,1998
 Sverige,Det Norske Veritas AB,Sales Manager,Vehicle Engineering,1993
-Tyskland,Deutsches Zentrum für Luft- und Raumfahrt,Researcher,Vehicle Engineering,2012
+Tyskland,Deutsches Zentrum für Luft- und Raumfahrt,Research,Vehicle Engineering,2012
 Sverige,Deventech AB,CEO,Vehicle Engineering,1990
 Sverige,Diamond,Product Engineer,Vehicle Engineering,2008
 Sverige,Dicom Datautveckling AB,Vice President ,Vehicle Engineering,1992
@@ -4779,7 +4873,7 @@ Sverige,e-AAM Driveline Systems AB,Technical Lead,Vehicle Engineering,2006
 Frankrike,EDF,Thermohydraulic Engineer,Vehicle Engineering,2011
 Sverige,Electrolux,Controller,Vehicle Engineering,1994
 Sverige,Electrolux,Manager,Vehicle Engineering,2007
-Sverige,Electrolux,Project Manager,Vehicle Engineering,2007
+Sverige,Electrolux,Project manager,Vehicle Engineering,2007
 Sverige,Elsip AB,CEO,Vehicle Engineering,1988
 Sverige,Enermet,Manager,Vehicle Engineering,2002
 Frankrike,ENS de Lyon,Postdoctoral,Vehicle Engineering,2006
@@ -4797,7 +4891,7 @@ Belgien,Europeiska kommissionen,Scientific Officer,Vehicle Engineering,1988
 Norge,EVRY,Manager,Vehicle Engineering,
 Norge,FINN.no,Software developer,Vehicle Engineering,1995
 Sverige,fischer partner fondkommission,Trader,Vehicle Engineering,2000
-Sverige,FMV,Project Manager,Vehicle Engineering,1997
+Sverige,FMV,Project manager,Vehicle Engineering,1997
 Sverige,Försvarshögskolan,Research Assistant,Vehicle Engineering,2008
 Sverige,Försvarsmakten,Captain,Vehicle Engineering,2006
 Sverige,Försvarsmakten,Development Engineer,Vehicle Engineering,2002
@@ -4821,7 +4915,7 @@ Sverige,Kockums AB,Architect,Vehicle Engineering,1998
 Sverige,Kockums AB,System Engineer,Vehicle Engineering,2004
 Sverige,Kongsberg Automotive,Design Engineer,Vehicle Engineering,2010
 Norge,Kongsberg Devotek AS,Project Engineer,Vehicle Engineering,2012
-Sverige,Konsult,Project Manager,Vehicle Engineering,2003
+Sverige,Konsult,Project manager,Vehicle Engineering,2003
 Sverige,Royal Institute of Technology,PhD Student,Vehicle Engineering,2012
 Sverige,Royal Institute of Technology,PhD Student,Vehicle Engineering,2012
 Sverige,Royal Institute of Technology,Postdoctoral,Vehicle Engineering,2005
@@ -4847,25 +4941,30 @@ Sverige,Müller-BBM Scandinavia AB,Specialist,Vehicle Engineering,1998
 Sverige,NextJet,Pilot,Vehicle Engineering,2009
 Sverige,Nitro Consult AB,Consultant,Vehicle Engineering,2009
 Sverige,Nohup AB,Open Source Konsult,Vehicle Engineering,1991
-Sverige,Nordbro AB,Project Manager,Vehicle Engineering,1992
+Sverige,Nordbro AB,Project manager,Vehicle Engineering,1992
 Sverige,Nordea,Advisor,Vehicle Engineering,
 Tyskland,NTTDATA,PLM Consultant,Vehicle Engineering,2008
 Sverige,Objekttrafiken,Test Engineer,Vehicle Engineering,
 Norge,Oceaneering,Integrity Engineer,Vehicle Engineering,2010
 Sverige,ONE Nordic,Design Engineer,Vehicle Engineering,2011
+<<<<<<< HEAD
 Spanien,ONERA,Researcher,Vehicle Engineering,2005
 Sverige,Optilium,Software developer,Vehicle Engineering,2002
+=======
+Spanien,ONERA,Research,Vehicle Engineering,2005
+Sverige,Optilium,Software Developer,Vehicle Engineering,2002
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Öresundskraft,Manager,Vehicle Engineering,1992
 Sverige,Österby Gjuteri / MJP Waterjets,Sales Engineer,Vehicle Engineering,2003
 Sverige,PA Consulting Group,Manager,Vehicle Engineering,1989
 Sverige,Paynova AB,CIO,Vehicle Engineering,1995
 Sverige,Payzone Nordic,Manager,Vehicle Engineering,2014
 Sverige,PERIFORM,Chief Engineer,Vehicle Engineering,1993
-Sverige,Permobil AB,Project Manager,Vehicle Engineering,2003
+Sverige,Permobil AB,Project manager,Vehicle Engineering,2003
 Norge,Pointer,Consultant,Vehicle Engineering,2006
 Sverige,PRIMUS AB,Product Manager,Vehicle Engineering,2004
 Sverige,Professional Consulting,Mechanical Design Engineer,Vehicle Engineering,2012
-Sverige,Ragn-Sells,Project Manager,Vehicle Engineering,2007
+Sverige,Ragn-Sells,Project manager,Vehicle Engineering,2007
 Sverige,Reinertsen AS,Pipeline Engineer,Vehicle Engineering,2008
 Frankrike,Renault SA,System Engineer,Vehicle Engineering,2004
 Sverige,Rikspolisstyrelsen,Group Manager,Vehicle Engineering,1999
@@ -4883,7 +4982,7 @@ Sverige,Saab Group,Engineer Airframe,Vehicle Engineering,2009
 Sverige,Saab Group,Head of Special Mission Aircraft and Commercial Aircraft Programs,Vehicle Engineering,1991
 Sverige,Saab Group,Maintenance Engineer,Vehicle Engineering,2004
 Sverige,Saab Group,Engineer,Vehicle Engineering,2006
-Sverige,Saab Group,Project Manager,Vehicle Engineering,1990
+Sverige,Saab Group,Project manager,Vehicle Engineering,1990
 Sverige,Saab Group,Head of Department,Vehicle Engineering,1990
 Sverige,Saab Group,System Engineer,Vehicle Engineering,2004
 Sverige,Saab Group,System Engineer,Vehicle Engineering,2001
@@ -4894,7 +4993,7 @@ Frankrike,Safran,Performance Engineer,Vehicle Engineering,2012
 Sverige,Saltech Consultants AB,Naval Architect,Vehicle Engineering,2007
 Sverige,Saltech Consultants AB,Ships Technical Consultant,Vehicle Engineering,2002
 Schweiz,SAM,Manager,Vehicle Engineering,1994
-Sverige,Sandvik,Project Manager,Vehicle Engineering,2006
+Sverige,Sandvik,Project manager,Vehicle Engineering,2006
 Norge,SAS,Manager,Vehicle Engineering,1996
 Sverige,Scandinavian Airlines System,Revenue Analyst,Vehicle Engineering,2007
 Sverige,Scania,Calculation Engineer,Vehicle Engineering,2006
@@ -4907,8 +5006,13 @@ Sverige,Scania,Development Engineer,Vehicle Engineering,2007
 Sverige,Scania,Engineer,Vehicle Engineering,2003
 Sverige,Scania,Group Manager,Vehicle Engineering,1997
 Sverige,Scania,Production Manager,Vehicle Engineering,2007
+<<<<<<< HEAD
 Sverige,Scania,Project Manager,Vehicle Engineering,1987
 Sverige,Scania,Software developer,Vehicle Engineering,2009
+=======
+Sverige,Scania,Project manager,Vehicle Engineering,1987
+Sverige,Scania,Software Developer,Vehicle Engineering,2009
+>>>>>>> 0d7ac2c12007a95c7c2b5c6cf8de3de32e5aed36
 Sverige,Scania,Sourcing Manager,Vehicle Engineering,2009
 Sverige,Scania,Test Engineer,Vehicle Engineering,2007
 Sverige,Scania,Test Manager,Vehicle Engineering,2009
@@ -4933,10 +5037,10 @@ Sverige,Sörman Information & Media,ILS Engineer,Vehicle Engineering,2003
 USA,Spring,"President, CEO and Co-Founder ",Vehicle Engineering,2004
 Norge,SPT Group,Consultant,Vehicle Engineering,1989
 Sverige,SSP( Scandinavien Service Partner).,Bartender,Vehicle Engineering,2012
-Sverige,SSPA Sweden AB,Project Manager,Vehicle Engineering,2002
+Sverige,SSPA Sweden AB,Project manager,Vehicle Engineering,2002
 Sverige,SSPA Sweden AB,Technical Consultant,Vehicle Engineering,2012
 Sverige,"STARCS, Sjöland&Thyselius Aerodynamics Research Center AB",Aerodynamics Engineer,Vehicle Engineering,2006
-USA,Statoil,Project Manager,Vehicle Engineering,2006
+USA,Statoil,Project manager,Vehicle Engineering,2006
 Sverige,Stockholms Universitet,Associate Professor,Vehicle Engineering,1991
 Sverige,Stoneridge Electronics,Product Strategy Manager,Vehicle Engineering,1997
 Sverige,Strålsäkerhetsmyndigheten,Investigator,Vehicle Engineering,2003
@@ -4946,7 +5050,7 @@ Sverige,Sunfab Hydraulics AB,Development Engineer,Vehicle Engineering,2006
 Tyskland,Suzlon Energy Gmbh,Patent Engineer,Vehicle Engineering,2009
 Sverige,Svensk Bevakningstjänst,Emergency Operation Engineer,Vehicle Engineering,2011
 Sverige,Svenska Statoil,OEM coordinator,Vehicle Engineering,2008
-Sverige,Sweco,Project Manager,Vehicle Engineering,2008
+Sverige,Sweco,Project manager,Vehicle Engineering,2008
 Sverige,Swedaiva,Manager,Vehicle Engineering,1994
 Sverige,Sweden Yachts AB,CEO,Vehicle Engineering,1987
 Sverige,Systecon AB,Specialist,Vehicle Engineering,2010
@@ -4957,7 +5061,7 @@ Sverige,Teracom,Manager,Vehicle Engineering,
 Sverige,Teracom,Operating Officer,Vehicle Engineering,1989
 Sverige,Teracom,Operating Officer,Vehicle Engineering,1989
 Sverige,Tetra Pak,Key Technology Manager,Vehicle Engineering,1990
-Sverige,TFK,Researcher,Vehicle Engineering,2005
+Sverige,TFK,Research,Vehicle Engineering,2005
 Norge,Thinfilm Electronics ASA,CFO,Vehicle Engineering,2003
 Sverige,Tonium AB,Software Designer,Vehicle Engineering,1998
 Schweiz,Total SA,General Manager Products Trading and Risk Management,Vehicle Engineering,1987
@@ -4983,5 +5087,5 @@ Sverige,WSP ,Group Manager,Vehicle Engineering,1993
 Sverige,Xdin,CAE Consultant,Vehicle Engineering,2011
 Sverige,Xdin,Consultant,Vehicle Engineering,2010
 Sverige,Xdin,Manager,Vehicle Engineering,2007
-Sverige,Xylem,Project Manager,Vehicle Engineering,1999
+Sverige,Xylem,Project manager,Vehicle Engineering,1999
 Sverige,Yokohama National University,JSPS Research fellow,Vehicle Engineering,2011
